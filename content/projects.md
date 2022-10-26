@@ -18,7 +18,7 @@ The following page contains all the various projects that I've been working on o
 ### Colab Notebooks
 
 #### AI Art 
-* asdfasdf
+* Deep Learning Art 
 
 ### Observable Notebooks
 
