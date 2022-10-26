@@ -1,0 +1,12 @@
+[submodule "starter-hugo-academic"]
+	path = starter-hugo-academic
+	url = https://github.com/wowchemy/starter-hugo-academic.git
+[submodule "themes/starter-hugo-academic"]
+	path = themes/starter-hugo-academic
+	url = https://github.com/wowchemy/starter-hugo-academic.git
+[submodule "beautifulhugo"]
+	path = beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
