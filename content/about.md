@@ -10,7 +10,9 @@ comment: false
 mathjax: false
 ---
 
-Hi! My name is Chris Ried and I am a technologist who loves to learn and dabbles with quite a bit of different projects.
+Hi! My name is Chris Ried and I am a technologist who loves to learn. I've spent much of the last 10 years exploring many different mediums and applications. 
+
+![Peruvian Swim](/images/river_chris.jpg#center)
 
 # Observable Notebooks
 

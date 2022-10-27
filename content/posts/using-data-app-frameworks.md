@@ -6,9 +6,7 @@ tags: [
     "data"
 ]
 categories: [
-    "Development",
-    "golang",
-    "index",
+
 ]
 ---
 
