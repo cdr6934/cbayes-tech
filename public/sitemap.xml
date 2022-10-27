@@ -26,13 +26,7 @@
     <loc>https://chrisried.xyz/categories/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chrisried.xyz/posts/creating-a-new-theme/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chrisried.xyz/posts/using-observable-for-data-science/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/data/</loc>
@@ -59,10 +53,16 @@
     <loc>https://chrisried.xyz/categories/index/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://chrisried.xyz/posts/using-observable-for-data-science/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chrisried.xyz/posts/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/posts/using-data-app-frameworks/</loc>

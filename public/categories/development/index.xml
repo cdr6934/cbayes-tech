@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Development on Chris Ried</title>
+    <title>Development on Technical Portfolio of Chris Ried</title>
     <link>https://chrisried.xyz/categories/development/</link>
-    <description>Recent content in Development on Chris Ried</description>
+    <description>Recent content in Development on Technical Portfolio of Chris Ried</description>
     <image>
       <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -31,21 +31,21 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://chrisried.xyz/posts/using-observable-for-data-science/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/posts/using-observable-for-data-science/</guid>
-      <description> https://cdr6934-introtodatavis-streamlit-anxiety-app-xi1zv8.streamlitapp.com/ </description>
-    </item>
-    
-    <item>
       <title>Data Notebooks Landscape (2022)</title>
       <link>https://chrisried.xyz/posts/data-notebook-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/posts/data-notebook-landscape-2022/</guid>
       <description>More to come!!</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Visualization</title>
+      <link>https://chrisried.xyz/posts/using-observable-for-data-science/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/using-observable-for-data-science/</guid>
+      <description> https://cdr6934-introtodatavis-streamlit-anxiety-app-xi1zv8.streamlitapp.com/ </description>
     </item>
     
     <item>
