@@ -14,7 +14,7 @@ categories: [
 
 The following post provides some context around the many many different technologies that are currently out there in the blockchain space. Much of these are changing on a monthly basis with new things coming out all the time. So I thought it might be good to have a document that tries to compile what this landscape currently looks like in 2022. 
 
-
+{{< myshortcode >}}
 
 ## Value Store Blockchain 
 * Bitcoin - 
