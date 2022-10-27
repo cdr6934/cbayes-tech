@@ -12,7 +12,6 @@ mathjax: false
 
 Hi! My name is Chris Ried and I am a technologist who loves to learn. I've spent much of the last 10 years exploring many different mediums and applications. 
 
-![Peruvian Swim](/images/river_chris.jpg#center)
+![Peruvian Swim](https://www.dropbox.com/s/u1cscd50rcnoo7c/river_chris.jpg?raw=1)
 
-# Observable Notebooks
 
