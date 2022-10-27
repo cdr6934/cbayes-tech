@@ -2,17 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2022-10-26T14:08:33-05:00</lastmod>
+    <loc>https://chrisried.xyz/about/</loc>
+    <lastmod>2022-10-26T21:41:52+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-10-26T14:08:33-05:00</lastmod>
+    <loc>https://chrisried.xyz/projects/</loc>
+    <lastmod>2022-10-26T21:41:52+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-10-26T14:08:33-05:00</lastmod>
+    <loc>https://chrisried.xyz/resume/</loc>
+    <lastmod>2022-10-26T21:41:52+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://chrisried.xyz/writings/</loc>
+    <lastmod>2022-10-26T21:41:52+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://chrisried.xyz/tags/blockchain/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/blockchain-landscape/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/blog/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/creating-a-new-theme/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/using-observable-for-data-science/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/data/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/data-notebook-landscape-2022/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/data-science/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/data-science-in-business/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/development/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/go/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/golang/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/index/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/using-data-app-frameworks/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/web3/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/web3-landscape-2022/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url>
 </urlset>

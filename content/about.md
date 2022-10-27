@@ -12,5 +12,5 @@ mathjax: false
 
 I'm actually pretty boring, however I enjoy being able to provide useful information for others to think about and try.
 
-# Observable Notebook
+# Observable Noteboos
 
