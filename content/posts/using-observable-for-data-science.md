@@ -1,7 +1,7 @@
 ---
 author: "Chris Ried"
 date: 2022-10-26
-title: "Creating a New Theme"
+title: "Introduction to Data Visualization"
 tags: [
     "go"
 ]

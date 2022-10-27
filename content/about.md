@@ -10,7 +10,7 @@ comment: false
 mathjax: false
 ---
 
-I'm actually pretty boring, however I enjoy being able to provide useful information for others to think about and try.
+Hi! My name is Chris Ried and I am a technologist who loves to learn and dabbles with quite a bit of different projects.
 
-# Observable Noteboos
+# Observable Notebooks
 
