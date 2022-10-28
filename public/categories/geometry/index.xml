@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>geometry on Technical Portfolio of Chris Ried</title>
+    <link>https://chrisried.xyz/categories/geometry/</link>
+    <description>Recent content in geometry on Technical Portfolio of Chris Ried</description>
+    <image>
+      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/categories/geometry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimum Distance between a Point and a Line</title>
+      <link>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point-line/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point-line/</guid>
+      <description>This has been transcribed from an earlier post of the internet. I felt as though it might be good to rewrite and also include some of the information that is part of the
+This note describes the technique and gives the solution to finding the shortest distance from a point to a line or line segment. The equation of a line defined through two points \(P_1\) \((x1,y1)\) and \(P_2\) \((x2,y2)\) is</description>
+    </item>
+    
+  </channel>
+</rss>

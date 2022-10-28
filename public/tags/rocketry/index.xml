@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rocketry on Technical Portfolio of Chris Ried</title>
+    <link>https://chrisried.xyz/tags/rocketry/</link>
+    <description>Recent content in rocketry on Technical Portfolio of Chris Ried</description>
+    <image>
+      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/rocketry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rocket Propulsion</title>
+      <link>https://chrisried.xyz/posts/rocket-propolsion/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/rocket-propolsion/</guid>
+      <description>library(tidyverse) Accelerating force
+$$ F=mv_e $$ thrust of the rocket is expressed in terms of the *mass flow rate * m and the efficient exhaust velocity \(v_e\)
+$$ V = V_e\log_e\frac{M_0}{M} $$ $M_0$ - mass of the rocket at ignition $M$ - Current mass of the rocket
+mass ratio $$ R = \frac{M_0}{M} $$
+AcceleratedForce &amp;lt;- function(m,v.e) { m*v.e } RocketEquation &amp;lt;- function(mass.ratio, exhaust.velocity) { exhaust.velocity*log(mass.ratio, base = exp(1)) } RocketEquationGraph &amp;lt;- data.</description>
+    </item>
+    
+  </channel>
+</rss>

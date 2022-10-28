@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>statistics on Technical Portfolio of Chris Ried</title>
+    <link>https://chrisried.xyz/tags/statistics/</link>
+    <description>Recent content in statistics on Technical Portfolio of Chris Ried</description>
+    <image>
+      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips on Feature Engineering</title>
+      <link>https://chrisried.xyz/posts/2017-10-08-feature-engineering/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/2017-10-08-feature-engineering/</guid>
+      <description>Tips on Feature Engineering to fit how classifiers work; giving a geometry problem to a tree, oversized dimension to a kNN and interval data to an SVM are not a good ideas remove as much nonlinearities as possible; expecting that some classifier will do Fourier analysis inside is rather naive (even if, it will waste a lot of complexity there) make features generic to all objects so that some sampling in the chain won&amp;rsquo;t knock them out check previous works &amp;ndash; often transformation used for visualisation or testing similar types of data is already tuned to uncover interesting aspects avoid unstable, optimizing transformations like PCA which may lead to overfitting experiment a lot </description>
+    </item>
+    
+    <item>
+      <title>Great Statistics Books to Read</title>
+      <link>https://chrisried.xyz/posts/great-statistics-books-to-read/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/great-statistics-books-to-read/</guid>
+      <description>Following you will find a number of the best books to learn more about statistics and its philosophy.
+Opinionated Lessons on Statistics Introduction to Statistical Learning The Elements of Statistical Learning Applied Predicitive Modeling Statistical Inference Statistical Rethinking Data Analysis Using Regression and Multilevel/Hierarchical Models Mostly Harmless Econometrics Mastering Metrics: The Path from Cause to Effect All of Statistics Statistics Statistics for Experimenters Think Bayes Computer Age Statistical Inference Think Stats Machine Learning for Hackers Probability and Statistics Statistical Evidence: A likelihood paradigm </description>
+    </item>
+    
+    <item>
+      <title>AB Testing in R from Scratch</title>
+      <link>https://chrisried.xyz/posts/ab-testing-in-r-from-scratch/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/ab-testing-in-r-from-scratch/</guid>
+      <description>Using Bayesian Systems Quantify the probability of all possibilites thus measuring risk insert institutional knowledge (add knowledge that changes the probability) learn in an online fashion A/B Testing with Approximate Bayesian Computation No mathematics required able to implement from scratch A/B Testing Measures and figures out the better design
+Approximate Bayesian Computation
+Generate a trial value for the thing we want to know (in this case its the conversion fraction of a layout) Simulate or data assuming the trail value, keep the trial value, otherwise discard it and try again If the simulation looks like the real data, keep the trial value, otherwise discard and try again Keep doing this until we&amp;rsquo;ve got lots of trial values that worked library(progress) library(ggplot2) library(reshape2) # Variables n_visitors_a &amp;lt;- 100 # number of visitors shown layout A n_conv_a &amp;lt;- 4 # number of vistors shown layout A who converted (4%) n_visitors_b &amp;lt;- 40 n_conv_b &amp;lt;- 2 Using Bayesian Systems</description>
+    </item>
+    
+  </channel>
+</rss>

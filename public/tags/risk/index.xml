@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>risk on Technical Portfolio of Chris Ried</title>
+    <link>https://chrisried.xyz/tags/risk/</link>
+    <description>Recent content in risk on Technical Portfolio of Chris Ried</description>
+    <image>
+      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/risk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Catch Fraud with Deep Learning</title>
+      <link>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</guid>
+      <description>Fraud continues to be an important topic in the financial world helping detect when funds are mismanaged.
+Nilson reports that U.S. card fraud (credit, debt, etc) was reportedly $9 billion in 2016 and expected to increase to $12 billion by 2020. Due to these nefarious acts; it is in the best interest of any organization to ensure the work of most customers. Thus it is appropriate to respond to this fraud.</description>
+    </item>
+    
+  </channel>
+</rss>

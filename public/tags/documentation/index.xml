@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>documentation on Technical Portfolio of Chris Ried</title>
+    <link>https://chrisried.xyz/tags/documentation/</link>
+    <description>Recent content in documentation on Technical Portfolio of Chris Ried</description>
+    <image>
+      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeseries Analysis Using R and Advantager</title>
+      <link>https://chrisried.xyz/posts/timeseries-analysis-using-r-and-advantager/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/timeseries-analysis-using-r-and-advantager/</guid>
+      <description>Threw error due to the API In the past, the best way to get stock prices was to use either Google Finance or Yahoo Finance data streams. These have since become difficult to keep up to date and thus another outlet to get this information is AlphaVantager. Following is a simple R implementation to get up to date data. You will be able to thus use this to find the information.</description>
+    </item>
+    
+    <item>
+      <title>Tips on Creating Effective and Functional Documentation in R</title>
+      <link>https://chrisried.xyz/posts/tips-creating-functional-documention/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/tips-creating-functional-documention/</guid>
+      <description>Just like any skill, there is a learning curve involved in creating effective communication. This involves the code written and the documentation of its usage. Writing functional code is a intricate thing to accomplish as a newbie. It takes time to know what is efficient and how to communicate it as such. Now, writing functional documentation is more complicated as there is a delicate balance between not reguritate what the code says, and giving usable pointers to the users on how a particular function was intended to be used.</description>
+    </item>
+    
+  </channel>
+</rss>
