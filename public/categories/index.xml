@@ -46,5 +46,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>generative art</title>
+      <link>https://chrisried.xyz/categories/generative-art/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/categories/generative-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geometry</title>
+      <link>https://chrisried.xyz/categories/geometry/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/categories/geometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://chrisried.xyz/categories/math/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/categories/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analytics</title>
+      <link>https://chrisried.xyz/categories/analytics/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/categories/analytics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

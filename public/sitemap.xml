@@ -17,7 +17,7 @@
     <loc>https://chrisried.xyz/tags/blockchain/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/blockchain-landscape/</loc>
+    <loc>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/categories/blog/</loc>
@@ -26,19 +26,16 @@
     <loc>https://chrisried.xyz/categories/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/creating-a-new-theme/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chrisried.xyz/tags/data/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/data-notebook-landscape-2022/</loc>
+    <loc>https://chrisried.xyz/posts/2022-10-26-notebook-landscape/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/data-science/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/data-science-in-business/</loc>
+    <loc>https://chrisried.xyz/posts/2022-10-26-data-science-in-business/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/data-viz/</loc>
@@ -50,19 +47,16 @@
     <loc>https://chrisried.xyz/tags/generative-art/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/tags/go/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://chrisried.xyz/categories/golang/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/how-to-make-generative-art/</loc>
+    <loc>https://chrisried.xyz/posts/2022-10-26-how-to-make-generative-art/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/categories/index/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/using-observable-for-data-science/</loc>
+    <loc>https://chrisried.xyz/posts/2022-10-26-using-observable-for-data-science/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/posts/</loc>
@@ -74,13 +68,182 @@
     <loc>https://chrisried.xyz/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/using-data-app-frameworks/</loc>
+    <loc>https://chrisried.xyz/posts/web3-landscape-2022/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/web3/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/web3-landscape-2022/</loc>
+    <loc>https://chrisried.xyz/posts/2022-10-26-web3-landscape-2022/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/data-analysis/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/generative-art/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/geometry/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/geometry/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/math/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point_-ine/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/r/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/analytics/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/categories/analytics/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/using-analytics-to-determine-ideal-hashtags/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/introduction-to-nlp-using-python/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/nlp/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/python/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/bayesian-statistics-in-r/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/fraud/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/risk/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/currency/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/2018-08-21-formatting-currencies-r/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/how-to-bend-the-data/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/difficulty/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/hue/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/iot/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/phillips-hue-in-r/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/simmer/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/simulate-resource-planning-using-simmer/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/time-and-difficulty/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/generative/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/minature-generative-art/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/excel/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/extracting-hyperlinks-from-an-xslx-in-r/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/microsoft/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/astronomy/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/human-ingenuity-and-speed/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/bible/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/exploring-the-book-of-esther-in-the-tidy-verse/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/documentation/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/timeseries-analysis-using-r-and-advantager/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/text/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/text-generation/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/gantt-charts-in-r/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/feature-engineering/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/statistics/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/2017-10-08-feature-engineering/</loc>
+    <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/books/</loc>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/great-statistics-books-to-read/</loc>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/ab-testing-in-r-from-scratch/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/packages/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/roxygen/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/tips-creating-functional-documention/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/tracking-change-improvements-in-retail/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/rocket-propolsion-ch-1/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/rocketry/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/2014-01-04-creative-sinkholes/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/tags/creativity/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/2018-08-07-take-back-your-time-evernote/</loc>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/words_with_friends/</loc>
   </url>
 </urlset>

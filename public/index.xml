@@ -50,49 +50,39 @@ Day 5 - Playing with Images in Canavs</description>
     
     <item>
       <title>Blockchain Analytics</title>
-      <link>https://chrisried.xyz/posts/blockchain-landscape/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/blockchain-landscape/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</guid>
       <description>The following post provides some context around the many many different technologies that are currently out there in the blockchain space. Much of these are changing on a monthly basis with new things coming out all the time. So I thought it might be good to have a document that tries to compile what this landscape currently looks like in 2022.
 See the Pen Untitled by Chris Ried (@cdr6934) on CodePen.</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://chrisried.xyz/posts/creating-a-new-theme/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
       <title>Data Notebooks Landscape (2022)</title>
-      <link>https://chrisried.xyz/posts/data-notebook-landscape-2022/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-notebook-landscape/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/data-notebook-landscape-2022/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-notebook-landscape/</guid>
       <description>More to come!!
 See the Pen Untitled by Chris Ried (@cdr6934) on CodePen. </description>
     </item>
     
     <item>
       <title>Data Science in Business</title>
-      <link>https://chrisried.xyz/posts/data-science-in-business/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-data-science-in-business/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/data-science-in-business/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-data-science-in-business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Create Generative Art</title>
-      <link>https://chrisried.xyz/posts/how-to-make-generative-art/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-how-to-make-generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/how-to-make-generative-art/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-how-to-make-generative-art/</guid>
       <description>Following are 10 ways how to start learning how to make generative art.
 Learn how to use a framework or software for generative art. There are a number of different ways to do this. Here is a mindmap as a guide. I&amp;rsquo;d suggest just looking at them and start searching for them.
 Take a few art classes There are plenty of places online such as Domestika or Skillshare that will help you find inspiration, and open your mind to new ideas of expression.</description>
@@ -100,29 +90,294 @@ Take a few art classes There are plenty of places online such as Domestika or S
     
     <item>
       <title>Introduction to Data Visualization</title>
-      <link>https://chrisried.xyz/posts/using-observable-for-data-science/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-using-observable-for-data-science/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/using-observable-for-data-science/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-using-observable-for-data-science/</guid>
       <description> https://cdr6934-introtodatavis-streamlit-anxiety-app-xi1zv8.streamlitapp.com/ </description>
     </item>
     
     <item>
       <title>Using Data App Frameworks</title>
-      <link>https://chrisried.xyz/posts/using-data-app-frameworks/</link>
+      <link>https://chrisried.xyz/posts/web3-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/using-data-app-frameworks/</guid>
+      <guid>https://chrisried.xyz/posts/web3-landscape-2022/</guid>
       <description>The following information&amp;hellip;</description>
     </item>
     
     <item>
       <title>Web3 Landscape (2022)</title>
-      <link>https://chrisried.xyz/posts/web3-landscape-2022/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-web3-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/web3-landscape-2022/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-web3-landscape-2022/</guid>
       <description>More to come!!</description>
+    </item>
+    
+    <item>
+      <title>Minimum Distance between a Point and a Line</title>
+      <link>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point_-ine/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point_-ine/</guid>
+      <description>This has been transcribed from an earlier post of the internet. I felt as though it might be good to rewrite and also include some of the information that is part of the
+This note describes the technique and gives the solution to finding the shortest distance from a point to a line or line segment. The equation of a line defined through two points \(P_1\) \((x1,y1)\) and \(P_2\) \((x2,y2)\) is</description>
+    </item>
+    
+    <item>
+      <title>Using Analytics to Determine Ideal Hashtags for Instagram</title>
+      <link>https://chrisried.xyz/posts/using-analytics-to-determine-ideal-hashtags/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/using-analytics-to-determine-ideal-hashtags/</guid>
+      <description>library(stringr) library(readr) library(tidyverse) library(lubridate) I have been curious on what makes an interesting post on instagram based on a larger dataset of images that have been tagged with #generativeart. Some of this is just data discovery, this could seem that there may be a correlation between the tags that have been used and the amount of likes there are.
+# Extract hashtags patt &amp;lt;- regex(&amp;#34;#\\S+&amp;#34;) genart &amp;lt;- read_csv(&amp;#34;~/InstaCrawlR/table-generativeart-2020-10-11 13:35:33.csv&amp;#34;) genart_db &amp;lt;- genart %&amp;gt;% select(ID, Likes, Owner, Date, Text) %&amp;gt;% mutate(hashtags = str_extract_all(Text,patt) ) genart_db_table &amp;lt;- genart_db %&amp;gt;% unnest(cols = &amp;#34;hashtags&amp;#34;) %&amp;gt;% mutate(Year = year(Date), Month = month(Date), DayOfWeek = wday(Date), Day = day(Date), Hour = hour(Date)) genart_db_table %&amp;gt;% head() That will generate a rather large dataset</description>
+    </item>
+    
+    <item>
+      <title>Introduction to NLP using Python</title>
+      <link>https://chrisried.xyz/posts/introduction-to-nlp-using-python/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/introduction-to-nlp-using-python/</guid>
+      <description>The following post is using SpaCy to do all of the NLP work. Throughout the following post we will cover a number of different NLP tasks that are foundational to the work that can be built upon to generate complex syntatical modelling.
+Tokenization This process takes any body of text (more specifically a Document) and breaks it down either to the sentence level or the word level.
+import spacy nlp = spacy.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Statistics in R</title>
+      <link>https://chrisried.xyz/posts/bayesian-statistics-in-r/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/bayesian-statistics-in-r/</guid>
+      <description>Bayesian Statistics The following documents the standard Bayesian Statistics occurs.
+Some of the key differences you will find behind the more traditional frequentist statistics and Bayesian methodologies are as follows:
+Prior statistical distributions are updated as new information becomes available. </description>
+    </item>
+    
+    <item>
+      <title>How to Catch Fraud with Deep Learning</title>
+      <link>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</guid>
+      <description>Fraud continues to be an important topic in the financial world helping detect when funds are mismanaged.
+Nilson reports that U.S. card fraud (credit, debt, etc) was reportedly $9 billion in 2016 and expected to increase to $12 billion by 2020. Due to these nefarious acts; it is in the best interest of any organization to ensure the work of most customers. Thus it is appropriate to respond to this fraud.</description>
+    </item>
+    
+    <item>
+      <title>Formatting Currencies in R</title>
+      <link>https://chrisried.xyz/posts/2018-08-21-formatting-currencies-r/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/2018-08-21-formatting-currencies-r/</guid>
+      <description>Here are a few ways to format numbers in R for presentations. A few of theme can be accomplished using the paste function in R. I&amp;rsquo;ve found that there are a few different methods to do this.
+Using the scales package Using the scales packages from Hadley, there is a great function with various options including passing a vector.
+library(scales) dollar_format()(c(-100, 0.23, 1.456565, 2e3)) Formatting currency with separator Following is a simple function one can build and place in their utility function that will give formatted currency.</description>
+    </item>
+    
+    <item>
+      <title>How to bend the data</title>
+      <link>https://chrisried.xyz/posts/how-to-bend-the-data/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/how-to-bend-the-data/</guid>
+      <description>One of the fundamental priorities of a data scientist is being able to bend the data into a format that is plyable. Being able to effectively use tidyr, reshape2 and the core functions are key to success in being able to manage a large dataset without swimming or drowning in it.
+But it does take discipline and instinct to understand the validity of the data so lets exercise this a little:</description>
+    </item>
+    
+    <item>
+      <title>Phillips Hue in R</title>
+      <link>https://chrisried.xyz/posts/phillips-hue-in-r/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/phillips-hue-in-r/</guid>
+      <description>The following function can be used to find and display the internal IP address needed to retrieve the IP address from Hue Bridge. You will need to generate an API key i.e. a &amp;ldquo;userkey&amp;rdquo; as I called it below.
+getIP &amp;lt;- function() { url &amp;lt;- paste0(&amp;#34;https://www.meethue.com/api/nupnp&amp;#34;) res &amp;lt;- httpGET(url) resJson &amp;lt;- fromJSON(res) res &amp;lt;- resJson[[&amp;#34;internalipaddress&amp;#34;]] res } In order to know what light you should change the state on, one can run the following to retrieve the available lights connected on the network.</description>
+    </item>
+    
+    <item>
+      <title>Simulate Doctor Visit Resource Planning Using Simmer</title>
+      <link>https://chrisried.xyz/posts/simulate-resource-planning-using-simmer/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/simulate-resource-planning-using-simmer/</guid>
+      <description>Here I&amp;rsquo;ve tried to come up with a simple layout on how we might simulate doctor&amp;rsquo;s visits.
+Following code tries to resource plan certain doctor visits based on the vignette that was provided with the simmer package.
+library(simmer) set.seed(42) env &amp;lt;- simmer(&amp;#34;SuperDuperSim&amp;#34;) env patient &amp;lt;- trajectory(&amp;#34;patients&amp;#39; path&amp;#34;) %&amp;gt;% ## add an intake activity seize(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% timeout(function() rnorm(1, 15)) %&amp;gt;% release(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% ## add a consultation activity seize(&amp;#34;doctor&amp;#34;, 1) %&amp;gt;% timeout(function() rnorm(1, 20)) %&amp;gt;% release(&amp;#34;doctor&amp;#34;, 1) %&amp;gt;% ## add a planning activity seize(&amp;#34;administration&amp;#34;, 1) %&amp;gt;% timeout(function() rnorm(1, 5)) %&amp;gt;% release(&amp;#34;administration&amp;#34;, 1) env %&amp;gt;% add_resource(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% add_resource(&amp;#34;doctor&amp;#34;, 2) %&amp;gt;% add_resource(&amp;#34;administration&amp;#34;, 1) %&amp;gt;% add_generator(&amp;#34;patient&amp;#34;, patient, function() rnorm(1, 10, 2)) env %&amp;gt;% run(80) %&amp;gt;% now() env %&amp;gt;% peek(3) env %&amp;gt;% stepn() %&amp;gt;% # 1 step print() %&amp;gt;% stepn(3) # 3 steps envs &amp;lt;- lapply(1:100, function(i) { simmer(&amp;#34;SuperDuperSim&amp;#34;) %&amp;gt;% add_resource(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% add_resource(&amp;#34;doctor&amp;#34;, 2) %&amp;gt;% add_resource(&amp;#34;administration&amp;#34;, 1) %&amp;gt;% add_generator(&amp;#34;patient&amp;#34;, patient, function() rnorm(1, 10, 2)) %&amp;gt;% run(80) }) envs %&amp;gt;% get_mon_resources() %&amp;gt;% head() envs %&amp;gt;% get_mon_arrivals() %&amp;gt;% head() </description>
+    </item>
+    
+    <item>
+      <title>Time and Difficulty</title>
+      <link>https://chrisried.xyz/posts/time-and-difficulty/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/time-and-difficulty/</guid>
+      <description>Sometimes, seeing data in a 3 dimensional space gives us better visibility to the rest of the world. You will see that we have taken a hypothetical experiment and tried to rate different ideas by their complexity and likelihood to succeed.
+#Libraries to import library(tidyverse) library(plotly) # Intellectual matrix idea &amp;lt;- c(&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;, &amp;#34;Clip toenails&amp;#34;,&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;,&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;,&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;) time &amp;lt;- c(5,5,2,3,1,5,5,2,3,5,5,2,3,1,5,5,2) difficulty &amp;lt;- c(5,4,2,3,1,5,4,2,3,5,5,2,3,1,5,5,2) favorability &amp;lt;- c(2,5,2,1,3,4,1,2,1,2,5,2,1,3,3,1,2) #Creates the dataframe dataset &amp;lt;- data.</description>
+    </item>
+    
+    <item>
+      <title>Minature Generative Art</title>
+      <link>https://chrisried.xyz/posts/minature-generative-art/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/minature-generative-art/</guid>
+      <description>Sometimes something simple can turn out to generate the most beautiful things. Following you will find a few lines of code that present a beautiful pattern.
+library(ggplot2) library(dplyr) Oval Curve n &amp;lt;- 300 t1 &amp;lt;- 1:n t0 &amp;lt;- seq(3,2*n+1,2) %% n t2 &amp;lt;- t0 + (t0 == 0)*n df &amp;lt;- data.frame(x = cos((t1-1)*2*pi/n), y = sin((t1-1)*2*pi/n), x2 = cos((t2-1)*2*pi/n), y2 = sin((t2-1)*2*pi/n)) ggplot(df,aes(x,y,xend = x2,yend = y2)) + geom_segment(alpha = .</description>
+    </item>
+    
+    <item>
+      <title>Extracting Hyperlinks from an XSLX in R</title>
+      <link>https://chrisried.xyz/posts/extracting-hyperlinks-from-an-xslx-in-r/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/extracting-hyperlinks-from-an-xslx-in-r/</guid>
+      <description>In Progress install.packages(&amp;ldquo;keras&amp;rdquo;) library(keras)
+devtools::install_github(&amp;ldquo;omarwagih/ggseqlogo&amp;rdquo;) devtools::install_github(&amp;ldquo;leonjessen/PepTools&amp;rdquo;)</description>
+    </item>
+    
+    <item>
+      <title>Human Ingenuity and Speed</title>
+      <link>https://chrisried.xyz/posts/human-ingenuity-and-speed/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/human-ingenuity-and-speed/</guid>
+      <description>library(tidyverse) Data Building The first thing we need to understand is where we have come and where we are going. There is alot that has been done in the past couple years but we still have more.
+type &amp;lt;- c(&amp;#34;Sound&amp;#34;,&amp;#34;Light&amp;#34;,&amp;#34;Human Travel&amp;#34;) units &amp;lt;- c(&amp;#34;mps&amp;#34;,&amp;#34;mps&amp;#34;,&amp;#34;mps&amp;#34;) speed &amp;lt;- c(343,299792458,11082.569) source &amp;lt;- c(&amp;#34;&amp;#34;,&amp;#34;&amp;#34;,&amp;#34;&amp;#34;) speed_data &amp;lt;- data.frame(type,units, speed,source) spd &amp;lt;- speed_data$speed spd %*% (t(spd)) &amp;ndash;TODO: The following
+299792458/11082.57 Human History of Speed Speed hasn&amp;rsquo;t been a</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Book of Esther in the Tidy Verse</title>
+      <link>https://chrisried.xyz/posts/exploring-the-book-of-esther-in-the-tidy-verse/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/exploring-the-book-of-esther-in-the-tidy-verse/</guid>
+      <description>library(httr) library(tidytext) library(jsonlite) library(tidyverse) library(wordcloud) library(XML) source(&amp;#34;~/keys.R&amp;#34;) key &amp;lt;- biblia There is much to be learned in the form of writing and the relationship it has within and outside the text. The question we might want to ask is there a way to identify the story arc of the situation. Using spacy to tag all of the words will increase the likelyhood to better understand the
+style &amp;lt;- &amp;#34;oneVersePerLineFullReference&amp;#34; #oneVersePerLine, bibleTextOnly, oneVersePerLineFullReference output &amp;lt;- &amp;#34;html&amp;#34; passage &amp;lt;-&amp;#34;Esther1-10&amp;#34; resp &amp;lt;- GET(paste0(&amp;#34;https://api.</description>
+    </item>
+    
+    <item>
+      <title>Timeseries Analysis Using R and Advantager</title>
+      <link>https://chrisried.xyz/posts/timeseries-analysis-using-r-and-advantager/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/timeseries-analysis-using-r-and-advantager/</guid>
+      <description>Threw error due to the API In the past, the best way to get stock prices was to use either Google Finance or Yahoo Finance data streams. These have since become difficult to keep up to date and thus another outlet to get this information is AlphaVantager. Following is a simple R implementation to get up to date data. You will be able to thus use this to find the information.</description>
+    </item>
+    
+    <item>
+      <title>Text Generation</title>
+      <link>https://chrisried.xyz/posts/text-generation/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/text-generation/</guid>
+      <description>IN PROGRESS Text Generation (Generative Texr) is a very interesting field of study. There are a number of different packages that help generate the lists of words to give the user a better understanding of the technology.
+Tracery The following Node library gives a structure which is used to generate random words that are assigned to lexical structure that is defined by the user.
+centar : { animal : [&amp;#34;wolf&amp;#34;,&amp;#34;bear&amp;#34;,&amp;#34;tiger&amp;#34;,&amp;#34;lion&amp;#34;,&amp;#34;snake&amp;#34;,&amp;#34;anteater&amp;#34;], fruit : [&amp;#34;banana&amp;#34;,&amp;#34;tomato&amp;#34;,&amp;#34;cherry&amp;#34;,&amp;#34;strawberry&amp;#34;,&amp;#34;starfruit&amp;#34;], said : [&amp;#34;purring&amp;#34;, &amp;#34;whispering&amp;#34;, &amp;#34;saying&amp;#34;, &amp;#34;murmurring&amp;#34;, &amp;#34;growling&amp;#34;], timeofday : [&amp;#34;morning&amp;#34;,&amp;#34;evening&amp;#34;,&amp;#34;dusk&amp;#34;,&amp;#34;dawn&amp;#34;,&amp;#34;afternoon&amp;#34;,&amp;#34;breakfast&amp;#34;,&amp;#34;breakfast&amp;#34;], lastSyl : &amp;#34;a ia ea u y en am is on an o io i el ios ax ox ix ex izz ius ian ean ekang anth&amp;#34;.</description>
+    </item>
+    
+    <item>
+      <title>Gantt Charts in R</title>
+      <link>https://chrisried.xyz/posts/gantt-charts-in-r/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/gantt-charts-in-r/</guid>
+      <description>In Progress Using timevis library(timevis) data &amp;lt;- data.frame( id = 1:4, content = c(&amp;#34;Item one&amp;#34; , &amp;#34;Item two&amp;#34; ,&amp;#34;Ranged item&amp;#34;, &amp;#34;Item four&amp;#34;), start = c(&amp;#34;2016-01-10&amp;#34;, &amp;#34;2016-01-11&amp;#34;, &amp;#34;2016-01-20&amp;#34;, &amp;#34;2016-02-14 15:00:00&amp;#34;), end = c(NA , NA, &amp;#34;2016-02-04&amp;#34;, NA) ) timevis(data) Using DiagrammerR library(tidyr) library(dplyr) library(DiagrammeR) mermaid(&amp;#34; gantt dateFormat YYYY-MM-DD title A Very Nice Gantt Diagram section Basic Tasks This is completed :done, first_1, 2014-01-06, 2014-01-08 This is active :active, first_2, 2014-01-09, 3d Do this later : first_3, after first_2, 5d Do this after that : first_4, after first_3, 5d section Important Things Completed, critical task :crit, done, import_1, 2014-01-06,24h Also done, also critical :crit, done, import_2, after import_1, 2d Doing this important task now :crit, active, import_3, after import_2, 3d Next critical task :crit, import_4, after import_3, 5d section The Extras First extras :active, extras_1, after import_4, 3d Second helping : extras_2, after extras_1, 20h More of the extras : extras_3, after extras_1, 48h &amp;#34;) Using Plotly If you wanted to use a more</description>
+    </item>
+    
+    <item>
+      <title>Tips on Feature Engineering</title>
+      <link>https://chrisried.xyz/posts/2017-10-08-feature-engineering/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/2017-10-08-feature-engineering/</guid>
+      <description>Tips on Feature Engineering to fit how classifiers work; giving a geometry problem to a tree, oversized dimension to a kNN and interval data to an SVM are not a good ideas remove as much nonlinearities as possible; expecting that some classifier will do Fourier analysis inside is rather naive (even if, it will waste a lot of complexity there) make features generic to all objects so that some sampling in the chain won&amp;rsquo;t knock them out check previous works &amp;ndash; often transformation used for visualisation or testing similar types of data is already tuned to uncover interesting aspects avoid unstable, optimizing transformations like PCA which may lead to overfitting experiment a lot </description>
+    </item>
+    
+    <item>
+      <title>Great Statistics Books to Read</title>
+      <link>https://chrisried.xyz/posts/great-statistics-books-to-read/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/great-statistics-books-to-read/</guid>
+      <description>Following you will find a number of the best books to learn more about statistics and its philosophy.
+Opinionated Lessons on Statistics Introduction to Statistical Learning The Elements of Statistical Learning Applied Predicitive Modeling Statistical Inference Statistical Rethinking Data Analysis Using Regression and Multilevel/Hierarchical Models Mostly Harmless Econometrics Mastering Metrics: The Path from Cause to Effect All of Statistics Statistics Statistics for Experimenters Think Bayes Computer Age Statistical Inference Think Stats Machine Learning for Hackers Probability and Statistics Statistical Evidence: A likelihood paradigm </description>
+    </item>
+    
+    <item>
+      <title>AB Testing in R from Scratch</title>
+      <link>https://chrisried.xyz/posts/ab-testing-in-r-from-scratch/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/ab-testing-in-r-from-scratch/</guid>
+      <description>Using Bayesian Systems Quantify the probability of all possibilites thus measuring risk insert institutional knowledge (add knowledge that changes the probability) learn in an online fashion A/B Testing with Approximate Bayesian Computation No mathematics required able to implement from scratch A/B Testing Measures and figures out the better design
+Approximate Bayesian Computation
+Generate a trial value for the thing we want to know (in this case its the conversion fraction of a layout) Simulate or data assuming the trail value, keep the trial value, otherwise discard it and try again If the simulation looks like the real data, keep the trial value, otherwise discard and try again Keep doing this until we&amp;rsquo;ve got lots of trial values that worked library(progress) library(ggplot2) library(reshape2) # Variables n_visitors_a &amp;lt;- 100 # number of visitors shown layout A n_conv_a &amp;lt;- 4 # number of vistors shown layout A who converted (4%) n_visitors_b &amp;lt;- 40 n_conv_b &amp;lt;- 2 Using Bayesian Systems</description>
+    </item>
+    
+    <item>
+      <title>Tips on Creating Effective and Functional Documentation in R</title>
+      <link>https://chrisried.xyz/posts/tips-creating-functional-documention/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/tips-creating-functional-documention/</guid>
+      <description>Just like any skill, there is a learning curve involved in creating effective communication. This involves the code written and the documentation of its usage. Writing functional code is a intricate thing to accomplish as a newbie. It takes time to know what is efficient and how to communicate it as such. Now, writing functional documentation is more complicated as there is a delicate balance between not reguritate what the code says, and giving usable pointers to the users on how a particular function was intended to be used.</description>
+    </item>
+    
+    <item>
+      <title>Tracking Change Improvements in Retail</title>
+      <link>https://chrisried.xyz/posts/tracking-change-improvements-in-retail/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/tracking-change-improvements-in-retail/</guid>
+      <description>In the ever changing world of retail; one always has to keep one step ahead of the competition and to engage with its customers. One of the best ways
+Formulate a test Implement Test Evaluate results Adjust the test Try again. These are all great ideas, but how do we truly watch tas things get better?
+library(qcc) library(xtable) library(SixSigma) library(qicharts) Cause and Effect Diagrams cManpower &amp;lt;- c(&amp;#34;Recepcionist&amp;#34;, &amp;#34;Record. Operator&amp;#34;, &amp;#34;Storage operators&amp;#34;) cMaterials &amp;lt;- c(&amp;#34;Supplier&amp;#34;, &amp;#34;Transport agency&amp;#34;, &amp;#34;Packing&amp;#34;) cMachines &amp;lt;- c(&amp;#34;Compressor type&amp;#34;, &amp;#34;Operation conditions&amp;#34;, &amp;#34;Machine adjustment&amp;#34;) cMethods &amp;lt;- c(&amp;#34;Reception&amp;#34;, &amp;#34;Transport method&amp;#34;) cMeasurements &amp;lt;- c(&amp;#34;Recording method&amp;#34;, &amp;#34;Measurement appraisal&amp;#34;) cGroups &amp;lt;- c(&amp;#34;Manpower&amp;#34;, &amp;#34;Materials&amp;#34;, &amp;#34;Machines&amp;#34;, &amp;#34;Methods&amp;#34;, &amp;#34;Measurements&amp;#34;) cEffect &amp;lt;- &amp;#34;Too high density&amp;#34; cause.</description>
+    </item>
+    
+    <item>
+      <title>Rocket Propulsion Ch 1</title>
+      <link>https://chrisried.xyz/posts/rocket-propolsion-ch-1/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/rocket-propolsion-ch-1/</guid>
+      <description>library(tidyverse) Accelerating force
+$$ F=mv_e $$ thrust of the rocket is expressed in terms of the *mass flow rate * m and the efficient exhaust velocity $v_e$
+$$ V = V_e\log_e\frac{M_0}{M} $$ $M_0$ - mass of the rocket at ignition $M$ - Current mass of the rocket
+mass ratio $$ R = \frac{M_0}{M} $$
+AcceleratedForce &amp;lt;- function(m,v.e) { m*v.e } RocketEquation &amp;lt;- function(mass.ratio, exhaust.velocity) { exhaust.velocity*log(mass.ratio, base = exp(1)) } RocketEquationGraph &amp;lt;- data.</description>
+    </item>
+    
+    <item>
+      <title>Creative Sinkholes</title>
+      <link>https://chrisried.xyz/posts/2014-01-04-creative-sinkholes/</link>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/2014-01-04-creative-sinkholes/</guid>
+      <description>Believing that something is crap, is creative indigestion. It inhibits your power to create, sucks your soul&amp;rsquo;s happiness and breeds stress and rejection. It becomes a waste of time, rather than further develop. We discontinue this crap that we have mistaken as no creativity. This is a perception that needs to be overcome and dealt with. But how do you overcome?
+Don&amp;rsquo;t Limit your Creativity As people we generally want to be like the Jones.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chrisried.xyz/posts/2018-08-07-take-back-your-time-evernote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/2018-08-07-take-back-your-time-evernote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chrisried.xyz/posts/words_with_friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/posts/words_with_friends/</guid>
+      <description></description>
     </item>
     
   </channel>

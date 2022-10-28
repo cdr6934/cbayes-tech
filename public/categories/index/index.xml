@@ -12,30 +12,20 @@
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/categories/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blockchain Analytics</title>
-      <link>https://chrisried.xyz/posts/blockchain-landscape/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/blockchain-landscape/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</guid>
       <description>The following post provides some context around the many many different technologies that are currently out there in the blockchain space. Much of these are changing on a monthly basis with new things coming out all the time. So I thought it might be good to have a document that tries to compile what this landscape currently looks like in 2022.
 See the Pen Untitled by Chris Ried (@cdr6934) on CodePen.</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://chrisried.xyz/posts/creating-a-new-theme/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
       <title>How to Create Generative Art</title>
-      <link>https://chrisried.xyz/posts/how-to-make-generative-art/</link>
+      <link>https://chrisried.xyz/posts/2022-10-26-how-to-make-generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/how-to-make-generative-art/</guid>
+      <guid>https://chrisried.xyz/posts/2022-10-26-how-to-make-generative-art/</guid>
       <description>Following are 10 ways how to start learning how to make generative art.
 Learn how to use a framework or software for generative art. There are a number of different ways to do this. Here is a mindmap as a guide. I&amp;rsquo;d suggest just looking at them and start searching for them.
 Take a few art classes There are plenty of places online such as Domestika or Skillshare that will help you find inspiration, and open your mind to new ideas of expression.</description>
