@@ -17,7 +17,7 @@
     <loc>https://chrisried.xyz/tags/blockchain/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</loc>
+    <loc>https://chrisried.xyz/posts/blockchain-landscape-2022/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/categories/blog/</loc>
@@ -62,6 +62,9 @@
     <loc>https://chrisried.xyz/posts/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://chrisried.xyz/posts/2022-10-28-proof-of-stack/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chrisried.xyz/tags/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -92,7 +95,7 @@
     <loc>https://chrisried.xyz/categories/math/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point_-ine/</loc>
+    <loc>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point-line/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/r/</loc>
@@ -140,6 +143,9 @@
     <loc>https://chrisried.xyz/tags/difficulty/</loc>
     <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://chrisried.xyz/tags/evernote/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chrisried.xyz/tags/hue/</loc>
     <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -153,6 +159,9 @@
     <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/posts/simulate-resource-planning-using-simmer/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/take-back-your-time-evernote/</loc>
     <lastmod>2018-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/posts/time-and-difficulty/</loc>
@@ -178,6 +187,9 @@
   </url><url>
     <loc>https://chrisried.xyz/posts/human-ingenuity-and-speed/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chrisried.xyz/posts/words-with-friends-musings/</loc>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/bible/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
@@ -230,20 +242,19 @@
     <loc>https://chrisried.xyz/posts/tracking-change-improvements-in-retail/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/rocket-propolsion-ch-1/</loc>
+    <loc>https://chrisried.xyz/posts/rocket-propolsion/</loc>
     <lastmod>2017-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/rocketry/</loc>
     <lastmod>2017-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/2014-01-04-creative-sinkholes/</loc>
+    <loc>https://chrisried.xyz/writings/creative-sinkholes/</loc>
     <lastmod>2014-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chrisried.xyz/tags/creativity/</loc>
     <lastmod>2014-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrisried.xyz/posts/2018-08-07-take-back-your-time-evernote/</loc>
-  </url><url>
-    <loc>https://chrisried.xyz/posts/words_with_friends/</loc>
+    <loc>https://chrisried.xyz/writings/</loc>
+    <lastmod>2014-01-04T00:00:00+00:00</lastmod>
   </url>
 </urlset>

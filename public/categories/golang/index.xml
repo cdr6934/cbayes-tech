@@ -11,16 +11,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blockchain Analytics</title>
-      <link>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/posts/2022-10-26-blockchain-landscape/</guid>
-      <description>The following post provides some context around the many many different technologies that are currently out there in the blockchain space. Much of these are changing on a monthly basis with new things coming out all the time. So I thought it might be good to have a document that tries to compile what this landscape currently looks like in 2022.
-See the Pen Untitled by Chris Ried (@cdr6934) on CodePen.</description>
-    </item>
-    
-    <item>
       <title>How to Create Generative Art</title>
       <link>https://chrisried.xyz/posts/2022-10-26-how-to-make-generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
