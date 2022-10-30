@@ -21,6 +21,7 @@ The following post provides some context around the many many different technolo
     * Currently one of the rising stars in the space, there are many interesting projects that are currently being worked on. 
     * Wallets: 
 * [Cardano](https://cardano.org/) 
+    * "Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change"
 
 
 ## Open Source File Store
