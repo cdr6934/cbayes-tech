@@ -2,6 +2,7 @@
 author: "Chris Ried"
 date: 2022-10-26
 title: "Introduction to Data Visualization"
+draft: true
 tags: [
     "data viz"
 ]
