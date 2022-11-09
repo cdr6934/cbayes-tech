@@ -11,22 +11,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/web3/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Proof of Work</title>
-      <link>https://chrisried.xyz/posts/2022-10-28-proof-of-stack/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/posts/2022-10-28-proof-of-stack/</guid>
-      <description>More to come!!</description>
-    </item>
-    
-    <item>
       <title>Web3 Landscape (2022)</title>
       <link>https://chrisried.xyz/posts/web3-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/posts/web3-landscape-2022/</guid>
-      <description>First of all, this continues to change quite frequently and will be extremely interesting to work with over the next number of years. There are a number of interesting
-Wallets Metamask - Security Coinbase - A marketplace L2 Finance Digital Collectables (NFTs) OpenSea </description>
+      <description>First of all, this continues to change and will be extremely interesting to work with over the next number of years. There are a number of interesting use cases ad much is about rethinking the web infrastructure.
+Wallets Metamask - Security Coinbase - A marketplace L2 Blockchain Polygon - Finance Digital Collectables (NFTs) OpenSea - First and currently the foremost NFT platform supporting the ethereum and L2 Polygon chains </description>
     </item>
     
   </channel>

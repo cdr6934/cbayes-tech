@@ -6,7 +6,7 @@ slug: words-with-friends-musings
 tags: ['r']
 ---
 
-# The following was the start of a project that I had started.
+Words with Friends is a wonderful game full of 
 
 ```{r}
 #library(tidyverse)

@@ -11,15 +11,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
-      <link>https://chrisried.xyz/categories/blog/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Development</title>
       <link>https://chrisried.xyz/categories/development/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>

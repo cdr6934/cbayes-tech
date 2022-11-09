@@ -9,40 +9,31 @@
       <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>musings</title>
+      <link>https://chrisried.xyz/tags/musings/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/tags/musings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>https://chrisried.xyz/tags/philosophy/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blockchain</title>
       <link>https://chrisried.xyz/tags/blockchain/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data</title>
-      <link>https://chrisried.xyz/tags/data/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data science</title>
-      <link>https://chrisried.xyz/tags/data-science/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/tags/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data viz</title>
-      <link>https://chrisried.xyz/tags/data-viz/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/tags/data-viz/</guid>
       <description></description>
     </item>
     
