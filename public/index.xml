@@ -355,14 +355,5 @@ AcceleratedForce &amp;lt;- function(m,v.e) { m*v.e } RocketEquation &amp;lt;- fu
 Don&amp;rsquo;t Limit your Creativity As people we generally want to be like the Jones.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://chrisried.xyz/posts/2022-11-22-distributed-flilestore/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/posts/2022-11-22-distributed-flilestore/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
