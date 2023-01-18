@@ -9,7 +9,7 @@
       <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chrisried.xyz/about/</link>
@@ -20,42 +20,12 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://chrisried.xyz/projects/</link>
-      <pubDate>Wed, 26 Oct 2022 21:38:52 +0800</pubDate>
-      
-      <guid>https://chrisried.xyz/projects/</guid>
-      <description>The following page contains all the various projects that I&amp;rsquo;ve been working on over the past year. Much of this work has been part of my various experiments over the past 10 years. Much of it has come down to being some experiences.
-Creative Coding AI Art Deep Learning Art Javascript Creative Coding in Javascript Canvas Day 1 - Implementing Noise in Javascript
-Day 5 - Playing with Images in Canavs</description>
-    </item>
-    
-    <item>
       <title>Resume</title>
       <link>https://chrisried.xyz/resume/</link>
       <pubDate>Wed, 26 Oct 2022 21:38:52 +0800</pubDate>
       
       <guid>https://chrisried.xyz/resume/</guid>
       <description>Experience Founder | CBayes Media Labs | Oct 2021 - Present In October 2021, started working on Web3 projects Ethereum / Tezos blockchain. Contracted with well-known angel investors and music industry professionals on projects as a consultant. Senior Data Scientist | Kythera Labs | Apr 2021 - Oct 2021 Worked on a team of 5 data scientists working with proprietary claims data to identify cost savings opportunities by providing demographic intelligence.</description>
-    </item>
-    
-    <item>
-      <title>Writings</title>
-      <link>https://chrisried.xyz/writings/</link>
-      <pubDate>Wed, 26 Oct 2022 21:38:52 +0800</pubDate>
-      
-      <guid>https://chrisried.xyz/writings/</guid>
-      <description>A bunch of various projects I&amp;rsquo;ve worked on in the past number of years. I haven&amp;rsquo;t had a decent website in a while and thus I am now getting that back into place.</description>
-    </item>
-    
-    <item>
-      <title>Red Blue: Thoughts</title>
-      <link>https://chrisried.xyz/posts/2022-11-02-blue-red/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/posts/2022-11-02-blue-red/</guid>
-      <description>How do we try to reimagine the next generation of our economy.
-Historical context Some of us are looking to the past and seeing the elements of Marx and Hegel to be the the reimagined shining light, the &amp;ldquo;heaven on earth&amp;rdquo; . And the question we have to seriously need to consider is the historical dictatorships of Communist Russia and the 3rd Reich and now we have moved over to a new era where we have removed some of the Single Entity Economic model bringing on some of the free market economics</description>
     </item>
     
     <item>
@@ -90,6 +60,240 @@ Wallets Metamask - Muun Security Coinbase - A marketplace L2 Blockchain Polygon 
     </item>
     
     <item>
+      <title>Granular Blocks of Play</title>
+      <link>https://chrisried.xyz/projects/granular-blocks-of-play/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/granular-blocks-of-play/</guid>
+      <description>Testing testing.. I just wanted to see if I can add information here without more unecessary work.</description>
+    </item>
+    
+    <item>
+      <title>Celestial Collisions</title>
+      <link>https://chrisried.xyz/projects/celestial-collisions/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/celestial-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asemic Palimpsest</title>
+      <link>https://chrisried.xyz/projects/asemic-palimpsest/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/asemic-palimpsest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric Meditations</title>
+      <link>https://chrisried.xyz/projects/geometric-meditations/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/geometric-meditations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark City</title>
+      <link>https://chrisried.xyz/projects/dark-city/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/dark-city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Like The Emperors Robe</title>
+      <link>https://chrisried.xyz/projects/emperors-robe/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/emperors-robe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Everyday Luxury in Nines</title>
+      <link>https://chrisried.xyz/projects/everything-luxury-in-nines/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/everything-luxury-in-nines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End of Summer Reign</title>
+      <link>https://chrisried.xyz/projects/end-of-summer-reign/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/end-of-summer-reign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Winters</title>
+      <link>https://chrisried.xyz/projects/turning-winters/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/turning-winters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Summer and Splashpads</title>
+      <link>https://chrisried.xyz/projects/in-summer-and-splashpads/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/in-summer-and-splashpads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cubic Spirals</title>
+      <link>https://chrisried.xyz/projects/cubic-spirals/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/cubic-spirals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrealism</title>
+      <link>https://chrisried.xyz/projects/surrealism/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/surrealism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhufu</title>
+      <link>https://chrisried.xyz/projects/zhufu/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/zhufu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deceptively Simple</title>
+      <link>https://chrisried.xyz/projects/deceptively-simple/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/deceptively-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypnotic Stasis</title>
+      <link>https://chrisried.xyz/projects/hypnotic-stasis/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/hypnotic-stasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Triangular Explosions</title>
+      <link>https://chrisried.xyz/projects/triangular-explosions/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/triangular-explosions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Locusts Armageddon</title>
+      <link>https://chrisried.xyz/projects/locusts-armageddon/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/locusts-armageddon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imprints of a Dandilion</title>
+      <link>https://chrisried.xyz/projects/imprints-of-a-dandilion/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/imprints-of-a-dandilion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychadelic Squares</title>
+      <link>https://chrisried.xyz/projects/psychadelic-squares/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/psychadelic-squares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primitive Prophesy</title>
+      <link>https://chrisried.xyz/projects/primitive-prophesy/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/primitive-prophesy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments In Chaos</title>
+      <link>https://chrisried.xyz/projects/experiments-in-chaos/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/experiments-in-chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipelines</title>
+      <link>https://chrisried.xyz/projects/pipelines/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/pipelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Square and Rectangular</title>
+      <link>https://chrisried.xyz/projects/square-and-rectangular/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/square-and-rectangular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photons and Light Sources</title>
+      <link>https://chrisried.xyz/projects/photons-and-light-sources/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/photons-and-light-sources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinos In Birthday Hats</title>
+      <link>https://chrisried.xyz/projects/dinos-in-birthday-hats/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/dinos-in-birthday-hats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplified Containment</title>
+      <link>https://chrisried.xyz/projects/simplified-containment/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/simplified-containment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Minimum Distance between a Point and a Line</title>
       <link>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point-line/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
@@ -97,6 +301,33 @@ Wallets Metamask - Muun Security Coinbase - A marketplace L2 Blockchain Polygon 
       <guid>https://chrisried.xyz/posts/2021-02-20-minimum-distance-point-line/</guid>
       <description>This has been transcribed from an earlier post of the internet. I felt as though it might be good to rewrite and also include some of the information that is part of the
 This note describes the technique and gives the solution to finding the shortest distance from a point to a line or line segment. The equation of a line defined through two points \(P_1\) \((x1,y1)\) and \(P_2\) \((x2,y2)\) is</description>
+    </item>
+    
+    <item>
+      <title>Experimenting With Fuzzy Circles</title>
+      <link>https://chrisried.xyz/projects/experimenting-with-fuzzy-circles/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/experimenting-with-fuzzy-circles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whispering Wisps</title>
+      <link>https://chrisried.xyz/projects/whispering-sisps/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/whispering-sisps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arc Wheels</title>
+      <link>https://chrisried.xyz/projects/arc-wheels/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/arc-wheels/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -132,6 +363,15 @@ Prior statistical distributions are updated as new information becomes available
     </item>
     
     <item>
+      <title>Fleur-d-Square</title>
+      <link>https://chrisried.xyz/projects/fleur-d-square/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/fleur-d-square/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How to Catch Fraud with Deep Learning</title>
       <link>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
@@ -139,6 +379,24 @@ Prior statistical distributions are updated as new information becomes available
       <guid>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</guid>
       <description>Fraud continues to be an important topic in the financial world helping detect when funds are mismanaged.
 Nilson reports that U.S. card fraud (credit, debt, etc) was reportedly $9 billion in 2016 and expected to increase to $12 billion by 2020. Due to these nefarious acts; it is in the best interest of any organization to ensure the work of most customers. Thus it is appropriate to respond to this fraud.</description>
+    </item>
+    
+    <item>
+      <title>Brush Fade</title>
+      <link>https://chrisried.xyz/projects/brush-fade/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/brush-fade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Shifting</title>
+      <link>https://chrisried.xyz/projects/shape-shifting/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/shape-shifting/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -353,6 +611,15 @@ AcceleratedForce &amp;lt;- function(m,v.e) { m*v.e } RocketEquation &amp;lt;- fu
       <guid>https://chrisried.xyz/writings/creative-sinkholes/</guid>
       <description>Believing that something is crap, is creative indigestion. It inhibits your power to create, sucks your soul&amp;rsquo;s happiness and breeds stress and rejection. It becomes a waste of time, rather than further develop. We discontinue this crap that we have mistaken as no creativity. This is a perception that needs to be overcome and dealt with. But how do you overcome?
 Don&amp;rsquo;t Limit your Creativity As people we generally want to be like the Jones.</description>
+    </item>
+    
+    <item>
+      <title>In the Light</title>
+      <link>https://chrisried.xyz/projects/in-the-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/in-the-light/</guid>
+      <description></description>
     </item>
     
   </channel>
