@@ -1,5 +1,5 @@
 baseURL: "https://chrisried.xyz/"
-title: Technical Portfolio of Chris Ried
+title: Artistic Portfolio of Chris Ried
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Technical Portfolio of Christopher Ried
+  title: Artistic and Technical Portfolio of Christopher Ried
   description: "The site is the personal homepage of Chris Ried also known as generatecoll for his generative art practice. This site holds most of the technical work in data science, blockchain and web3 work that he has done in the past 10 years."
   keywords: [Generative Art, Portfolio, PaperMod]
   author: Me
