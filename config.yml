@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Chris Ried Technical Fascinations"
-    Content: A technical or more experimental site of all the musings.. 
+    Title: "Chris Ried (generatecoll) Portfolio"
+    Content:  Welcome! Most of what you find on this site will be to display the work that I have done over the last number of years.
 
   socialIcons:
     - name: twitter
