@@ -19,5 +19,4 @@ Fonts, texts and pens have always been a part of who I am. Much of my growing up
 
 ![](https://live.staticflickr.com/65535/52643084247_4cb51c42b6_z_d.jpg)
 
-
 ![](https://live.staticflickr.com/65535/52644029945_a2e0f4cb6f_z_d.jpg)
