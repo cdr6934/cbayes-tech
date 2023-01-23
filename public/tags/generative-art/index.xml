@@ -54,5 +54,14 @@ We have seen stars for millenium, but we have not had a good understanding at th
       <description>These are some of my favorite things.. the grid and then building an image inside each of the grids has a sense of satisfaction to me. I am not quite sure what that is, but it is quite swell.</description>
     </item>
     
+    <item>
+      <title>Like The Emperors Robe</title>
+      <link>https://chrisried.xyz/projects/emperors-robe/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/projects/emperors-robe/</guid>
+      <description>The following generative piece appears like the robe of an emperor. When looking closely, you will find that each square is unique as it builds a web of fabric. You can find the pieces on Objkt</description>
+    </item>
+    
   </channel>
 </rss>
