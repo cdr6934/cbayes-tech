@@ -1,7 +1,7 @@
 ---
 title: 'Lined Up Imperfectly'
 author: Chris Ried
-date: '3033-09-30'
+date: '2022-09-30'
 slug: lined-up-imperfectly
 categories:
 featured: 
