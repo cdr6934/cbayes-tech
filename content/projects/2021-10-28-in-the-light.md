@@ -1,7 +1,7 @@
 ---
 title: 'In the Light'
 author: Chris Ried
-date: '2021-28-10'
+date: '2021-10-28'
 slug: in-the-light
 categories:
 featured: 
