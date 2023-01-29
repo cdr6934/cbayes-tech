@@ -85,6 +85,12 @@ params:
       url: "https://github.com/cdr6934"
     - name: reddit
       url: "https://www.reddit.com/user/digitalbro"
+    - name: discord
+      url: "https://discord.gg/j55rYzeGFv"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCBOYyqA-mqyoTSJ8pO9sQiAs"
+    - name: mastodon
+      url: "https://genart.social/@generatecoll"
 
   analytics:
     google:
@@ -119,23 +125,23 @@ menu:
     - identifier: About
       name: About
       url: /about/
-      weight: 5
+      weight: 1
     - identifier: Posts
       name: Blog
       url: /posts/
-      weight: 6
+      weight: 2
     - identifier: Projects
       name: Projects
       url: /projects/
-      weight: 10
+      weight: 3
     - identifier: Resume
       name: Resume
       url: /resume/
-      weight: 10
+      weight: 4
     - identifier: Writings
       name: Writings
       url: /writings/
-      weight: 10
+      weight: 5
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
