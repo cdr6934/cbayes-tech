@@ -5,7 +5,6 @@ date: '2022-09-30'
 slug: lined-up-imperfectly
 categories:
 featured: 
-
 tags: ['generative', 'creative coding', 'generative art']
 ---
 
