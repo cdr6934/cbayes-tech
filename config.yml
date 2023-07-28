@@ -142,6 +142,10 @@ menu:
       name: Writings
       url: /writings/
       weight: 5
+    - identifier: Newsletter
+      name: Newsletter
+      url: /newsletter/
+      weight: 6
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
