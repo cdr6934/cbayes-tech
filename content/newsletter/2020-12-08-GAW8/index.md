@@ -1,17 +1,14 @@
 ---
 title: 'Cloud Fractals, Blooms, and Spinning Parametrics'
 author: Chris Ried
-date: '2020-11-21'
+date: '2020-12-08'
 slug: generative-arts-8
 categories: 
 featured: 
 tags: ['generative']
 ---
-
-
-
 > "The noblest pleasure is the joy of understanding." - Leonardo da Vinci
-> 
+
 
 Good morning friends,
 
