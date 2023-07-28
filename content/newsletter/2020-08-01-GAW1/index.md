@@ -1,6 +1,6 @@
 
 ---
-title: '#001 Generative Arts Weekly'
+title: 'Generative Arts Weekly #001'
 author: Chris Ried
 date: '2020-08-01'
 slug: generative-arts-1
@@ -8,6 +8,7 @@ categories:
 featured: 
 tags: ['generative']
 ---
+_Originally posted on [Substack](https://generative.substack.com/p/001-generative-arts-weekly)_
 
 > “Nothing's perfect, the world's not perfect. But it's there for us, trying the best it can; that's what makes it so beautiful.”  - *Hiromu Arakaw*
 
@@ -26,19 +27,13 @@ This is the first newsletter that I have put together and i know it won't be rea
 
 To be honest, I am not sure what to think about this style. It seems to be a bit worrisome to use ants as agents to generate the images that are here. But at the same time, there are some very interesting concepts of generative intelligence that I find interesting enough to add. ([source](https://kottke.org/20/10/paintings-by-fire-ants))
 
-## 📸Generative Graphics
+## 📸 Generative Graphics
 
 Here is a newly started [Twitter account](https://twitter.com/LFractals?s=20)  called @LFractals, as you see with the following images. There are some complex looking mathematics going on produce some beautiful [Lyapunov fractals](https://en.wikipedia.org/wiki/Lyapunov_fractal).
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c656f70-77e0-4e24-887c-c546bdf78607/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c656f70-77e0-4e24-887c-c546bdf78607/Untitled.png)
+![img](gaw1-1.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46a0dead-7945-4020-84fe-05ef8b7bede3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46a0dead-7945-4020-84fe-05ef8b7bede3/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a53b0b7-4c94-44ff-a7fb-5fa9009b0f26/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a53b0b7-4c94-44ff-a7fb-5fa9009b0f26/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92fed801-d828-4649-a780-813a3d2154bb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92fed801-d828-4649-a780-813a3d2154bb/Untitled.png)
-
-## 🎶Music
+## 🎶 Music
 
 [https://youtu.be/PnIyPsjaDAg](https://youtu.be/PnIyPsjaDAg)
 
@@ -99,11 +94,10 @@ Here is a [fun course](https://www.skillshare.com/classes/Creative-Generative-Ar
 
 - [The Nature of Code](https://www.amazon.com/Nature-Code-Daniel-Shiffman-ebook/dp/B00BPFT8D4/ref=sr_1_50?dchild=1&keywords=processing&qid=1602357653&sr=8-50) by Adam Shiffman
 
-<aside>
-📿 This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results. Readers will progress from building a basic physics engine to creating intelligent moving objects and complex systems, setting the foundation for further experiments in generative design.
 
-</aside>
+> This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results. Readers will progress from building a basic physics engine to creating intelligent moving objects and complex systems, setting the foundation for further experiments in generative design.
 
-The Nature of Code written by the Youtuber Adam Shiffman of [The Coding Train](https://www.youtube.com/user/shiffman) is by far the best "get into the nitty-gritty" how-to book to build oneself a framework to build the beautiful systems that mimic nature including fractals, fungal growth, firefly lighting patterns, and more. It's been a long time since I've read it, but I found it particularly useful to help create a framework by which interesting experiments can be run to experience the excitement of discovery. 
+
+> The Nature of Code written by the Youtuber Daniel Shiffman of [The Coding Train](https://www.youtube.com/user/shiffman) is by far the best "get into the nitty-gritty" how-to book to build oneself a framework to build the beautiful systems that mimic nature including fractals, fungal growth, firefly lighting patterns, and more. It's been a long time since I've read it, but I found it particularly useful to help create a framework by which interesting experiments can be run to experience the excitement of discovery. 
 
 # Send me your inspirations...

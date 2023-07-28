@@ -9,7 +9,7 @@
       <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chrisried.xyz/about/</link>
@@ -27,6 +27,24 @@ Timeline: 1986 - Born in Frankfurt, Germany 1997 - Moved to the USA 2000 - Built
       
       <guid>https://chrisried.xyz/resume/</guid>
       <description>Experience Founder | CBayes Media Labs | Oct 2021 - Present In October 2021, started working on Web3 projects Ethereum / Tezos blockchain. Contracted with well-known angel investors and music industry professionals on projects as a consultant. Senior Data Scientist | Kythera Labs | Apr 2021 - Oct 2021 Worked on a team of 5 data scientists working with proprietary claims data to identify cost savings opportunities by providing demographic intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Generative Coding</title>
+      <link>https://chrisried.xyz/resources/generative-coding/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/resources/generative-coding/</guid>
+      <description>Creative Coding Details </description>
+    </item>
+    
+    <item>
+      <title>Generative Music</title>
+      <link>https://chrisried.xyz/resources/generative-music/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/resources/generative-music/</guid>
+      <description>Creative Coding Details </description>
     </item>
     
     <item>
@@ -361,12 +379,579 @@ This note describes the technique and gives the solution to finding the shortest
     </item>
     
     <item>
-      <title>Rethinking Climate Change Awareness, Generative WebAssembly Music, and Exploring Differential Growth</title>
+      <title>Generative WebAssembly Music, Climate Change and Exploring Differential Growth</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-7/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-7/</guid>
+      <description>Originally posted on Substack
+&amp;ldquo;Curiosity is the main energy&amp;hellip;&amp;rdquo; - Robert Rauschenberg
+Here in the US, we just celebrated Thanksgiving Day, but with this unfortunate year; many of us have not been able to see our family due to restrictions, lock downs, etc. Yet there are always things that we can be thankful. For me is technology, programming languages and the ability to create using them and have done alot more this year than I have done in previously.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-6/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-6/</guid>
+      <description>Originally posted on Substack
+&amp;ldquo;The greatest value of a picture is when it forces us to notice what we never expected to see.&amp;rdquo; -John Tukey
+Hello friends,
+I hope that you all have had another amazing week being creative.
+A bunch of you have left feedback that you want to see more code; and so I have added a section called &amp;ldquo;Snippet of the Week&amp;rdquo; in which I will highlight shorter pieces of code that inspire me to further play with it and mutate it to being something else.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-8/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-8/</guid>
+      <description>&amp;ldquo;The noblest pleasure is the joy of understanding.&amp;rdquo; - Leonardo da Vinci
+Good morning friends,
+We are but a couple weeks away from Christmas having officially rung the bells of another Christmas season. Albeit, it is far from the traditional in store experiences of long lines snaking through the store and popping out at the seams. This year, across the globe our store fronts have transitioned to the internet. And there are some great advantages of it.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-9/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-10/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-11/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-12/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-13/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-14/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-15/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-16/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-17/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-18/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-19/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-20/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-21/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-22/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-23/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-24/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-25/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-26/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-27/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-28/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-29/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-30/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-31/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-32/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-33/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-34/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-35/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-36/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-37/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-38/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-39/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-40/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-41/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-43/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-6/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-44/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-45/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-46/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-47/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-48/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-49/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-50/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-51/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-52/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-53/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-54/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-55/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-56/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-57/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-58/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-59/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-60/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-61/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-62/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-63/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-64/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-65/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-66/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-67/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Surprise, Algoart w/ Flutter and Natural Processes</title>
       <link>https://chrisried.xyz/newsletter/generative-arts-5/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/newsletter/generative-arts-5/</guid>
-      <description>“All art is quite useless.” — but maybe useless is what we need right now. Oscar Wilde
+      <description>Originally posted on Substack
+“All art is quite useless.” — but maybe useless is what we need right now. Oscar Wilde
 Hello Friends!
 This week has been a wonderful week full of interesting links and experimentation for myself and I hope that they were the same for you.
 Below there is an article called &amp;ldquo;A CRITIQUE OF SURPRISE IN GENERATIVE ART&amp;rdquo; that has left interesting questions on the validity of generative art in light of artwork from the postmodern periods.</description>
@@ -392,6 +977,16 @@ This last week I finished the book, &amp;ldquo;Your Joking Mr. Feynman&amp;rdquo
     </item>
     
     <item>
+      <title>Generative Arts Weekly #003</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-3/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-3/</guid>
+      <description>&amp;ldquo;You can&amp;rsquo;t use up creativity. The more you use, the more you have.&amp;rdquo; - Maya Angelou
+This week&amp;rsquo;s letter is a little delayed due to being on vacation and trying to get in as much beach time before the tropical storms come. But it is always empowering to listen to the ocean and the sound that it makes. I mean the very nature of chaos that it controls due to the power of the waves is astounding.</description>
+    </item>
+    
+    <item>
       <title>Using Analytics to Determine Ideal Hashtags for Instagram</title>
       <link>https://chrisried.xyz/posts/using-analytics-to-determine-ideal-hashtags/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
@@ -408,16 +1003,6 @@ This last week I finished the book, &amp;ldquo;Your Joking Mr. Feynman&amp;rdquo
       
       <guid>https://chrisried.xyz/newsletter/generative-arts-2/</guid>
       <description>“ Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light, and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic. Authenticity is invaluable; originality is non-existent. And don&amp;rsquo;t bother concealing your thievery - celebrate it if you feel like it. In any case, always remember what Jean-Luc Godard said: Worry not where you take things from - it&amp;rsquo;s where you take them to.</description>
-    </item>
-    
-    <item>
-      <title>Generative Arts Weekly #003</title>
-      <link>https://chrisried.xyz/newsletter/generative-arts-3/</link>
-      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrisried.xyz/newsletter/generative-arts-3/</guid>
-      <description>&amp;ldquo;You can&amp;rsquo;t use up creativity. The more you use, the more you have.&amp;rdquo; - Maya Angelou
-This week&amp;rsquo;s letter is a little delayed due to being on vacation and trying to get in as much beach time before the tropical storms come. But it is always empowering to listen to the ocean and the sound that it makes. I mean the very nature of chaos that it controls due to the power of the waves is astounding.</description>
     </item>
     
     <item>
@@ -443,12 +1028,13 @@ Prior statistical distributions are updated as new information becomes available
     </item>
     
     <item>
-      <title>#001 Generative Arts Weekly</title>
+      <title>Generative Arts Weekly #001</title>
       <link>https://chrisried.xyz/newsletter/generative-arts-1/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/newsletter/generative-arts-1/</guid>
-      <description>“Nothing&amp;rsquo;s perfect, the world&amp;rsquo;s not perfect. But it&amp;rsquo;s there for us, trying the best it can; that&amp;rsquo;s what makes it so beautiful.” - Hiromu Arakaw
+      <description>Originally posted on Substack
+“Nothing&amp;rsquo;s perfect, the world&amp;rsquo;s not perfect. But it&amp;rsquo;s there for us, trying the best it can; that&amp;rsquo;s what makes it so beautiful.” - Hiromu Arakaw
 The beauty of art is that it is experimental, its emotional, it&amp;rsquo;s spiritual and as an artist, it helps better understand who we are and why we are by expressing the inner self. It can be a medium of unity, it can be a cry for anarchy.</description>
     </item>
     
