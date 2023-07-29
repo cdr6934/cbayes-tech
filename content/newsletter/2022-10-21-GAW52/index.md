@@ -5,7 +5,7 @@ date: '2022-19-21'
 slug: generative-arts-52
 categories: 
 featured: 
-tags: ['generative']
+tags: ['generative','newsletter']
 ---
 
 [Website](https://www.generativecollective.com/) |  [Instagram](https://www.instagram.com/generate.collective/) | [Youtube](https://www.youtube.com/channel/UCBOYyqA-mqyoTSJ8pO9sQiA) | [Behance](https://www.behance.net/generatecoll) | [Twitter](https://twitter.com/generatecoll) | [BuyMeACoffee](https://www.buymeacoffee.com/generatecoll)

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>newsletter on Artistic Portfolio of Chris Ried</title>
+    <link>https://chrisried.xyz/tags/newsletter/</link>
+    <description>Recent content in newsletter on Artistic Portfolio of Chris Ried</description>
+    <image>
+      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorists, Metaballs and Shader Prototyping</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-53/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-53/</guid>
+      <description>Originally posted on Substack
+if(creation &amp;amp;&amp;amp; object of art &amp;amp;&amp;amp; algorithm &amp;amp;&amp;amp; one’s own algorithm) { include * an algorist* } else if(!creation &amp;amp;&amp;amp; !object of art &amp;amp;&amp;amp; !algorithm &amp;amp;&amp;amp; !one’s own algorithm) { exclude not an algorist }
+The above statement was the manifesto coined by J. P. Herbert and the mantra of The Algorists; a group formed in 1995 at SIGGRAPH which included (Roman Verostko, Jean-Pierre Hébert, and Ken Musgrave).</description>
+    </item>
+    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>https://chrisried.xyz/newsletter/generative-arts-52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisried.xyz/newsletter/generative-arts-52/</guid>
+      <description>Website | Instagram | Youtube | Behance | Twitter | BuyMeACoffee
+The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips
+Hello fellow readers,
+Hope your Friday morning / afternoon is going well. There are a number of interesting links below for you to digest and swallow.
+And for just a little inspiration…
+If you haven’t seen the work by Tyler Boswell definitely check out his work September</description>
+    </item>
+    
+  </channel>
+</rss>
