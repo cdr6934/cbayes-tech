@@ -58,7 +58,7 @@ Chris
 
 ## Articles
 
-![Untitled](#056%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20173d803f7772461eae64462a8031112f/Untitled.png)
+![Untitled](Untitled.png)
 
 ## [Genuary 2023](https://genuary.art/)
 
@@ -68,7 +68,7 @@ Here is an exciting entry from last year that I  happened upon and found quite i
 
 [https://www.youtube.com/watch?v=skZDNexhYXU](https://www.youtube.com/watch?v=skZDNexhYXU)
 
-![Untitled](#056%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20173d803f7772461eae64462a8031112f/Untitled%201.png)
+![Untitled](#Untitled%201.png)
 
 ## **[The Wavefunction Collapse Algorithm Explained](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)**
 
@@ -86,7 +86,7 @@ Here is an exciting entry from last year that I  happened upon and found quite i
 
 This is a great example of artificial life that is further down in the article above. I just thought if you didn’t have the time to look it up this would be an easy way to do that. 
 
-![physarum (2).png](#056%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20173d803f7772461eae64462a8031112f/physarum_(2).png)
+![physarum (2).png](physarum_(2).png)
 
 ## [GUI IO](https://observablehq.com/@esperanc/gpu-io)
 

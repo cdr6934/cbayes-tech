@@ -19,7 +19,7 @@ My apologies for not sending out a newsletter in the past couple of weeks. I've 
 
 I want to thank you for your subscriptions and continued support.
 
-![CleanShot 2023-05-10 at 09.20.21.png](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/CleanShot_2023-05-10_at_09.20.21.png)
+![CleanShot 2023-05-10 at 09.20.21.png](CleanShot_2023-05-10_at_09.20.21.png)
 
 # 2D Javascript Game Engines
 
@@ -46,7 +46,7 @@ But here are a few to get started with!
 
 ---
 
-![CleanShot 2023-05-10 at 08.33.33.png](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/CleanShot_2023-05-10_at_08.33.33.png)
+![CleanShot 2023-05-10 at 08.33.33.png](CleanShot_2023-05-10_at_08.33.33.png)
 
 ## [#GenCodeCraft](https://openprocessing.org/curation/84089) : [Checked Board](https://generative.substack.com/p/spinning-flips-3d-ceramics-and-genartcraft)
 
@@ -58,17 +58,17 @@ As for now, I think I’ll try to experiment with this later. As summer comes al
 
 ## Who Made Me?
 
-![Untitled](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/Untitled.png)
+![Untitled](Untitled.png)
 
 Following piece was created by [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake) from the [Spalter Collection](https://spalterdigital.com/artists/frieder-nake/)  - **Matrix multiplication (1967-68)**
 
-![CleanShot 2023-05-10 at 08.39.58@2x.png](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/CleanShot_2023-05-10_at_08.39.582x.png)
+![CleanShot 2023-05-10 at 08.39.58@2x.png](CleanShot_2023-05-10_at_08.39.582x.png)
 
 For next edition… 
 
 **Who made me?** 
 
-![Untitled](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 # **[The Sferic Project](https://www.mattdesl.com/sferics.html)**
 
@@ -84,7 +84,7 @@ Matt is always up to some interesting work. I been following him for years and a
 
 I was absolutely floored by the sounds that Nathan Ho has been able to create using [SoundCollider](https://supercollider.github.io/) and his blog posts are definitely worth reading and checking out. 
 
-![Untitled](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 ## [From Random Number to Texture](http://www.science-and-fiction.org/rendering/noise.html)
 
@@ -108,14 +108,14 @@ Bellevue, WA, United States: 3-5 May, 2023
 
 This is just some really interesting new techniques from Academia and research labs around the world. 
 
-![CleanShot 2023-05-10 at 08.27.43@2x.png](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/CleanShot_2023-05-10_at_08.27.432x.png)
+![CleanShot 2023-05-10 at 08.27.43@2x.png](CleanShot_2023-05-10_at_08.27.432x.png)
 
 ## [Tesselated Art](https://tiled.art/en/home/?id=GreenWoodpeckers)
 
 > Welcome to the world of tessellated art, where talented artists craft a figure that interlocks with itself perfectly to fill the page. Dutch artist [M. C. Escher](https://tiled.art/en/artists/?id=escher) mastered the form first, inspiring artists worldwide to create the captivating art shown on this site.
 > 
 
-![Untitled](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ## **iKeleton-OSC**
 
@@ -131,7 +131,7 @@ Its a rather interesting project, this can be done through the browser using [te
 
 ## Book
 
-![Untitled](#065%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20cfadca8d6ac644ac8c7abad51fbf7843/Untitled%204.png)
+![Untitled](Untitled%204.png)
 
 ## **[Internet_Art](https://www.phaidon.com/store/art/internet_art-from-the-birth-of-the-web-to-the-rise-of-nfts-9781838664077/)**
 

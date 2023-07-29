@@ -46,7 +46,7 @@ Just like [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) or [Manf
 
 ## Who made me?
 
-![Untitled](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/Untitled.png)
+![Untitled](Untitled.png)
 
 **Manfred Mohr -P1011_MS, 2004 (***The Algorithmic Dimension, ́ Springer ́ Series ́ on ́ Cultural ́ Computing, https://doi.org/10.1007/978-3-319-61167-9_5 ́*)
 
@@ -61,7 +61,7 @@ Just like [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) or [Manf
 > Just a fun experiment by Bleeptrack using Blender and image processing
 > 
 
-![CleanShot 2023-07-16 at 23.10.42.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-16_at_23.10.42.png)
+![CleanShot 2023-07-16 at 23.10.42.png](CleanShot_2023-07-16_at_23.10.42.png)
 
 ## ****[Casey Reas on the History of Generative Art](https://www.lerandom.art/editorial/casey-reas-on-the-history-of-generative-art-part-2)****
 
@@ -75,7 +75,7 @@ Just like [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) or [Manf
 > In this tutorial, I explore the fascinating realm of shader art coding and aim to offer helpful insights and guidance to assist you in beginning your own creative journey. I hope to share my passion with you along the way!
 > 
 
-![CleanShot 2023-07-17 at 00.08.43.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-17_at_00.08.43.png)
+![CleanShot 2023-07-17 at 00.08.43.png](CleanShot_2023-07-17_at_00.08.43.png)
 
 ## [Scripting RiTa](https://observablehq.com/@dhowe/riscript) (Generative Language)
 
@@ -84,14 +84,14 @@ Just like [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) or [Manf
 
 This is an Observable notebook. RiTa is a more “composable” alternative to generative writing than the large language models (aka ChatGPT). This library is more heuristic in nature, however doesn’t require an API.  
 
-![CleanShot 2023-07-16 at 22.35.58.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-16_at_22.35.58.png)
+![CleanShot 2023-07-16 at 22.35.58.png](CleanShot_2023-07-16_at_22.35.58.png)
 
 ## [A Deep Dive into SVG Paths](https://www.nan.fyi/svg-paths)
 
 > you've ever looked at the SVG code for an icon before, you might have noticed that they're usually made up of a bunch of `path` elements, each with a cryptic `d` attribute.
 > 
 
-![CleanShot 2023-07-17 at 07.57.19@2x.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-17_at_07.57.192x.png)
+![CleanShot 2023-07-17 at 07.57.19@2x.png](CleanShot_2023-07-17_at_07.57.192x.png)
 
 ## [Building Generative Grid Layouts with Quadtrees](https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/)
 
@@ -107,14 +107,14 @@ This is an Observable notebook. RiTa is a more “composable” alternative to g
 
 This video is the first of 27 videos that can be used. 
 
-![CleanShot 2023-07-16 at 22.51.20.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-16_at_22.51.20.png)
+![CleanShot 2023-07-16 at 22.51.20.png](CleanShot_2023-07-16_at_22.51.20.png)
 
 ## ****[Searching for rigidity in algebraic starscapes](https://doi-org.colorado.idm.oclc.org/10.1080/17513472.2022.2045048)****
 
 > We create plots of algebraic integers in the complex plane, exploring the effect of sizing the points according to various arithmetic invariants. We focus on Galois theoretic invariants, in particular creating plots which emphasize algebraic integers whose Galois group is *not* the full symmetric group−these integers we call *rigid*. We then give some analysis of the resulting images, suggesting avenues for future research about the geometry of so-called *rigid algebraic integers*.
 > 
 
-![CleanShot 2023-07-16 at 22.58.44.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-16_at_22.58.44.png)
+![CleanShot 2023-07-16 at 22.58.44.png](CleanShot_2023-07-16_at_22.58.44.png)
 
 ## [Penrose - Create Beautiful Diagrams](https://penrose.cs.cmu.edu/)
 
@@ -123,7 +123,7 @@ This video is the first of 27 videos that can be used.
 
 I know some of you are always looking for tools to use in educational settings and there is definitely a toolkit that can help create and further explore the ability further education. 
 
-![CleanShot 2023-07-16 at 23.15.20.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-16_at_23.15.20.png)
+![CleanShot 2023-07-16 at 23.15.20.png](CleanShot_2023-07-16_at_23.15.20.png)
 
 ## **[Beesandbombs - June 26, 2023](https://observablehq.com/d/a741f9a27e8c0e73)**
 
@@ -132,7 +132,7 @@ I know some of you are always looking for tools to use in educational settings a
 
 ## Courses
 
-![CleanShot 2023-07-16 at 22.47.12.png](#067%20-%20Creative%20Coding%20Generative%20Arts%20d8dc9dd3105349b5a24cc36a353d0ebd/CleanShot_2023-07-16_at_22.47.12.png)
+![CleanShot 2023-07-16 at 22.47.12.png](CleanShot_2023-07-16_at_22.47.12.png)
 
 ## ****[Modeling 3D Patterns with Rhino Grasshopper](https://www.domestika.org/en/courses/4399-modeling-3d-patterns-with-rhino-grasshopper)****
 

@@ -32,7 +32,7 @@ For the **Who am I** section, this will fall into the keeping history alive. I t
 
 I’ve thought this might be a fun little section for all of you readers.. I’ll add a picture of an artist who is generative / multimedia artist and leave the answer in the comments. 
 
-![Untitled](#057%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20307f8d1257a94603ab8bbd15c4dae974/Untitled.png)
+![Untitled](Untitled.png)
 
 Next week I’ll reveal the answer, and then add some more color to why I’ve picked the above artist. 
 
@@ -69,7 +69,7 @@ Of course there are many more, don’t forget to look on [Mastodon](https://gena
 
 Definitely in the early stages, but I think something to gain some inspiration 
 
-![Untitled](#057%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20307f8d1257a94603ab8bbd15c4dae974/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## **[How to Draw Ideas](https://ralphammer.com/how-to-draw-ideas/)**
 
@@ -78,7 +78,7 @@ Definitely in the early stages, but I think something to gain some inspiration
 
 When building generative systems, sometimes it's about welding an existing system; other times is taking an idea and creating a new algorithm.. I found this to be a helpful write-up on how to use the concept of drawing out ideas to further understand and demonstrate an algorithm's uniqueness. 
 
-![CleanShot 2023-01-16 at 13.46.14@2x.png](#057%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20307f8d1257a94603ab8bbd15c4dae974/CleanShot_2023-01-16_at_13.46.142x.png)
+![CleanShot 2023-01-16 at 13.46.14@2x.png](CleanShot_2023-01-16_at_13.46.142x.png)
 
 ## **[3D in CSS](https://garden.bradwoods.io/notes/css/3d)**
 
@@ -110,7 +110,7 @@ I’ve been watching her work for a number of years now and would highly recomme
 
 If you haven’t looked into using [OpenFrameworks](https://openframeworks.cc/) as a toolkit to extend your work, here is a comprehensive start. It’s one of the main tools of Zach Liebermann as well. 
 
-![CleanShot 2023-01-16 at 18.21.24@2x.png](#057%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20307f8d1257a94603ab8bbd15c4dae974/CleanShot_2023-01-16_at_18.21.242x.png)
+![CleanShot 2023-01-16 at 18.21.24@2x.png](#CleanShot_2023-01-16_at_18.21.242x.png)
 
 # **[Bio-Design: Living Construction** **(Book)**](https://www.routledge.com/Living-Construction/Dade-Robertson/p/book/9781138363038)
 

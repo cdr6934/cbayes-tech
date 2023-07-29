@@ -11,7 +11,7 @@ tags: ['generative']
 _Originally posted on [Substack](https://generative.substack.com/p/10print-svg-visual-language-workshop)_
  
 
-![CleanShot 2023-02-01 at 09.31.32.png](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/CleanShot_2023-02-01_at_09.31.32.png)
+![CleanShot 2023-02-01 at 09.31.32.png](CleanShot_2023-02-01_at_09.31.32.png)
 
 It’s humbling that in the past 90 days, I’ve had subscribed readers from **75 different countries**. In a world with so much content and other things to do, I do appreciate your interest in this passion of mine and I hope I can continue celebrating this practice with you all.  
 
@@ -43,14 +43,14 @@ Chris Ried
 
 And this week’s rendition is **Muriel Cooper (1924 - 1994)** 
 
-![image (2).jpeg](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/image_(2).jpeg)
+![image (2).jpeg](image_(2).jpeg)
 
 - Known best for her work in book design and engaging with digital art.
 - Designer of the MIT Press Logo
 - Although never learned to code, Muriel  was central to teaching and help ready a new generation of creative coding practices such as [John Maeda](https://maedastudio.com/) who continued to heavily influence the likes of [Golan Levin](https://www.flong.com/) and  [Casey Reas](https://twitter.com/reas?lang=en).
 - Founder of the Visual Language Workshop (instrumental to exploring multimedia type in numerous mediums)
 
-![Untitled](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/Untitled.png)
+![Untitled](Untitled.png)
 
 Just to showcase some of her work… 
 
@@ -62,11 +62,11 @@ References:
 
 For next week.. 
 
-![Untitled](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 Who are they? 
 
-![CleanShot 2023-02-03 at 23.31.57.png](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/CleanShot_2023-02-03_at_23.31.57.png)
+![CleanShot 2023-02-03 at 23.31.57.png](CleanShot_2023-02-03_at_23.31.57.png)
 
 ## [2D Fluid Simulation](https://magnum.graphics/showcase/fluidsimulation2d/)
 
@@ -82,7 +82,7 @@ Just a fun simulation to play around with a bunch of technical documentation lin
 > The first thing we need to produce an image is a two-dimensional surface (this surface must be of some area and cannot be a point). With this in mind, we can visualize a picture as a cut made through a pyramid whose apex is located at the center of our eye and whose height is parallel to our **line of sight** (remember, to see something, we must view along a line that connects the eye to that object). We will call this cut, or slice, mentioned before, the **image plane**  (you can see this image plane as the canvas used by painters). An image plane is a computer graphics concept, and we will use it as a two-dimensional surface to project our three-dimensional scene. Although it may seem obvious, what we have just described is one of the most fundamental concepts used to create images on various apparatuses. For example, an equivalent in photography is the surface of the film (a sensor for a digital camera) or, as mentioned before, the canvas used by painters.
 > 
 
-![Untitled](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 ## [Arcadia](https://zchwtsn.com/work/arcadia)
 
@@ -92,14 +92,14 @@ Just a fun simulation to play around with a bunch of technical documentation lin
 
 I found the writeup for this piece to really pick through the process and thoughts of the artist Zach Watson. You can find him on [IG](https://www.instagram.com/zchwtsn/) and his [site](https://zchwtsn.com/).
 
-![untitled - 2023-02-03T233812.058.png](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/untitled_-_2023-02-03T233812.058.png)
+![untitled - 2023-02-03T233812.058.png](untitled_-_2023-02-03T233812.058.png)
 
 ## [10 PRINT with SVG](https://observablehq.com/@esperanc/10-print-with-svg-and-use?collection=@esperanc/generative-art)
 
 > Yes, yet another [10 PRINT](https://10print.org/) notebook! The ideas of that seminal program is a favorite among creative coders and everybody should check the book. If you don't believe me, just type *10 print* in the Search box above...
 > 
 
-![Untitled](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ## ****[the breakout star of generative art](https://www.wallpaper.com/art/meet-tyler-hobbs-the-breakout-star-of-generative-art)****
 
@@ -109,7 +109,7 @@ I found the writeup for this piece to really pick through the process and though
 
 I’m always very happy to see generative art continue to be part of the cultural conversation. 
 
-![CleanShot 2023-02-03 at 23.33.51.png](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/CleanShot_2023-02-03_at_23.33.51.png)
+![CleanShot 2023-02-03 at 23.33.51.png](CleanShot_2023-02-03_at_23.33.51.png)
 
 ## [Outburst](https://note.com/outburst/)
 
@@ -120,7 +120,7 @@ I’m always very happy to see generative art continue to be part of the cultura
 
 ## [Coded: Art Enters the Computer Age](https://www.amazon.com/dp/1636810802?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-![Untitled](#059%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20d2ee85f84bfc481fa085bd18d4352d93/Untitled%204.png)
+![Untitled](Untitled%204.png)
 
 > *Coded: Art Enters the Computer Age, 1952–1982* explores how the rise of computer technology, together with its emergence in popular consciousness, impacted the making of art in the age of the mainframe. International and interdisciplinary in scope, *Coded*
  examines the origins of what we now call digital art, featuring artists, writers, musicians, choreographers and filmmakers working directly with computers as well as those using algorithms and other systems to produce their work. Whether computer-generated or not, the many artworks considered here reflect the simultaneous wonder and alienation that was characteristic of the 1960s and ’70s, along with the utopian and dystopian possibilities of these new machines. Today, with digital technology fully integrated into our lives, *Coded*’s examination of the years leading up to the advent of the personal computer is relevant, even imperative, to fully appreciating art and culture in the computer age―both then and now.

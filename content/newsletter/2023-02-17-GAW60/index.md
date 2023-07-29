@@ -51,7 +51,7 @@ Chris Ried
 
 ## Who Are We?
 
-![Untitled](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled.png)
+![Untitled](Untitled.png)
 
 ## Charles and Collette Bangert
 
@@ -59,11 +59,11 @@ Chris Ried
 - Charles Bangert was employed at the University of Kansas, and when the university was given a plotter in 1967, he was asked to test it. ([Atari Archives](https://www.atariarchives.org/artist/sec5.php))
 - “The Bangerts’ work thus explores the act of creation, regardless of medium, by utilizing the computer to push the boundaries of praxis.” ([link](https://spalterdigital.com/artists/colette-bangert/))
 
-![*Blue Circled Through Black' (continuous line study) 23 x 23 inches. 1972. Computer; colored inks on paper.*](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%201.png)
+![*Blue Circled Through Black' (continuous line study) 23 x 23 inches. 1972. Computer; colored inks on paper.*](Untitled%201.png)
 
 *Blue Circled Through Black' (continuous line study) 23 x 23 inches. 1972. Computer; colored inks on paper.*
 
-![*'Contained Contours I' 8 × 8 inches. 197. Computer; ink on paper.*](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%202.png)
+![*'Contained Contours I' 8 × 8 inches. 197. Computer; ink on paper.*](Untitled%202.png)
 
 *'Contained Contours I' 8 × 8 inches. 197. Computer; ink on paper.*
 
@@ -71,15 +71,15 @@ Their work was anything but deterministic. It provided a sense of handcraft that
 
 Next week… 
 
-![Untitled](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 # 🔖 Articles and Tutorials
 
-![Charles “Chuck” Csuri, Five Faces, 1966. Courtesy of The Anne and Michael Spalter Digital Art Collection](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%204.png)
+![Charles “Chuck” Csuri, Five Faces, 1966. Courtesy of The Anne and Michael Spalter Digital Art Collection](Untitled%204.png)
 
 Charles “Chuck” Csuri, Five Faces, 1966. Courtesy of The Anne and Michael Spalter Digital Art Collection
 
-![Charles “Chuck” Csuri, *Sine Curve Man*, 1967. Courtesy of The Anne and Michael Spalter Digital Art Collection](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%205.png)
+![Charles “Chuck” Csuri, *Sine Curve Man*, 1967. Courtesy of The Anne and Michael Spalter Digital Art Collection](Untitled%205.png)
 
 Charles “Chuck” Csuri, *Sine Curve Man*, 1967. Courtesy of The Anne and Michael Spalter Digital Art Collection
 
@@ -90,7 +90,7 @@ Charles “Chuck” Csuri, *Sine Curve Man*, 1967. Courtesy of The Anne and Mic
 
 Just an alternative perspective from the next generation. A different look into the life and times… 
 
-![Untitled](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%206.png)
+![Untitled](Untitled%206.png)
 
 ## ****[Generative AI and Artistic Practice](https://www.media.mit.edu/events/future-sketches-lunch-lectures/)****
 
@@ -99,28 +99,28 @@ Just an alternative perspective from the next generation. A different look into 
 
 Ah Sofia’s work continues to inspire me. 
 
-![Untitled](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%207.png)
+![Untitled](Untitled%207.png)
 
 ## ****[Visualizing Sound: A Beginner’s Guide to Using TouchDesigner with Live](https://www.ableton.com/en/blog/visualizing-sound-a-beginners-guide-to-using-touchdesigner-with-live)****
 
 > Throughout the history of electronic music, audiovisual art has been integral to its aesthetic identity, both in live performance settings and more recently online. As a result, ever more music makers are incorporating visual media into their work, leading to a new generation of artists who continue to push the boundaries of music’s visual representation.
 > 
 
-![CleanShot 2023-02-14 at 21.21.51@2x.png](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/CleanShot_2023-02-14_at_21.21.512x.png)
+![CleanShot 2023-02-14 at 21.21.51@2x.png](CleanShot_2023-02-14_at_21.21.512x.png)
 
 ## [Poline](https://meodai.github.io/poline/)
 
 > "**poline**" is an enigmatic color palette generator, that harnesses the mystical witchcraft of polar coordinates. Its methodology, defying conventional color science, is steeped in the esoteric knowledge of the early 20th century. This magical technology defies explanation, drawing lines between anchors to produce visually striking and otherworldly palettes. It is an indispensable tool for the modern generative sorcerer, and a delight for the eye.
 > 
 
-![Untitled](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/Untitled%208.png)
+![Untitled](Untitled%208.png)
 
 ## ****[The Art of the Shadow: How Painters Have Gotten It Wrong for Centuries](https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/)****
 
 > Shadows can do some adventurous, sometimes malignant, poetic things: They move, rebel, hide, refuse to be identified, vanish. All these visual aspects provide fertile ground for complex metaphors and narrations. Shadows are so visually telling that it takes little to move into emotionally tinged narratives. But it is the visual aspects that we primarily deal with here, with a special focus on several types of misrepresentations of shadows — shadows doing impossible things — that nevertheless reap a payoff for scene layout and do not look particularly shocking.
 > 
 
-![CleanShot 2023-02-16 at 17.20.36.png](#060%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20a66859dca6494c0287bbfd4ac15d0518/CleanShot_2023-02-16_at_17.20.36.png)
+![CleanShot 2023-02-16 at 17.20.36.png](CleanShot_2023-02-16_at_17.20.36.png)
 
 ## **[What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work)**
 

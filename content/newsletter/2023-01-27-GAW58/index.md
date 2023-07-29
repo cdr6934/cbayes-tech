@@ -42,7 +42,7 @@ Chris Ried
 
 ## Who Am I… Solomon LeWitt
 
-![Untitled](Newsletter%200955ae0a0c114ba99e39b57a0aede9fa/Archive%20aef81b611bfe4a39acfd9600aee00382/#057%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20307f8d1257a94603ab8bbd15c4dae974/Untitled.png)
+![Untitled](Untitled.png)
 
 ### [Sol LeWitt](https://www.notion.so/058-Creative-Coding-Generative-Arts-Weekly-4259ff9dc4774ab68cc52a7c157070a8?pvs=21)
 
@@ -50,7 +50,7 @@ Chris Ried
 - Linked with the first experiments of conceptual art (which include over 1200 wall pieces)
 - Usually noted for his gallery conceptual pieces but started in the early 1960s with the radically simplified open cube, it became a basic building block of the artist's three-dimensional work playing on the 8.5:1 ratio of its negative space.
 
-![Untitled](#058%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204259ff9dc4774ab68cc52a7c157070a8/Untitled.png)
+![Untitled](Untitled.png)
 
 - “Conceptual art was neither mathematical nor intellectual but intuitive, given that the complexity inherent to transforming an idea into a work of art was fraught with contingencies.”
 
@@ -76,14 +76,14 @@ Definitely a worthy watch. The sculptures are absolutely special and natural in 
 > A research project simulating the evolution of virtual corals. Corals are grown in underwater environments containing light and current flow and are evolved with a genetic-algorithm. Morphogens, signaling, memory and other biologically motivated capacities enable a multipurpose biomimetic form optimization engine. This work is part of a series of projects exploring emergent and generative forms.
 > 
 
-![CleanShot 2023-01-27 at 16.43.00.png](#058%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204259ff9dc4774ab68cc52a7c157070a8/CleanShot_2023-01-27_at_16.43.00.png)
+![CleanShot 2023-01-27 at 16.43.00.png](CleanShot_2023-01-27_at_16.43.00.png)
 
 ## [Growth Algorithms by Sheltron](https://nshelton.github.io/home/growth/)
 
 > Along with fractals, I also got really into growth algorithms, especially making them run in realtime. It seems like a perfect intersection of design and art with computer science and math.
 > 
 
-![CleanShot 2023-01-27 at 16.42.36.png](#058%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204259ff9dc4774ab68cc52a7c157070a8/CleanShot_2023-01-27_at_16.42.36.png)
+![CleanShot 2023-01-27 at 16.42.36.png](CleanShot_2023-01-27_at_16.42.36.png)
 
 ## [Tilix](https://c6y.github.io/tilix-reference/)
 
@@ -95,7 +95,7 @@ Definitely a worthy watch. The sculptures are absolutely special and natural in 
 > Generative Music or Aleatoric Music is quite different in terms of method as compared to traditional music creation using musical instruments. In this video I try to create a fairly basic generative music system in the low code/no code web gl platform cables.gl.
 > 
 
-![CleanShot 2023-01-27 at 16.39.09.png](#058%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204259ff9dc4774ab68cc52a7c157070a8/CleanShot_2023-01-27_at_16.39.09.png)
+![CleanShot 2023-01-27 at 16.39.09.png](CleanShot_2023-01-27_at_16.39.09.png)
 
 ## ****[Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121)****
 
@@ -109,7 +109,7 @@ Definitely a worthy watch. The sculptures are absolutely special and natural in 
 > Color strongly influences the way we perceive information, especially when that information is dense, multidimensional, and nuanced—as is often the case in scientific data sets. Choosing colors to visually represent data can thus be hugely important in interpreting and presenting scientific results accurately and effectively.
 > 
 
-![CleanShot 2023-01-27 at 16.38.03.png](#058%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204259ff9dc4774ab68cc52a7c157070a8/CleanShot_2023-01-27_at_16.38.03.png)
+![CleanShot 2023-01-27 at 16.38.03.png](CleanShot_2023-01-27_at_16.38.03.png)
 
 ## **[Common Lisp and Music Composition](https://ldbeth.sdf.org/articles/cm.html)**
 

@@ -42,14 +42,14 @@ The above statement was the manifesto coined by J. P. Herbert and the mantra of 
 > It’s been a while since I’ve had a chance to publish on my personal blog. But key things remain, including the timeliness of our commentary and efforts towards building space with equal opportunities. If 2021 was a rollercoaster for artistic creativity within web3, in 2022, we somehow collectively accepted that the world is changing at an accelerated pace and are just trying to keep up.
 > 
 
-![Untitled](#053%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%201d35fce02d1a4a63b9dec8bbe8471db1/Untitled.png)
+![Untitled](Untitled.png)
 
 ## ****[Creativity in Generative Musical Networks: Evidence From Two Case Studies](https://www.frontiersin.org/articles/10.3389/frobt.2021.680586/full)****
 
 > Deep learning, one of the fastest-growing branches of artificial intelligence, has become one of the most relevant research and development areas of the last years, especially since 2012, when a neural network surpassed the most advanced image classification techniques of the time. This spectacular development has not been alien to the world of the arts, as recent advances in generative networks have made possible the artificial creation of high-quality content such as images, movies or music. We believe that these novel generative models propose a great challenge to our current understanding of computational creativity.
 > 
 
-![CleanShot 2022-10-31 at 10.19.27.png](#053%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%201d35fce02d1a4a63b9dec8bbe8471db1/CleanShot_2022-10-31_at_10.19.27.png)
+![CleanShot 2022-10-31 at 10.19.27.png](CleanShot_2022-10-31_at_10.19.27.png)
 
 ## [Metaballs](https://varun.ca/metaballs/)
 
@@ -58,7 +58,7 @@ The above statement was the manifesto coined by J. P. Herbert and the mantra of 
 
 # 🎒Courses
 
-![Untitled](#053%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%201d35fce02d1a4a63b9dec8bbe8471db1/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## [Shader Prototyping](https://shadercamp.gumroad.com/l/SHADERPROTOTYPING)
 
@@ -71,7 +71,7 @@ I watched the class last week and the course really helps abstract away the shad
 
 # 📚Books
 
-![CleanShot 2022-11-02 at 22.16.55.png](#053%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%201d35fce02d1a4a63b9dec8bbe8471db1/CleanShot_2022-11-02_at_22.16.55.png)
+![CleanShot 2022-11-02 at 22.16.55.png](CleanShot_2022-11-02_at_22.16.55.png)
 
 ## [The Beauty of Fractals](https://www.amazon.com/Beauty-Fractals-Complex-Dynamical-Systems/dp/3540158510/ref=sr_1_1?crid=7ITL99MNRNY2&keywords=The+Beauty+of+Fractals&qid=1667445549&qu=eyJxc2MiOiIwLjcwIiwicXNhIjoiMC41MCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=the+beauty+of+fractals%2Caps%2C167&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)
 

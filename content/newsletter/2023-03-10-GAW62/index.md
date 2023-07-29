@@ -41,20 +41,20 @@ const sample_function = () => {return "Yay"}
 
 This is a section to celebrate artists who have taken generative / procedural art to another plane. This week I’ll leave it up to you to guess, but next week I’ll provide more context of her work. 
 
-![Untitled](#062%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%203ec8af37053242c498cad4bfc2af1e63/Untitled.png)
+![Untitled](Untitled.png)
 
 So who am I? 
 
 # Articles & Tutorials
 
-![CleanShot 2023-03-10 at 09.55.24.png](#062%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%203ec8af37053242c498cad4bfc2af1e63/CleanShot_2023-03-10_at_09.55.24.png)
+![CleanShot 2023-03-10 at 09.55.24.png](CleanShot_2023-03-10_at_09.55.24.png)
 
 ## **Isogonal conjugate and locus of center of inellipse in a regular triangle**
 
 > *This an epic geometric problem combining the beauty of Euclidean geometry and powerful numerical computation in WL. Given a equilateral triangle, we want to find all ellipse with fixed eccentricity that touches all three sides. This problems uses the a theorem about pedal triangle that helps us to find the possible center of the ellipse bases on an initial seeding point (as one of the foci) and its isogonal conjugate.*
 > 
 
-![Untitled](#062%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%203ec8af37053242c498cad4bfc2af1e63/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## ****[The magic of Eurorack and ChatGPT](https://medium.com/@g.braakman/the-magic-of-eurorack-and-chatgtp-8e8144a6a1d5)****
 
@@ -63,14 +63,14 @@ So who am I?
 
 Following came from this [article](https://cdm.link/2023/03/chatgpt-eurorack-patching/).
 
-![CleanShot 2023-03-10 at 09.31.06.png](#062%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%203ec8af37053242c498cad4bfc2af1e63/CleanShot_2023-03-10_at_09.31.06.png)
+![CleanShot 2023-03-10 at 09.31.06.png](CleanShot_2023-03-10_at_09.31.06.png)
 
 ## [Midjourney Envisions How Centuries-long extinct creatures would look like](https://www.designboom.com/art/midjourney-envisions-centuries-long-extinct-creatures-angelo-renna-03-06-2023)
 
 > ‘What is lost is (not) lost forever’ imagines how extraordinary species which have become extinct in the last few centuries would look today, had they survived. To visualize this new **[AI-generated](https://www.designboom.com/tag/artificial-intelligence/)** series, Italian architect **[Angelo Renna](https://www.designboom.com/tag/angelo-renna/)** looks to scientific research and characteristic descriptions of these **[animals](https://www.designboom.com/tag/animals-in-art/)** and plants, feeding them as text prompts to **[Midjourney](https://www.designboom.com/tag/midjourney/)** to visualize their appearances. The project, he notes, is not de-extinction or a revival of extinct species but is instead an educative process to learn about other forms of life in history.
 > 
 
-![CleanShot 2023-03-10 at 09.29.12.png](#062%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%203ec8af37053242c498cad4bfc2af1e63/CleanShot_2023-03-10_at_09.29.12.png)
+![CleanShot 2023-03-10 at 09.29.12.png](CleanShot_2023-03-10_at_09.29.12.png)
 
 ## ****[Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/)****
 
@@ -84,7 +84,7 @@ Following came from this [article](https://cdm.link/2023/03/chatgpt-eurorack-pat
 > this tutorial will cover how to create an audio reactive shader using [Three.js](https://threejs.org/) and [Shader Park](https://shaderpark.com/).
 > 
 
-![Untitled](#062%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%203ec8af37053242c498cad4bfc2af1e63/Untitled%202.png)
+![Untitled](#Untitled%202.png)
 
 ## **[Diffusion With Offset Noise](https://www.crosslabs.org/blog/diffusion-with-offset-noise)**
 

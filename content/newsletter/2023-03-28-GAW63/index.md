@@ -31,7 +31,7 @@ Here’s one that I think can be incredibly interesting and useful for generativ
 > **Prompt**: I need a palette of 10 colors in HEX that were popular in 1926
 > 
 
-![CleanShot 2023-03-27 at 21.13.35.png](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/CleanShot_2023-03-27_at_21.13.35.png)
+![CleanShot 2023-03-27 at 21.13.35.png](CleanShot_2023-03-27_at_21.13.35.png)
 
 Who knows what interesting work you would get out of it.. I am still aggregating a list of creative uses for ChatGPT that I’ll sure in a future newsletter. 
 
@@ -43,7 +43,7 @@ Chris Ried
 
 Last week… 
 
-![Untitled](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/Untitled.png)
+![Untitled](Untitled.png)
 
 **Vera Molńar -**
 
@@ -57,7 +57,7 @@ A few interesting facts I have written down from reading a number of different s
 
 For this week… 
 
-![Untitled](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## **Who am I?**
 
@@ -65,7 +65,7 @@ For this week…
 
 In the last newsletter I asked the following question: 
 
-![CleanShot 2023-03-24 at 15.46.08.png](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/CleanShot_2023-03-24_at_15.46.08.png)
+![CleanShot 2023-03-24 at 15.46.08.png](CleanShot_2023-03-24_at_15.46.08.png)
 
 And there are some of you who are interested in trying this out. So [Sinan](https://twitter.com/msawired) from [OpenProcessing](https://openprocessing.org/) reached out and he has graciously provided a way for your submissions to be aggregated on [OpenProcessing](https://openprocessing.org/) and that way we can collectively try some experiments. 
 
@@ -104,7 +104,7 @@ If you haven’t seen this yet, it is a well deserved watch. There is much to be
 
 And speaking of have you seen the new work from Ali We-Wei? 
 
-![Untitled](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 ## [650,000 Lego Bricks to Recrate Monet’s Water Lilies](https://www.artnews.com/art-news/news/ai-weiwei-lego-bricks-recreation-calude-monet-water-lilies-design-museum-1234661708/)
 
@@ -115,7 +115,7 @@ Its not necessarily creative coding but I do think that there is some computatio
 
 [https://twitter.com/DanielMartinNL/status/1635556407167549440?s=20](https://twitter.com/DanielMartinNL/status/1635556407167549440?s=20)
 
-![Untitled](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ## Secret Colors of the Commodore 64
 
@@ -124,7 +124,7 @@ Its not necessarily creative coding but I do think that there is some computatio
 
 Growing up,  my dad had a Commodore 64 and that was the first time I tried my hand at coding and gaming. 
 
-![Untitled](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/Untitled%204.png)
+![Untitled](Untitled%204.png)
 
 ## **[Realistic ceramic materials with three.js](https://charlottedann.com/article/realistic-ceramic-materials)**
 
@@ -141,14 +141,14 @@ Ceramics, which is being released in Art Blocks’ Curated collection today! In 
 
 These are just great way to appreciate the work that goes into game design. 
 
-![CleanShot 2023-03-24 at 15.38.33.png](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/CleanShot_2023-03-24_at_15.38.33.png)
+![CleanShot 2023-03-24 at 15.38.33.png](CleanShot_2023-03-24_at_15.38.33.png)
 
 ## [Generative AI Tools](https://generativetools.pages.dev/)
 
 > A fun site to explore a number of generative AI tools.. Do take some time and
 > 
 
-![Untitled](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/Untitled%205.png)
+![Untitled](Untitled%205.png)
 
 ## [Mathematicians have finally discovered ‘einstein’ tile](https://www.sciencenews.org/article/mathematicians-discovered-einstein-tile?utm_source=Nature+Briefing&utm_campaign=1ed07363dc-briefing-wk-20230324&utm_medium=email&utm_term=0_c9dfd39373-1ed07363dc-42134095)
 
@@ -158,7 +158,7 @@ These are just great way to appreciate the work that goes into game design.
 > It’s the first true example of an “einstein,” a single shape that forms a special tiling of a plane: Like bathroom floor tile, it can cover an entire surface with no gaps or overlaps but only with a pattern that never repeats.
 > 
 
-![Untitled](#063%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%209b1a10ae17e7472892bfaa76e66cc6cc/Untitled%206.png)
+![Untitled](Untitled%206.png)
 
 ## **[3D Printed Split-Flap](https://www.printables.com/model/69464-split-flap-display/files)**
 

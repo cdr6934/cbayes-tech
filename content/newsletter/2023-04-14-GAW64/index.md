@@ -18,7 +18,7 @@ I am so floored and thankful to the **53 new subscribers** and **2 paid subscrib
 
 ## Who Am I?
 
-![Untitled](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/Untitled.png)
+![Untitled](Untitled.png)
 
 **Jasia Reichardt** was born in 1933 in Warsaw, Poland. 
 
@@ -30,11 +30,11 @@ Reichardt has authored and edited several books on art and technology, including
 
 Jasia Reichardt's contributions to the field of computer and cybernetic art have had a lasting impact on the art world. She helped pave the way for digital art and its integration into mainstream artistic practices, and her work continues to inspire artists and curators to explore the potential of technology in creative expression.
 
-![Untitled](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 To mix it up a little: **Who made me?** 
 
-![CleanShot 2023-04-14 at 12.51.27.png](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/CleanShot_2023-04-14_at_12.51.27.png)
+![CleanShot 2023-04-14 at 12.51.27.png](CleanShot_2023-04-14_at_12.51.27.png)
 
 ## [#GenCodeCraft](https://openprocessing.org/curation/84089) : [Checked Board](https://generative.substack.com/p/spinning-flips-3d-ceramics-and-genartcraft)
 
@@ -58,7 +58,7 @@ I just finished listening to the book ****Entangled Life: How Fungi Make Our Wor
 > In this article we'll cover how to use Photoresistors with RNBO on the Raspberry Pi target. Before attempting these, make sure you're familiar with the basics of exporting your RNBO patchers to the RPi and that your audio interface is working correctly with it.
 > 
 
-![CleanShot 2023-04-14 at 11.06.52.png](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/CleanShot_2023-04-14_at_11.06.52.png)
+![CleanShot 2023-04-14 at 11.06.52.png](CleanShot_2023-04-14_at_11.06.52.png)
 
 ## [Paintings by Turner and Monet Depict Trends in 19th Century Pollution](https://fermatslibrary.com/s/paintings-by-turner-and-monet-depict-trends-in-19th-century-air-pollution)
 
@@ -80,16 +80,16 @@ the optical environment associated with increasingly polluted atmospheres during
 Industrial Revolution.
 > 
 
-![CleanShot 2023-04-14 at 11.11.41.png](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/CleanShot_2023-04-14_at_11.11.41.png)
+![CleanShot 2023-04-14 at 11.11.41.png](CleanShot_2023-04-14_at_11.11.41.png)
 
-![CleanShot 2023-04-14 at 11.11.29.png](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/CleanShot_2023-04-14_at_11.11.29.png)
+![CleanShot 2023-04-14 at 11.11.29.png](CleanShot_2023-04-14_at_11.11.29.png)
 
 ## **[What Would Space Look Like.. Hypergraphs](https://community.wolfram.com/groups/-/m/t/2777621)**
 
 > The global goal of the project is to investigate conditions on hypergraphs to represent our physical space. In particular, the focus is on its isotropy. I defined rotations for hypergraphs, and studied the groups of rotational symmetries of hypergraphs. I introduced several properties of the models relevant to determine connections between the Wolfram Physics Project and the traditional physics and checked them for different models.
 > 
 
-![Using Spectral JS to generate some unique color blending ](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/0xb2a079bc4b86f4bf8219f7835774513a688a64542463b43d4444565c0d2a2f86.png)
+![Using Spectral JS to generate some unique color blending ](0xb2a079bc4b86f4bf8219f7835774513a688a64542463b43d4444565c0d2a2f86.png)
 
 Using Spectral JS to generate some unique color blending 
 
@@ -98,7 +98,7 @@ Using Spectral JS to generate some unique color blending
 > Spectral.js is an powerful and versatile JavaScript library designed to deliver realistic color mixing in your web-based projects. By harnessing the power of the Kubelka-Munk theory, a robust scientific model that simulates light interaction with paint for true-to-life color mixing, Spectral.js ensures that your projects exhibit vibrant and authentic colors.
 > 
 
-![Untitled](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 ## [R As a Game Engine](https://www.rostrum.blog/2023/04/02/splendid-r-games/)
 
@@ -115,7 +115,7 @@ Using Spectral JS to generate some unique color blending
 
 # Book Recommendation
 
-![Untitled](#064%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20f28fe97bd40d45f39cd0badd8ddc78cd/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ## Digital Mantras: The Languages of Abstract and Virtual Worlds
 

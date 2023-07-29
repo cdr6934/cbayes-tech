@@ -25,7 +25,7 @@ Chris Ried
 
 # 🖌️ Generative Music
 
-![CleanShot 2022-11-26 at 08.27.31.png](#054%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20b577e6d4d0e3438492984c210494b955/CleanShot_2022-11-26_at_08.27.31.png)
+![CleanShot 2022-11-26 at 08.27.31.png](CleanShot_2022-11-26_at_08.27.31.png)
 
 ## [Song of Life](https://songoflife.ukr.lk/#6614)
 
@@ -91,7 +91,7 @@ I need to get around to putting together a better calendar for this year.
 > At the end of this video, you may have a broad concept of how to implement a cloth simulation algorithm in your own game. You can take a look at the webgl + js game engine I'm developing using the cloth simulation I implemented in the video
 > 
 
-![CleanShot 2022-11-26 at 01.04.38@2x.png](#054%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20b577e6d4d0e3438492984c210494b955/CleanShot_2022-11-26_at_01.04.382x.png)
+![CleanShot 2022-11-26 at 01.04.38@2x.png](CleanShot_2022-11-26_at_01.04.382x.png)
 
 ## [Simulating a Rope](https://owlree.blog/posts/simulating-a-rope.html)
 
@@ -115,7 +115,7 @@ I need to get around to putting together a better calendar for this year.
 
 This is chapter 3 from a book project called “Coding Curves” which eventually will be a complete book. Right now it still in the earlier stages but will quickly move into new areas. 
 
-![Untitled](#054%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%20b577e6d4d0e3438492984c210494b955/Untitled.png)
+![Untitled](Untitled.png)
 
 ## [Multiplayer Stable Diffusion](https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer/discussions/15#6365ee78f31ef76df4061050)
 

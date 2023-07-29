@@ -27,7 +27,7 @@ And you never know what will come from those seemingly uncomplicated activities.
 
 Chris 
 
-![CleanShot 2022-12-21 at 10.42.46.png](#055%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%208084a6aac21a4130a8c85440eb00b8f9/CleanShot_2022-12-21_at_10.42.46.png)
+![CleanShot 2022-12-21 at 10.42.46.png](CleanShot_2022-12-21_at_10.42.46.png)
 
 ## [Ink: Narrative Scripting Language](https://www.inklestudios.com/ink/)
 
@@ -39,28 +39,28 @@ Chris
 > **ink** offers several features to enable non-technical writers to branch often, and play out the consequences of those branches, in both minor and major ways, without fuss.
 > 
 
-![Untitled](#055%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%208084a6aac21a4130a8c85440eb00b8f9/Untitled.png)
+![Untitled](Untitled.png)
 
 ## **[Isometric Pixel Art](https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art)**
 
 > Isometric pixel art is based on isometric projection, a method for accurately ‘projecting’ 3D objects into fancy 2D. Unlike perspective drawing, there is no vanishing point in isometric projection. Furthermore, the three coordinate axis has equal foreshortening, eliminating the need to alter lengths based on the perceived distance from the viewer. This allows one to efficiently create 3D objects that accurately describe the complete form and all dimensions. Traditionally, Isometric projection is used for technical drawings in engineering, architecture, and the assembly guide to your Lego set. However, these characteristics also make it a perfect style for game graphics. Marry it with pixel art, and something truly special happens. Let’s make some magic.
 > 
 
-![Untitled](#055%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%208084a6aac21a4130a8c85440eb00b8f9/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## [Pattern Collider](https://aatishb.com/patterncollider/?symmetry=13&pattern=1)
 
 > Pattern Collider is a tool for generating and exploring quasiperiodic tiling patterns. Every pattern that you create has a custom URL that you can bookmark & share.
 > 
 
-![Untitled](#055%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%208084a6aac21a4130a8c85440eb00b8f9/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 ## [Live Coding: A User’s Manual](https://livecodingbook.toplap.org/)
 
 > Performative, improvised, on the fly: live coding is about how people interact with the world and each other via code. Live coding has emerged as a dynamic creative practice in the last few decades, gaining attention across cultural and technical fields—from music and the visual arts to computer science.
 > 
 
-![Untitled](#055%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%208084a6aac21a4130a8c85440eb00b8f9/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ## ****[Vector Animations With Python](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)****
 

@@ -20,7 +20,7 @@ Here are a few interesting links for you all to explore and discover. Right now 
 
 ## Who Am I?
 
-![Untitled](#061%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204207809e2ff64c4eb57b8bf9937ec113/Untitled.png)
+![Untitled](Untitled.png)
 
 Last weeks image was **Harold Cohen** 
 
@@ -37,7 +37,7 @@ Here is a great overview of his life and work!
 > The human interest in the manipulation of objects for an aesthetic purpose is very antique. By experimenting with different tools and techniques the old masters studied how material can be shaped into form. Transferring this curiosity to the age of technology, in 2020 we engineered a machine-learning process to observe the evolution of an AI learning how to sculpt a 3D model. While most of our art projects are guided by an open process the aim is to achieve a visual result in the end. With this project it was different. To best experience AI as the creator and to learn from it became our main pursuit.
 > 
 
-![Untitled](#061%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204207809e2ff64c4eb57b8bf9937ec113/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## [Difference Maps](https://community.wolfram.com/groups/-/m/t/2823307)
 
@@ -56,7 +56,7 @@ Here is a great overview of his life and work!
 > In this in-depth video I examine Knowledge Systems and Simulations to explore new approaches to understanding nature and reality.
 > 
 
-![maq8M.gif](#061%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204207809e2ff64c4eb57b8bf9937ec113/maq8M.gif)
+![maq8M.gif](maq8M.gif)
 
 ## ****[Liquid Physics Using Cellular Automation](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)****
 
@@ -65,7 +65,7 @@ Here is a great overview of his life and work!
 
 ## [Tomorrow and Tomorrow and Tomorrow](https://www.amazon.com/Tomorrow-novel-Gabrielle-Zevin/dp/0593321200/ref=asc_df_0593321200/?tag=hyprod-20&linkCode=df0&hvadid=564680339415&hvpos=&hvnetw=g&hvrand=1245170118426259105&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9013074&hvtargid=pla-1576231491043&psc=1&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJSUqIOa959H0jNH26ZMjQQs8hrJtiKOLZfZEiCKWXlPa24QngcayWkaAhksEALw_wcB)
 
-![51IIXddH0wL._SX327_BO1,204,203,200_.jpg](#061%20-%20Creative%20Coding%20Generative%20Arts%20Weekly%204207809e2ff64c4eb57b8bf9937ec113/51IIXddH0wL._SX327_BO1204203200_.jpg)
+![51IIXddH0wL._SX327_BO1,204,203,200_.jpg](51IIXddH0wL._SX327_BO1204203200_.jpg)
 
 > Sam and Sadie—two college friends, often in love, but never lovers—become creative partners in a dazzling and intricately imagined world of video game design, where success brings them fame, joy, tragedy, duplicity, and, ultimately, a kind of immortality. It is a love story, but not one you have read before.
 > 
