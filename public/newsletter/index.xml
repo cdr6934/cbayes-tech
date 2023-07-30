@@ -191,7 +191,7 @@ The above statement was the manifesto coined by J. P. Herbert and the mantra of 
       <guid>https://chrisried.xyz/newsletter/generative-arts-51/</guid>
       <description>Originally posted on Substack
 Silence creates space for content to appear. -J.R. Rim
-Video Art with FFMPEG https://www.youtube.com/watch?v=nobWeGycSe8
+Video Art with FFMPEG {{ youtube nobWeGycSe8 }}
 One of the many tools we use to describe motion is in a sequence of images or videos. We love them and use them for our work as it adds yet another dimension to the images. The following few selections all use FFMPEG an open source tool to convert video from different formats in the command line or through a programming language.</description>
     </item>
     
@@ -239,8 +239,8 @@ I’ve been reading the book “The War of Art” by Steven Pressfield and have 
       <description>Originally posted on Substack
 It&amp;rsquo;s a great time to be a creator. Trust your creativity. -Ron Howard
 Reflecting on the past year..
-https://www.youtube.com/watch?v=OFI1FJcGLeM
-The Art of John Edmark What do plants know about numbers? A certain spiral pattern commonly seen in sunflowers, pinecones, and many species of cacti contains some surprising numerical properties. In this brisk talk, Paul Dancstep investigates this pattern through several kinetic sculptures by artist John Edmark. These mesmerizing artworks provide a number of insights into the mathematical lives of plants.</description>
+{{ youtube OFI1FJcGLeM }}
+The Art of John Edmark What do plants know about numbers? A certain spiral pattern commonly seen in sunflowers, pinecones, and many species of cacti contains some surprising numerical properties. In this brisk talk, Paul Dancstep investigates this pattern through several kinetic sculptures by artist John Edmark.</description>
     </item>
     
     <item>
@@ -812,12 +812,13 @@ The beauty of art is that it is experimental, its emotional, it&amp;rsquo;s spir
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/newsletter/generative-arts-52/</guid>
-      <description>Website | Instagram | Youtube | Behance | Twitter | BuyMeACoffee
-The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips
+      <description>The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips
 Hello fellow readers,
 Hope your Friday morning / afternoon is going well. There are a number of interesting links below for you to digest and swallow.
 And for just a little inspiration…
-If you haven’t seen the work by Tyler Boswell definitely check out his work September</description>
+If you haven’t seen the work by Tyler Boswell definitely check out his work September
+https://twitter.com/cosipiovasc0/status/1577370812624998400?s=20&amp;amp;t=JvG3Se3lkkg-r9GIcmg2Ew
+Have a wonderful weekend!</description>
     </item>
     
   </channel>
