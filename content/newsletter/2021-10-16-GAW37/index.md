@@ -80,7 +80,7 @@ And many other things came up in conversation with artists and collectors alike 
 > I first discovered Brian Eno when I began enjoying ambient music. Eno is credited with inventing the phrase “ambient music,” first using the term to describe his 1978 release Ambient 1: Music for Airports. I soon learned of the interesting methods Eno used to compose the tracks for the album. For example, track “2/1” was created using several loops of magnetic tape played simultaneously. Each tape loop contained a recording of a single note, and would repeat on an interval determined by the length of the loop.
 > 
 
-[https://www.youtube.com/watch?v=lfdMnFvXBwc](https://www.youtube.com/watch?v=lfdMnFvXBwc)
+{{ youtube lfdMnFvXBwc }}
 
 # The Art of Generative Thinking
 
@@ -98,7 +98,7 @@ Manfred Mohr is one of the world's best-known pioneers of digital art, who made 
 
 # And and Slime Mold Simulations
 
-[https://www.youtube.com/watch?v=X-iSQQgOd1A](https://www.youtube.com/watch?v=X-iSQQgOd1A)
+{{ youtube X-iSQQgOd1A }}
 
 > A small exploration of an algorithm inspired by ants, and some little experiments into simulating some of the behaviour of ants and slime moulds. I hope you enjoy!
 > 

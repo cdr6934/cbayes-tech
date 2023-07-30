@@ -80,7 +80,7 @@ So let’s focus on [Blender](https://capture.dropbox.com/ellS7VBFaKvEkOXS).
     - Secondly, if you haven’t worked in 3D environments, its a great way to really dive into the world of creativity.
 - Code based w/ Python but also node based
     
-    [https://www.youtube.com/watch?v=r8hqLh_HE08](https://www.youtube.com/watch?v=r8hqLh_HE08)
+    {{ youtube r8hqLh_HE08 }}
     
     - It could be that I am not plugged into the community quite enough to have found many of the generative blender artists, I think there is some fascinating work that comes out of it such as the work in the video by David Mignot.
 - Extensible - the plugins within Blender provide some powerful ways to extend its usage. Just to show some of the power of procedural / generative work check out the following plugins.
@@ -128,9 +128,9 @@ Of course there are plenty more examples of stellar work but I hope that this at
 
 These have all been in various editions of the newsletter over the past couple of years. However I thought I might put it together here as these have definitely been the best tutorials that I’ve come across of the last couple of years. 
 
-[https://www.youtube.com/watch?v=bWmnbEwEpqk](https://www.youtube.com/watch?v=bWmnbEwEpqk)
+{{ youtube bWmnbEwEpqk }}
 
-[https://www.youtube.com/watch?v=KQJYwHD5AB8](https://www.youtube.com/watch?v=KQJYwHD5AB8)
+{{ youtube KQJYwHD5AB8 }}
 
 Hope this gives you some resources to further explore some more 3D generative work.
 

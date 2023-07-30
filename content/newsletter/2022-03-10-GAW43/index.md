@@ -21,7 +21,7 @@ Chris
 
 # 🖌️ Unconventional Media
 
-[https://www.youtube.com/watch?v=ZQrcjeCiWIk](https://www.youtube.com/watch?v=ZQrcjeCiWIk)
+{{ youtube ZQrcjeCiWIk }}
 
 # 📰 Happenings
 

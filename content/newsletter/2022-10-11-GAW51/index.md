@@ -15,13 +15,13 @@ _Originally posted on [Substack](https://generative.substack.com/p/ffmpeg-video-
 
 ## Video Art with FFMPEG
 
-[https://www.youtube.com/watch?v=nobWeGycSe8](https://www.youtube.com/watch?v=nobWeGycSe8)
+{{ youtube nobWeGycSe8 }}
 
 One of the many tools we use to describe motion is in a sequence of images or videos. We love them and use them for our work as it adds yet another dimension to the images. The following few selections all use [FFMPEG](https://ffmpeg.org/) an open source tool to convert video from different formats in the command line or through a programming language. But there are a few more creative uses of this tool and [Derrick Schultz](https://artificial-images.com/) has a great [4 week video course](https://docs.google.com/document/d/12X_2YoCnPPN7B3OsgX39aYyRF8OF-TVStkFTkKhWrx4/edit) that he uses the tools in creative ways and provides code artists another way to create some interesting work. 
 
 If you are looking for a quicker fix,  this presentation by Matic Lubej on ffmpeg is an overview on how to use FFMPEG specifically in Python using it creatively. 
 
-[https://www.youtube.com/watch?v=vivlxlxGkX4](https://www.youtube.com/watch?v=vivlxlxGkX4)
+{{ youtube vivlxlxGkX4 }}
 
 # 🖌️ Unconventional Media
 
@@ -36,7 +36,7 @@ Its a fun little tool to play around with; its open source so the [code](https:/
 
 # 📸 Generative Graphics
 
-[https://www.youtube.com/watch?v=7He2MDAOI38](https://www.youtube.com/watch?v=7He2MDAOI38)
+{{ youtube 7He2MDAOI38 }}
 
 ## Ken Perlin - How to Build a Holodeck
 
@@ -67,7 +67,7 @@ We have seen alot of innovation in the image space when it comes to generative d
 > Neutone is a go-to platform for you to share real-time AI audio processing models with potential users in the audio production community.
 > 
 
-[https://www.youtube.com/watch?v=KmB8z2CYjZY](https://www.youtube.com/watch?v=KmB8z2CYjZY)
+{{ youtube  KmB8z2CYjZY }}
 
 ## [Harmonai AI, Diffusion and Audio Generation Revolution](https://www.youtube.com/watch?v=KmB8z2CYjZY&t=1s)
 
@@ -76,7 +76,7 @@ We have seen alot of innovation in the image space when it comes to generative d
 
 # 🔖 Articles and Tutorials
 
-[https://www.youtube.com/watch?v=A1Ud_liFn3U&t=184s](https://www.youtube.com/watch?v=A1Ud_liFn3U&t=184s)
+{{ youtube A1Ud_liFn3U }}
 
 ## Joshua Davis - Dribble Conference 2019
 

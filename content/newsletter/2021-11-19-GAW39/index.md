@@ -75,7 +75,7 @@ In this webinar we will speak to Anne and Michael Spalter, renowned collectors o
 
 # The Robot Catapult That Flings Paint
 
-[https://www.youtube.com/watch?v=9XyE41_ANrc](https://www.youtube.com/watch?v=9XyE41_ANrc)
+{{ youtube 9XyE41_ANrc }}
 
 > Using engineering to create art! Instead of painting my own paintings, I decided to build a robot to do it for me. Obviously, a robot that throws paint at a canvas via a servo powered catapult was the only way to go here...
 
@@ -86,7 +86,7 @@ To my surprise, it actually worked!  Flingbot created paintings that far exceede
 
 # 📸 Generative Graphics
 
-[https://www.youtube.com/watch?v=n-e9C8g5x68](https://www.youtube.com/watch?v=n-e9C8g5x68)
+{{ youtube n-e9C8g5x68 }}
 
 > This video was made for The Summer of Math Exposition. It's about the spirograph and the math of the spirals it creates.
 > 
@@ -120,14 +120,14 @@ The above link is not necessarily generative but there are many elements that co
 
 The demoscene is an interesting subculture that without most people realizing it is a very forward thinking group of people that I encourage to take the opportunity to read about. One of the most recent  curated drops by Piter Pasma who was an active participant in the scene of the time. 
 
-[https://www.youtube.com/watch?v=dJo1Ao9XydM](https://www.youtube.com/watch?v=dJo1Ao9XydM)
+{{ youtube dJo1Ao9XydM }}
 
 > In this video we complete the Phong lighting model by implementing specular lighting.
 > 
 
 # Understanding Fluid Simulation
 
-[https://www.youtube.com/watch?v=MXs_vkc8hpY](https://www.youtube.com/watch?v=MXs_vkc8hpY)
+{{ youtube MXs_vkc8hpY }}
 
 > This is the first part in a series about Computational Fluid Dynamics where we build a Fluid Simulator from scratch.
 
@@ -136,7 +136,7 @@ We highlight the Microscopic Perspective on Quantum Mechanics, Molecular Dynamic
 
 # The Robot Catapult That Flings Paint
 
-[https://www.youtube.com/watch?v=9XyE41_ANrc](https://www.youtube.com/watch?v=9XyE41_ANrc)
+{{ youtube 9XyE41_ANrc }}
 
 > Using engineering to create art! Instead of painting my own paintings, I decided to build a robot to do it for me. Obviously, a robot that throws paint at a canvas via a servo powered catapult was the only way to go here...
 

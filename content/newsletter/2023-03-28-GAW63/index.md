@@ -95,7 +95,7 @@ You will be able to submit right to the the weekly challenge on [OpenProcessing]
 
 # Articles and Tutorials
 
-[https://www.youtube.com/watch?v=G2XdZIC3AM8&t=3s](https://www.youtube.com/watch?v=G2XdZIC3AM8&t=3s)
+{{ youtube G2XdZIC3AM8 }}
 
 > For the latest episode of our How to See series, we spoke with three artists—Kate Crawford, Trevor Paglen, and Refik Anadol—who engage with the ways that AI and machine learning algorithms are demanding new approaches to artmaking.
 > 
@@ -132,7 +132,7 @@ Growing up,  my dad had a Commodore 64 and that was the first time I tried my ha
 Ceramics, which is being released in Art Blocks’ Curated collection today! In this article we’re making materials with three.js that look and feel like physical ceramics, it follows on from my first article on making textured surfaces with three.js**.**
 > 
 
-[https://www.youtube.com/watch?v=huMO4VQEwPc](https://www.youtube.com/watch?v=huMO4VQEwPc)
+{{ youtube huMO4VQEwPc }}
 
 ## Let’s Program Doom Part 1 / [2](https://www.youtube.com/watch?v=fRu8kjXvkdY)
 

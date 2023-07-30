@@ -89,7 +89,7 @@ Who would have thought 3D in CSS?
 
 ## Game of Construction
 
-[https://www.youtube.com/watch?v=n6FUXTDNKKQ](https://www.youtube.com/watch?v=n6FUXTDNKKQ)
+{{ youtube n6FUXTDNKKQ }}
 
 > An overall overview of the work of Helena Sarin who uses GAN AI art (not to be confused with Dalle2 or Midjourney). The Game of Construction essentially talks through her work and artistic process which includes pottery.
 > 

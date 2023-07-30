@@ -45,9 +45,9 @@ Unfortunately the library hasn’t seen much development over the last couple ye
 
 A couple neat examples of this are: 
 
-[https://www.youtube.com/watch?v=I9_3CfRm8GE](https://www.youtube.com/watch?v=I9_3CfRm8GE)
+{{ youtube I9_3CfRm8GE }}
 
-[https://www.youtube.com/watch?v=yp3PnQMM3rA&feature=emb_rel_pause](https://www.youtube.com/watch?v=yp3PnQMM3rA&feature=emb_rel_pause)
+{{ youtube yp3PnQMM3rA }}
 
 The following is a straight forward comparison between Max MSP (closed source) and Pure Data (open source) visual programming languages geared toward sound programming.  
 
@@ -55,7 +55,7 @@ The following is a straight forward comparison between Max MSP (closed source) a
 
 The following video shows the similarities between both languages.
 
-[https://www.youtube.com/watch?v=s7Gv7SR0Nrk](https://www.youtube.com/watch?v=s7Gv7SR0Nrk)
+{{ youtube s7Gv7SR0Nrk }}
 
 > Let’s learn how to program music and synth using visual programming language. But what even is a visual programming language? And which language should we learn? Max MSP or Pure Data?
 > 
@@ -69,14 +69,14 @@ There is definitely more to be read [here](http://www.pd-tutorial.com/english/ch
 
 Essentially it has a basic interface to trigger notes, but then any soundclip or VST can be programmed to be used and thus making it an incredibly interesting instrument to create some beautiful innovation. 
 
-[https://www.youtube.com/watch?v=DBI8eBMGyYs](https://www.youtube.com/watch?v=DBI8eBMGyYs)
+{{ youtube DBI8eBMGyYs }}
 
 ## [Supercollider](https://supercollider.github.io/)
 
 > **SuperCollider i**s an environment and [programming language](https://en.wikipedia.org/wiki/Programming_language) originally released in 1996 by James McCartney for [real-time](https://en.wikipedia.org/wiki/Real-time_computing) [audio synthesis](https://en.wikipedia.org/wiki/Audio_synthesis) and [algorithmic composition](https://en.wikipedia.org/wiki/Algorithmic_composition)
 > 
 
-[https://www.youtube.com/watch?v=vzspylL9Bh0](https://www.youtube.com/watch?v=vzspylL9Bh0)
+{{ youtube vzspylL9Bh0 }}
 
 # 📰 Happenings
 

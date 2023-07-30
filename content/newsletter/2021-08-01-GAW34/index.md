@@ -21,7 +21,7 @@ This week has been fascinating on multiple fronts in the generative art space. T
 
 It's been exciting to see the interest of what generative art brings and the medium that I am a bit passionate about. I mean, I have been writing about it almost weekly for the last year and where it is today and where it was then has been a fascinating. Back in March, we were still trying to figure out what they were. 
 
-[https://www.youtube.com/watch?v=pTesZREe73c&t=2797s](https://www.youtube.com/watch?v=pTesZREe73c&t=2797s)
+{{ youtube pTesZREe73c }}
 
 All that being said, I think we still have alot of exploring to do and I  hope that our core community will continue to invest the energy necessary to push the boundaries. Its wonderful to find the monetary love we receive from all the many supporters out there and continue to find exciting ways to use creative coding as a tool to discover, bring awe and delight!  
 
@@ -54,7 +54,7 @@ All that being said, I think we still have alot of exploring to do and I  hope t
 
 # The Aesthetics of Probability
 
-[https://www.youtube.com/watch?v=ASfTqCdTvXc](https://www.youtube.com/watch?v=ASfTqCdTvXc)
+{{ youtube ASfTqCdTvXc }}
 
 A quick watch, but an interesting way of seeing how Refik Anadol starts working with the Quantum AI team at Google to create a very interesting work.
 
@@ -62,7 +62,7 @@ A quick watch, but an interesting way of seeing how Refik Anadol starts working 
 
 # [CLIP-Guided GAN Image Generation: An Artistic Exploration](https://www.youtube.com/watch?v=dpZkxuZY0sE)
 
-[https://www.youtube.com/watch?v=dpZkxuZY0sE](https://www.youtube.com/watch?v=dpZkxuZY0sE)
+{{ youtube dpZkxuZY0sE }}
 
 > Text-to-image generation involves the automatic production of images which somehow reflect a given word or phrase. Recently, a new approach to this task has become available, which employs generative adversarial networks (GANs) for image generation, with the latent vector inputs found by a backpropagation search. The search is directed by a loss function calculated by another pair of pre-trained models called CLIP, which can estimate how appropriately a generated image reflects a text prompt. We compare and contrast the usage of CLIP in guiding various GANs for artistic image production, highlighting the huge potential for this approach, as well as current limitations.
 > 
@@ -71,7 +71,7 @@ Here is the paper for more detail: [https://arxiv.org/pdf/2102.01645.pdf](https:
 
 # Artificial Intelligence Art: Questions Answered
 
-[https://www.youtube.com/watch?v=MZo_fRPs030](https://www.youtube.com/watch?v=MZo_fRPs030)
+{{ youtube MZo_fRPs030 }}
 
 Definitely check out the many questions that have been asked about artificial intelligence and art. It does probably fall into the realm of generative art but it is definitely a different head of the beast. 
 

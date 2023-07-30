@@ -100,7 +100,7 @@ This is an Observable notebook. RiTa is a more “composable” alternative to g
 > generative/random grid layouts in just a few lines of JavaScript. Using a data structure called a Quadtree, we will produce harmonious grids based on random numbers, source images, user input, and more.
 > 
 
-[https://www.youtube.com/watch?v=Gv0EiQfDI7w&list=PLn3eTxaOtL2Ns3wkxdyS3CiqkJuwQdZzn&index=18](https://www.youtube.com/watch?v=Gv0EiQfDI7w&list=PLn3eTxaOtL2Ns3wkxdyS3CiqkJuwQdZzn&index=18)
+{{ youtube Gv0EiQfDI7w }}
 
 ## [WebGPU Tutorial](https://www.youtube.com/playlist?list=PLn3eTxaOtL2Ns3wkxdyS3CiqkJuwQdZzn)
 

@@ -28,7 +28,7 @@ Chris
 
 # 🖌️ Unconventional Media
 
-[https://www.youtube.com/watch?v=3s94mIhCyt4](https://www.youtube.com/watch?v=3s94mIhCyt4)
+{{ youtube 3s94mIhCyt4 }}
 
 > I embarked on a year-long journey to find a way to print a 5-piece fashion collection as part of my graduate collection at Shenkar. Using soft materials and flexible patterns, I printed this collection at home.
 > 

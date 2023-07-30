@@ -131,7 +131,7 @@ This gets deep quickly, but I think it helps really understand what ChatGPT is d
 
 ## Rain World: The Most Complex Ecosystem
 
-[https://www.youtube.com/watch?v=GMx8OsTDHfM](https://www.youtube.com/watch?v=GMx8OsTDHfM)
+{{ youtube GMx8OsTDHfM }}
 
 > If I were to tell you ‘Rain World has the most complex ecosystem of any game,’ you might go… ‘What?’ Because Rain World doesn’t seem particularly advanced — it’s a 2D pixel art game where you play as a weird slug, how complicated could its world really be?
 > 

@@ -29,7 +29,7 @@ I don’t think we have approached this boundary at the moment,  only the future
 
 A mantra in machine learning is “the models are only as good as the inputs.” Therefore artists are still required to make anything from [DALLE2](https://openai.com/dall-e-2/), [Midjourney](https://www.midjourney.com/app/), [Imagen](https://imagen.research.google/),  or [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release). 
 
-[https://www.youtube.com/watch?v=TVBbFEQyQFI](https://www.youtube.com/watch?v=TVBbFEQyQFI)
+{{ youtube TVBbFEQyQFI }}
 
 Just as a side note, if you haven’t had much experience in these Deep Learning AI tools, check out the wonderful revcatt talking about [Midjourney](https://www.midjourney.com/app/).  
 
@@ -98,7 +98,7 @@ I have to say that the interest and speed that the community has adopted and use
 > **[DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)** was released earlier this year, taking the world by storm with its impressive text-to-image capabilities. With just an input description of a scene, DALL-E 2 outputs realistic and semantically plausible images of the scene, like those you can see below generated from the input caption **"a bowl of soup that is a portal to another dimension as digital art"**
 > 
 
-[https://www.youtube.com/watch?v=DsUdvPz5VCo](https://www.youtube.com/watch?v=DsUdvPz5VCo)
+{{ youtube DsUdvPz5VCo }}
 
 > Shoutout to Blender Innovations for the Substance Sampler technique for generating the tiling material, I was trying to do it manually in Substance Designer before seeing his video and it sped this process up a lot.
 > 
@@ -109,7 +109,7 @@ Here’s a quick little way of using Midjourney to generate new 3D textures and 
 
 # 🚤 Motion
 
-[https://www.youtube.com/watch?v=JuKi35j3Dwk](https://www.youtube.com/watch?v=JuKi35j3Dwk)
+{{ youtube JuKi35j3Dwk }}
 
 > *Audience*, one of their earlier pieces of work from 2008, uses motion tracking software and creative coding to create an almost uncomfortable, anthropomorphic experience. As a gallery visitor steps in front of rows of individually dancing mirrors, they instantly synchronize and lock onto the viewer. With 100 mirrors now looking right back at you, you then become the focal point of your own onlooking.
 > 

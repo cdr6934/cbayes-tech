@@ -44,7 +44,8 @@ Chris Ried
 
 ![https://dkyhanv6paotz.cloudfront.net/interactive/static/5181.jpg](https://dkyhanv6paotz.cloudfront.net/interactive/static/5181.jpg)
 
-[https://www.youtube.com/watch?v=ddw1_3ZVjTE&feature=emb_title](https://www.youtube.com/watch?v=ddw1_3ZVjTE&feature=emb_title)
+{{ youtube ddw1_3ZVjTE }}
+
 
 # 📰 Happenings
 
@@ -85,7 +86,7 @@ Joshua Bagley - [Website](https://joshua-bagley.com/) / [Twitter](https://twitte
 
 ## Artistic Coding in Blender
 
-[https://www.youtube.com/watch?v=r8hqLh_HE08](https://www.youtube.com/watch?v=r8hqLh_HE08)
+{{ youtube r8hqLh_HE08 }}
 
 > David Mignot creates art in Blender by using mostly lines of code. In this video he gives us a basic breakdown of his special workflow in Blender.
 > 
@@ -94,7 +95,7 @@ If 3D work is your thing, I have found that this video probably has been the mos
 
 # Live Coding: Bending Light
 
-[https://www.youtube.com/watch?v=NCpaaLkmXI8&t=101s](https://www.youtube.com/watch?v=NCpaaLkmXI8&t=101s)
+{{ youtube NCpaaLkmXI8 }}
 
 > In this video we'll look at refraction: the bending of light as it moves from one medium to another.
 > 
@@ -103,7 +104,7 @@ I came across the following channel from a discussion in a Slack channel (Thanks
 
 # I made Skynet by hacking Ableton & Pigments - getting started w/ Generative music
 
-[https://www.youtube.com/watch?v=kfCAF_IuLgo&t=472s](https://www.youtube.com/watch?v=kfCAF_IuLgo&t=472s)
+{{ youtube kfCAF_IuLgo }}
 
 > I made Skynet by hacking Ableton & Pigments - getting started w/ Generative music
 > 
@@ -112,7 +113,7 @@ It's an interesting concept of using a top 5 DAW to generate music. It doesn't u
 
 # Exploring Emergent Structures Using Cellular Automata
 
-[https://www.youtube.com/watch?v=coL5GKxYg90](https://www.youtube.com/watch?v=coL5GKxYg90)
+{{ youtube coL5GKxYg90 }}
 
 The following lecture was an interesting discovery session of looking to find new rules based systems that produce interesting structures. Lior Ben-Gai is a computational artist whose mission is to find simple rule structures (such as cellular automata) and see how they work. Its very interesting so I would definitely recommend watching. 
 

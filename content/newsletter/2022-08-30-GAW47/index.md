@@ -16,7 +16,7 @@ _Originally posted on [Substack](https://generative.substack.com/p/morphing-sphe
 
 Reflecting on the past year.. 
 
-[https://www.youtube.com/watch?v=OFI1FJcGLeM](https://www.youtube.com/watch?v=OFI1FJcGLeM)
+{{ youtube OFI1FJcGLeM }}
 
 ## The Art of John Edmark
 
@@ -39,14 +39,14 @@ This does get a little more into the weeds of the various languages that are use
 > I love 3d effects on the internet, and they’re increasingly all over the place. They can add an extra dimension to a website that helps to catch a user’s attention. [I have previously covered 3d effects with the WebGL cards I made](https://fjolt.com/article/apple-cards-webl-gl-javascript), but in this guide I wanted to create a morphing sphere with a cool, wireframe background. The effect is kind of hypnotising, so it has every chance of keeping users on your page for longer!
 > 
 
-[https://www.youtube.com/watch?v=JfKQ8m3ZfJM&feature=emb_title](https://www.youtube.com/watch?v=JfKQ8m3ZfJM&feature=emb_title)
+{{ youtube JfKQ8m3ZfJM }}
 
 # ****Blender Tutorial: Noise Advection with Geometry Nodes****
 
 > Advecting points through vector fields is often handy for different purposes. It can be used to visualize noise fields or vector volumes or just to create some beautiful abstracted graphics. Follow Manuel in this tutorial, while he hacks Geometry Nodes to make iterative advection along vectors possible.
 > 
 
-[https://www.youtube.com/watch?v=G5K-0wqEJsU](https://www.youtube.com/watch?v=G5K-0wqEJsU)
+{{ youtube G5K-0wqEJsU }}
 
 # [Entagma: Procedural Design Tutorials](https://entagma.com/)
 

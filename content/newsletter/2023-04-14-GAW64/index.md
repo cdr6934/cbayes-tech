@@ -44,7 +44,7 @@ Last episode I started experimenting with a coding challenge. I haven’t receiv
 
 [https://twitter.com/takawo/status/1646645508625301504?s=20](https://twitter.com/takawo/status/1646645508625301504?s=20)
 
-[https://www.youtube.com/watch?v=bXClHwMlei0](https://www.youtube.com/watch?v=bXClHwMlei0)
+{youtube bXClHwMlei0}
 
 ## Fungal Architectures
 

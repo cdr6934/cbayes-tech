@@ -71,7 +71,7 @@ Chris Ried
 
 Great place to find new inspiration!
 
-[https://www.youtube.com/watch?v=BOtrCYyf4cg](https://www.youtube.com/watch?v=BOtrCYyf4cg)
+{{ youtube BOtrCYyf4cg }}
 
 > Not many musicians cite design or architecture as their inspiration. But sitting in a beautifully designed German airport in 1978, Brian Eno was inspired to create atmospheric music to complement the space. His landmark album, “Ambient 1: Music for Airports,” followed, and with it, Eno created Ambient Music, an entirely new genre that still thrives today.
 > 
@@ -105,12 +105,12 @@ Great place to find new inspiration!
 With this “new AI,” programmers no longer encode rules but instead build network frameworks. Then, using large quantities of data, the networks are trained, and their components adjusted — or tweaked — until the system starts performing as desired.
 > 
 
-[https://www.youtube.com/watch?v=UVNnkDqcTGE](https://www.youtube.com/watch?v=UVNnkDqcTGE)
+{{ youtube UVNnkDqcTGE }}
 
 > I go over the background knowledge you should really understand before checking out other shader tutorials. This information is relevant to most 3D rendering applications like Blender, Unity, Unreal, etc...
 > 
 
-[https://www.youtube.com/watch?v=vmhRlDyPHMQ](https://www.youtube.com/watch?v=vmhRlDyPHMQ)
+{{ youtube vmhRlDyPHMQ }}
 
 Here is a new [channel](https://www.youtube.com/c/ColorfulCoding/videos) I came across that is helpful to watch when using p5.js for new inspiration and techniques. 
 

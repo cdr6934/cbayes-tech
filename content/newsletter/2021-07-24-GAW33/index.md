@@ -96,14 +96,14 @@ So what exactly is this technology? Quantum computers rely on the most basic com
 
 # Token Art Tools (Specific for Artblocks Artists)
 
-[https://www.youtube.com/watch?v=Pvz4VGVIuEg](https://www.youtube.com/watch?v=Pvz4VGVIuEg)
+{{ youtube Pvz4VGVIuEg }}
 
 > Walkthrough of Token Art Tools v1 features, which is a web app for generative artists working on Artblocks scripts that helps visualize how hashpairs influence features in their work.
 > 
 
 # Making Generative Music using Pure Data
 
-[https://www.youtube.com/watch?v=mSpcOidA3iI](https://www.youtube.com/watch?v=mSpcOidA3iI)
+{{ youtube mSpcOidA3iI }}
 
 > In this beginners tutorial, we will create a generative music piece using basic sounds and sequencing which you will create yourself in Pure Data. I will explain all you need to know about what Pure Data is and how to use it.
 > 

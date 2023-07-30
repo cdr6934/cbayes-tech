@@ -26,7 +26,7 @@ Last weeks image was **Harold Cohen**
 
 Here is a great overview of his life and work! 
 
-[https://www.youtube.com/watch?v=LQu2AGXsv8U](https://www.youtube.com/watch?v=LQu2AGXsv8U)
+{{ youtube LQu2AGXsv8U }}
 
 # Articles and Tutorials
 
@@ -44,14 +44,14 @@ Here is a great overview of his life and work!
 > Projection onto (non-)convex sets, e.g. the “[difference map](https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=josaa&uri=josaa-20-1-40&html=true)” algorithm which was previously used to solve [Sudoku puzzles](https://barisdemiroz.github.io/sudoku/sudokusolver_demo.html) (which is of-course another problem amenable to Linear Programming). A slightly longer walk-through of the projections I used can be found [here](https://gvarnavides.com/musings/tilings-and-projection-set-algorithms/).
 > 
 
-[https://www.youtube.com/watch?v=AyOpYl-8ql4](https://www.youtube.com/watch?v=AyOpYl-8ql4)
+{{ youtube AyOpYl-8ql4 }}
 
 ## **[*More than Words*](https://www.notion.so/060-Creative-Coding-Generative-Arts-Weekly-a66859dca6494c0287bbfd4ac15d0518?pvs=21)**
 
 > Artistic fonts offer a way to transform any text into an art print, interactive software, or animation.  Thus we can view artistic fonts as a form of generative art: whereas most generative art is determined by an initial random seed, with fonts the “seed” is arbitrary text. An advantage of this approach is that the resulting print can encode one or more messages. With puzzle fonts, where the letters are encoded but not explicit in the glyphs, this message can be hidden within the resulting artwork. We demonstrate this approach to generative art using a series of mathematical and puzzle fonts we have designed over the years, which are available as free interactive web apps from [https://erikdemaine.org/fonts](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJKVzhyU1dmM3ZoY3kwT2Z1QlhOdFBrczVRUXxBQ3Jtc0trb25hcHhaeDg4UWFqYnd6QzJtRHdaUTlPeHdXekZBZ1FfdXVkWHpWSVZDV2hOb3gtcnJVU0tFdkhTamJLdW9vOWhDcHM3a3MwTVpIdWJVUXNiZ3A4YlM4RHZPTDZicXFfai00ZVJfeVpGYmJwdFBXSQ&q=https%3A%2F%2Ferikdemaine.org%2Ffonts&v=AyOpYl-8ql4)
 > 
 
-[https://www.youtube.com/watch?v=h-kXgTLJOOE](https://www.youtube.com/watch?v=h-kXgTLJOOE)
+{{ youtube h-kXgTLJOOE }}
 
 > In this in-depth video I examine Knowledge Systems and Simulations to explore new approaches to understanding nature and reality.
 > 

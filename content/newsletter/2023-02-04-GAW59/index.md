@@ -31,7 +31,7 @@ These all have gotten my wheels turning and find this to be a great way to gain 
 
 And I’m going to predict in the next year I’ll even be able to create my own intro music that sounds usable.
 
-[https://www.youtube.com/watch?v=2CUKU2iAzAs](https://www.youtube.com/watch?v=2CUKU2iAzAs)
+{{ youtube 2CUKU2iAzAs }}
 
 It’s interesting for sure but it has yet to get even close to creating on its own. Until a model can control it’s own reward function without input it will be extremely hard to make the case for sentient output. 
 

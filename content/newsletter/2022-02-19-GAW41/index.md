@@ -46,7 +46,7 @@ I’ve been watching the many different opportunities to connect with others in 
     
     Found this algorithmic ambient music and found it quite peaceful to listen! 
     
-    [https://www.youtube.com/watch?v=auj4406RPQw](https://www.youtube.com/watch?v=auj4406RPQw)
+    {{ youtube auj4406RPQw }}
     
 
 The software used here is [MaxMSP](https://cycling74.com/products/max).
@@ -102,7 +102,7 @@ This writeup by Jason Bailey a.k.a Artnome is a bit dated back in 2020 but provi
 
 For those of you who are curious about the various Shader Languages and their 
 
-[https://www.youtube.com/watch?v=rY413t5fArw](https://www.youtube.com/watch?v=rY413t5fArw)
+{{ youtube rY413t5fArw }}
 
 > A long time ago, I wrote a really slow ray-tracing program for a TI-84 calculator. I figured it's about time for an upgrade.
 > 

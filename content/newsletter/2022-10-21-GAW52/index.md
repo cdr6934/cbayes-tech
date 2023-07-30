@@ -8,10 +8,9 @@ featured:
 tags: ['generative','newsletter']
 ---
 
-[Website](https://www.generativecollective.com/) |  [Instagram](https://www.instagram.com/generate.collective/) | [Youtube](https://www.youtube.com/channel/UCBOYyqA-mqyoTSJ8pO9sQiA) | [Behance](https://www.behance.net/generatecoll) | [Twitter](https://twitter.com/generatecoll) | [BuyMeACoffee](https://www.buymeacoffee.com/generatecoll)
 
 > The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips
-> 
+
 
 Hello fellow readers, 
 
@@ -38,11 +37,11 @@ Chris
 
 # 🔖 Articles and Tutorials
 
-[https://www.youtube.com/watch?v=DH1KqXQvICQ](https://www.youtube.com/watch?v=DH1KqXQvICQ)
+{{ youtube DH1KqXQvICQ }}
 
 If you are looking for a longer overview on how to use shaders on websites to create distortion effects this is a good sit down. 
 
-[https://www.youtube.com/watch?v=9qen5CKjUe8](https://www.youtube.com/watch?v=9qen5CKjUe8)
+{{ youtube 9qen5CKjUe8 }}
 
 > Cassie Evans (from Greensock) chats to Jake about SVG paths, and what that mess of letters and numbers actually means.
 > 
@@ -58,7 +57,7 @@ I thought this was a very helpful overview of SVG paths and how they work withou
 
  I wrote an edition of the newsletter highlighting some aRtists, but I will need to update [my article](https://generative.substack.com/p/generative-art-and-r) The noise article for August is an example of some of the great writing of William Chase on using R for generative art. I’d highly recommend checking some more of his work. 
 
-[https://www.youtube.com/watch?v=8Ab3ArE8W3s](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
+{{ youtube 8Ab3ArE8W3s }}
 
 ## Stop Writing Dead Programs
 

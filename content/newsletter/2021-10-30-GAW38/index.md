@@ -148,7 +148,7 @@ I have loved Helena's approach to art and deep learning. It's just always great 
 
 The following [Observable](https://observablehq.com/@cdr6934) notebook is more of a coding example of an implementation of the domain warping algorithms which originally was typed up by [Inigo Quilez](https://www.iquilezles.org/www/articles/warp/warp.htm). Another great implementation was the Artblocks curated series Pigments by [Darien Brito](https://www.artblocks.io/project/129). 
 
-[https://www.youtube.com/watch?v=a56wk9Xm9dY](https://www.youtube.com/watch?v=a56wk9Xm9dY)
+{{ youtube a56wk9Xm9dY }}
 
 > Let's explore a neat way to generate a normal map from your displacement texture and apply them to a geometry mesh. In this video, we will create a basic scene from a rectangle and use the Vertex Displacement Map op along with a couple of Image Compose stacks. To generate the normal map in real-time we will use the To Normal Map operator. 
 And a quick note about vertex displacement not mentioned in the video - cables.gl can also use RGB vertex displacement maps, more on that later!

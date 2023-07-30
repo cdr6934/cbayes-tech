@@ -78,8 +78,7 @@ Ram 1 V.1 Edward Zajec (1968)
 
 > The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on
 > 
-
-[https://www.youtube.com/watch?v=zNwjYLWf23o](https://www.youtube.com/watch?v=zNwjYLWf23o)
+{{ youtube zNwjYLWf23o }}
 
 ## Sound of SPUTNIK-1
 
@@ -98,7 +97,7 @@ Check the exhibit out here: [https://artsexperiments.withgoogle.com/art-emotions
 
 # **Making a Web Audio Synthesizer**
 
-[https://www.youtube.com/watch?v=uasGsHf7UYA](https://www.youtube.com/watch?v=uasGsHf7UYA)
+{{ youtube uasGsHf7UYA }}
 
 > Join me for a beginner-friendly, retro-tinted journey into creative Web Audio in the browser. We’ll tweak some virtual knobs, make some weird sounds, get a beat going, and throw it all together. Help me bring the noise-pop stylings of my formative years full circle, and learn about creative browser APIs, JavaScript data structures, and web audio in the process!
 > 

@@ -81,7 +81,7 @@ The book was written / compiled by [Jasia Reichardt](https://archive.org/search.
 
 # 📰 Technical
 
-[https://www.youtube.com/watch?v=a-767WnbaCQ](https://www.youtube.com/watch?v=a-767WnbaCQ)
+{{ youtube a-767WnbaCQ }}
 
 > The uniqueness of the infinite cluster is known for the d-dimenional lattice since the works of Aizenman, Kesten and Newman - [Uniqueness of the infinite cluster and continuity of connectivity functions for short and long range percolation (1987)] and Burton and Keane - [Density and uniqueness in percolation (1989)]. It does not hold in general: when the graph in question is a regular tree for example, there are always infinitely many clusters during the supercritical phase.
 > 
@@ -113,7 +113,7 @@ If you haven’t had the opportunity on [Midjourney](https://www.midjourney.com/
 
 # 🎼Generative Music
 
-[https://www.youtube.com/watch?v=0cW98waJ2D0](https://www.youtube.com/watch?v=0cW98waJ2D0)
+{{ youtube 0cW98waJ2D0 }}
 
 Unfortunately you will need to have PhasePlant in order to do the following. However, as I love sound design and music generation, Dash Glitch does such a fine job at explaining how he uses PhasePlant to create generative music. The remap plugin is a very important use in generative art as well as you remap from one range to another. 
 

@@ -62,7 +62,7 @@ Do check it out, its worth taking a look and doing some discovery of the pieces.
 
 # [Artbl](http://artblcoks.io)ocks.io Interview with Joshua Davis
 
-[https://www.youtube.com/watch?v=3rKBhkjnfAE&t=3075s](https://www.youtube.com/watch?v=3rKBhkjnfAE&t=3075s)
+{{ youtube 3rKBhkjnfAE }}
 
 I remember back in early 2000s when coming across the work of Joshua Davis. As a teenager, I was really really excited to have gotten a copy of Flash MX for my birthday. ( I still have a printed birthday card with Flash MX being on the box somewhere that my family had made.) It was the time where I first got to know about Joshua's work and then many others through sites such as [Kirupa.com](http://kirupa.com). One swf that really surprised me was a 3D box in the flash file that would capture the mouse and hold it. You'd have to wiggle the mouse free from the box. I found that mind blowing at the time. 
 

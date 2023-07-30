@@ -169,7 +169,7 @@ I assume many of you have already seen the wonderful work from DEAFBEEF. I think
 
 # The Beauty of Bézier Curves
 
-[https://www.youtube.com/watch?v=aVwxzDHniEw](https://www.youtube.com/watch?v=aVwxzDHniEw)
+{{ youtube aVwxzDHniEw }}
 
 > They're used for animation, text rendering, and all sorts of curved shapes! But how do they actually work? well, like, that's what the video is about, so, watch it to find out etc!!
 > 
