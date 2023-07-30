@@ -37,7 +37,7 @@ I do have a special spot in my heart for 3D printed materials as it really anoth
 
 # 🎵 Generative Sound
 
-[https://www.youtube.com/watch?v=Q40qEg8Yq5c](https://www.youtube.com/watch?v=Q40qEg8Yq5c)
+{{ youtube Q40qEg8Yq5c }}
 
 ## Drop the Daw: Sound Design in Python
 

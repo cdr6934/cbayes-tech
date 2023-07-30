@@ -145,6 +145,6 @@ This project has been one of my favorites since its been created back in 2016. R
 
 A great introduction into better understanding the Surrealist movement and the themes that were explored through the art of some of the greats. 
 
-[https://www.youtube.com/watch?v=CBLMibOwqdw](https://www.youtube.com/watch?v=CBLMibOwqdw)
+{{ youtube CBLMibOwqdw }}
 
 # Send me your inspirations...

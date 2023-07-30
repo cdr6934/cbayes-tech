@@ -70,7 +70,7 @@ Found there to be some pretty inspiring work.
 
 This is more mathematic in nature, however the actual algorithm is interesting to look at and implement let alone seeing what can be done with it.
 
-[https://www.youtube.com/watch?v=0Kx4Y9TVMGg](https://www.youtube.com/watch?v=0Kx4Y9TVMGg)
+{{ youtube 0Kx4Y9TVMGg }}
 
 ## ****Artificial Life (Simulation & Code)****
 

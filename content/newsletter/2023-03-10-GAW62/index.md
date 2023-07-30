@@ -19,11 +19,11 @@ I've found that this is the best way for me to get inspiration. Unfortunately, I
 
 The week has flown by.. But I’ve been playing around with StableDiffusion (specifically LORA) quite a bit, working on a full time project for a client, and finishing up some finals. 
 
-[https://www.youtube.com/watch?v=EbPUQv2c5gA&t=305s](https://www.youtube.com/watch?v=EbPUQv2c5gA&t=305s)
+{{ youtube EbPUQv2c5gA }}
 
 I’ve also been just fascinated by Unreal Engine and just the realism that comes from the engine itself. 
 
-[https://www.youtube.com/watch?v=ifryjffUJT8&t=1012s](https://www.youtube.com/watch?v=ifryjffUJT8&t=1012s)
+{{ youtube ifryjffUJT8 }}
 
 That’s been my week, I’ve been really wanting to write a little more technical on random noise and really do some deep dive. I know there are a few articles but it would 
 
@@ -77,7 +77,7 @@ Following came from this [article](https://cdm.link/2023/03/chatgpt-eurorack-pat
 > A word-as-image is a semantic typography technique where a word illustration presents a visualization of the meaning of the word, while also preserving its readability. We present a method to create word-as-image illustrations automatically. This task is highly challenging as it requires semantic understanding of the word and a creative idea of where and how to depict these semantics in a visually pleasing and legible manner. We rely on the remarkable ability of recent large pretrained language-vision models to distill textual concepts visually. We target simple, concise, black-and-white designs that convey the semantics clearly. We deliberately do not change the color or texture of the letters and do not use embellishments. Our method optimizes the outline of each letter to convey the desired concept, guided by a pretrained Stable Diffusion model. We incorporate additional loss terms to ensure the legibility of the text and the preservation of the style of the font. We show high quality and engaging results on numerous examples and compare to alternative techniques
 > 
 
-[https://www.youtube.com/watch?v=ApHFmZpEnqw](https://www.youtube.com/watch?v=ApHFmZpEnqw)
+{{ youtube ApHFmZpEnqw }}
 
 ## Create Audio Reactive Shaders with [Three.js](https://threejs.org/) and [ShaderPark](https://shaderpark.com/)
 
@@ -91,7 +91,7 @@ Following came from this [article](https://cdm.link/2023/03/chatgpt-eurorack-pat
 > [Denoising Diffusion Probabilistic Models](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) are a relatively new form of generative neural network model - models which produce samples from a high-dimensional probability distribution learned from data. Other approaches to the same class of problem include Generative Adversarial Networks, Normalizing Flows, and various forms of autoregressive models that sample dimensions one at a time or in blocks. One of the major applications of this kind of modelling is in image synthesis, and diffusion models have recently been very competitive with regards to image quality, particularly with regards to producing globally coherent composition across the image.
 > 
 
-[https://www.youtube.com/watch?v=51LwM2R_e_o](https://www.youtube.com/watch?v=51LwM2R_e_o)
+{{ youtube 51LwM2R_e_o }}
 
 ## Cairo Tiling Explained
 

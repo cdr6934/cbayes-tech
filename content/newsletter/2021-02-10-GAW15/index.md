@@ -159,7 +159,7 @@ This site has a wealth of inspirational pieces that were generated and inspired 
 > I describe a simple method for constructing a sequence of points, that is based on a low discrepancy quasirandom sequence but exhibits enhanced isotropic blue noise properties. This results in fast convergence rates with minimal aliasing artifacts.
 > 
 
-[https://www.youtube.com/watch?v=8Uo6zFwSO78](https://www.youtube.com/watch?v=8Uo6zFwSO78)
+{{ youtube 8Uo6zFwSO78 }}
 
 > Matt DesLauriers, an artist and freelance creative coder, talks about his passion for generative art — searching for inspiration, exploring open tools and workflows, and finding his own path within the field. Learn about conceptual art, pen plotters, light installations, and how print artworks can be created with JavaScript and the web platform. Matt breaks down some of the algorithms and processes involved in his work, providing you with the building blocks to create your own generative art.
 > 

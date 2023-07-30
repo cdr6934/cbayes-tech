@@ -60,7 +60,7 @@ For next week:
 
 # 🔖 Articles and Tutorials
 
-[https://www.youtube.com/watch?v=Xrxx3tpEuco](https://www.youtube.com/watch?v=Xrxx3tpEuco)
+{{ youtube Xrxx3tpEuco }}
 
 ## Magdalena Abakanowicz - Woven Sculptures
 
@@ -90,7 +90,7 @@ Definitely a worthy watch. The sculptures are absolutely special and natural in 
 > A modular system for isometric pixel blocks, the aim of TiliX is to define a set of rules for pixel art, that enforce consistency, and help builders to work together. The system also hopes to establish a base for generative approaches and automated workflow
 > 
 
-[https://www.youtube.com/watch?v=SFXvtm-vkvE](https://www.youtube.com/watch?v=SFXvtm-vkvE)
+{{ youtube SFXvtm-vkvE }}
 
 > Generative Music or Aleatoric Music is quite different in terms of method as compared to traditional music creation using musical instruments. In this video I try to create a fairly basic generative music system in the low code/no code web gl platform cables.gl.
 > 

@@ -105,7 +105,7 @@ Using Spectral JS to generate some unique color blending
 > R is not a general, multi-purpose programming language. It was written to do statistical analysis and make charts. You are literally not allowed to do anything else with it. You should use <LANGUAGE> instead, which is much more suited to your specific use case. R is a joke language for nerds.
 > 
 
-[https://www.youtube.com/watch?v=coUKTLUX2Gw](https://www.youtube.com/watch?v=coUKTLUX2Gw)
+{{ youtube coUKTLUX2Gw }}
 
 > 
 > 
