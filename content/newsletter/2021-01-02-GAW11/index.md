@@ -35,7 +35,7 @@ Also if you are looking to challenge yourself by "sketching" daily, please parti
 
 ## Interactive Flowers Projection with ParticleSOP
 
-[https://www.youtube.com/watch?v=ADtM2_awSj8](https://www.youtube.com/watch?v=ADtM2_awSj8)
+{{ youtube ADtM2_awSj8 }}
 
 > Akiko will present her most recent work 'Hana Fubuki', an interactive flowers projection for Artechouse DC. The presentation will cover both artistic and technical aspects of creating an art installation. From concept and prototyping to pre-visualizing the project using using TouchDesigner, Akiko will discuss the technical requirements of the project; setting up multiple Kinect devices with small computers across a network; NDI quality and resolution tips; how the project was driven using a Particle SOP with Force and Metaball SOP; creating custom attributes and geometry instancing with w coordinate with Texture 3D TOP will all be discussed.
 > 

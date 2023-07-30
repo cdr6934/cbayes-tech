@@ -51,14 +51,14 @@ Many of you might know the works of Casey Reas
 
 # 📸 Generative Graphics
 
-[https://www.youtube.com/watch?v=d_Es_kGfke8](https://www.youtube.com/watch?v=d_Es_kGfke8)
+{{ youtube d_Es_kGfke8 }}
 
 > "parallelResonance" is a body of paintings and animations based on the 11-dimensional hypercube and uses diagonal paths as a compositional building block. Diagonal paths are all the combinatorial possibilities of connecting two opposite points through a hypercube network, passing through each dimension once.
 > 
 
 Inspired by his exploration of a “surrealistic geometry” in the mid-1960s, which consisted of exploring the tension fields created by the voids between geometric elements in visual composition, Mohr develops the same principle in this series through an algorithm. Here, two randomly selected and superimposed 11-dimensional diagonal paths describe white and black forms, projected on a colored background. At times, the black form interchanges its color with the background to further create new visual relations in form and tension fields.
 
-[https://www.youtube.com/watch?v=yEZynnxWd2I&t=12s](https://www.youtube.com/watch?v=yEZynnxWd2I&t=12s)
+{{ youtube yEZynnxWd2I }}
 
 > This is an ecosystem of interdependent creatures coded in p5js. There is a set of rules for the movement of each type of creature, implemented using physics simulations. These rules are simple but, when combined, produce interesting behaviours in a complex system.
 
@@ -107,7 +107,7 @@ acrostics, tautograms, simple numerical limitations and combinatory algorithms a
 
 Fascinating article of an artist I had not heard of until just recently so I hope you enjoy his work!
 
-[https://www.youtube.com/watch?v=U3cTXqvW3XU](https://www.youtube.com/watch?v=U3cTXqvW3XU)
+{{ youtube U3cTXqvW3XU }}
 
 ## Archimedian Solid
 

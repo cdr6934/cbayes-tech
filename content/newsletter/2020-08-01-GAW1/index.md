@@ -35,11 +35,11 @@ Here is a newly started [Twitter account](https://twitter.com/LFractals?s=20)  c
 
 ## 🎶 Music
 
-[https://youtu.be/PnIyPsjaDAg](https://youtu.be/PnIyPsjaDAg)
+{{youtube PnIyPsjaDAg}}
 
 In this showcase we simply used the [Zwobot](https://www.zwobotmax.com) LorenzFX-Module as a basis FX and just playing around with other Zwobot-FX on top of it. The variety is endless.
 
-[https://www.youtube.com/watch?v=995vS_pHrUk&feature=emb_title](https://www.youtube.com/watch?v=995vS_pHrUk&feature=emb_title)
+{{youtube 995vS_pHrUk}}
 
 This time we learn no new programming concepts, but find out how to install a MIDI library in Processing to be able to control program parameters using an external hardware device. MIDI controllers are often used together with music programs to do things like changing volumes or effect amount. But they are a great tool for experimenting with your programs, because they allow you to change numbers without having to restart your program. You just turn a knob or move a slider and see the graphics change.
 

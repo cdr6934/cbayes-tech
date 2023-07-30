@@ -1,7 +1,7 @@
 ---
 title: 'Early Computer Art, Word Music, and Creative PowerPoint Programming'
 author: Chris Ried
-date: '2020-11-21'
+date: '2023-06-12'
 slug: generative-arts-66
 categories: 
 featured: 
@@ -38,7 +38,7 @@ If you haven’t read any of Amy’s writings, please do. She does a wonderful j
 > We introduce MusicLM, a model generating high-fidelity music from text descriptions such as *"a calming violin melody backed by a distorted guitar riff"*. MusicLM casts the process of conditional music generation as a hierarchical sequence-to-sequence modeling task, and it generates music at 24 kHz that remains consistent over several minutes. Our experiments show that MusicLM outperforms previous systems both in audio quality and adherence to the text description. Moreover, we demonstrate that MusicLM can be conditioned on both text and a melody in that it can transform whistled and hummed melodies according to the style described in a text caption. To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text descriptions provided by human experts.
 > 
 
-[https://www.youtube.com/watch?v=_3loq22TxSc](https://www.youtube.com/watch?v=_3loq22TxSc)
+{{youtube _3loq22TxSc}}
 
 ## Great Impractical Ideas In Computer Science
 
@@ -82,7 +82,8 @@ Definitely check out the fractal pieces… more fun to see and not really practi
 > I love legends. The life of Pythagoras is riddled with them: from the discoverie of consonant intervals in music while [walking past a forge](https://en.wikipedia.org/wiki/Pythagorean_hammers) to how give death to his disciple Hippasus throwing him overboard a ship after this one proved the existence of irrational numbers. My favorite is the one that heads this post: it is said that Pythagoras could hear the sound of the spheres, the harmony of the universe. No more no less.
 > 
 
-[https://www.youtube.com/watch?v=rtTWtzWav8I](https://www.youtube.com/watch?v=rtTWtzWav8I)
+
+{{youtube rtTWtzWav8I }}
 
 # An Addictive Alternative to DAWs
 

@@ -62,7 +62,7 @@ Chris
 
 # 🖌️ Unconventional Media
 
-[https://www.youtube.com/watch?v=ApYG0YXwg0k](https://www.youtube.com/watch?v=ApYG0YXwg0k)
+{{ youtube ApYG0YXwg0k }}
 
 ## Featured Artist
 
@@ -98,7 +98,7 @@ In this post the user is using the Wolfram Language which is by far a different 
 
 ## Weird Type AR
 
-[https://www.youtube.com/watch?v=QT-kpf7pEaM](https://www.youtube.com/watch?v=QT-kpf7pEaM)
+{{ youtube kpf7pEaM }}
 
 This week I want to highlight just an app that has been built for iOS. It isn't necessarily a physical place but the app gives the user the ability to create a physical location or an exhibit of their work in their own homes. Please check the [app out](https://apps.apple.com/us/app/weird-type/id1352785248)! 
 
@@ -127,7 +127,7 @@ This week I want to highlight just an app that has been built for iOS. It isn't 
 
 ## Zach Lieberman @ TAAALKS 2020
 
-[https://www.youtube.com/watch?v=wm-xqHSJ0M0&app=desktop](https://www.youtube.com/watch?v=wm-xqHSJ0M0&app=desktop)
+{{youtube wm-xqHSJ0M0}}
 
 > Zach Lieberman is an American artist, coder, educator and the co-founder of the School for Poetic Computation based in New York City. His school explores the intersections of code, design, hardware, and theory, with a particular focus on artistic interventions. Zach creates artwork through writing software and is a co-creator of OpenFrameworks, an open source C++ toolkit for creative coding. His main focus is how computation can be used as medium for poetry. The outcomes of his works vary from experimental drawing and animations to performances and installations that amplify human gestures in different ways.
 > 

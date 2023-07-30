@@ -83,7 +83,7 @@ We describe computer-generated poetry techniques in the categories of mere gener
 
 # John Whitney - Experiments in motion graphics 1968 - Generative graphics
 
-[https://www.youtube.com/watch?v=jIv-EcX9tUs](https://www.youtube.com/watch?v=jIv-EcX9tUs)
+{{ youtube jIv-EcX9tUs }}
 
 > John Whitney, Sr. (April 8, 1917 – September 22, 1995) was an American animator, composer and inventor, widely considered to be one of the fathers of computer animation.
 > 
@@ -114,7 +114,7 @@ A neat little experiment using Reaction - Diffusion and images created in Max. T
 > Within art, there exist purposes referred to as functions for which a piece of art may be designed, but no art can be "assigned" a function—either in scholarly studies or casual conversation—outside of the proper context. Art forms exist within very specific contexts that must be considered when classifying them. Whether a particular piece of art has existed for centuries or has yet to be created, it is functional in some way—all art exists for a reason and these reasons make up the functions of art.
 > 
 
-[https://www.youtube.com/watch?v=X150LMZy7uY](https://www.youtube.com/watch?v=X150LMZy7uY)
+{{ youtube X150LMZy7uY }}
 
 # Generative Art, SVG, and Celestine - Raw Crystal 2020
 

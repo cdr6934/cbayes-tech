@@ -143,7 +143,7 @@ Raven Kwok, I have found much of his work inspiring and this video doesn't let y
 
 ## Exploring generative spaces: a quickstart to generative art - GitHub Universe 2020
 
-[https://www.youtube.com/watch?v=meqHPIOzk-U](https://www.youtube.com/watch?v=meqHPIOzk-U)
+{{ youtube meqHPIOzk-U }}
 
 > In this talk, Sabine "bleeptrack" Wieluch will give a quick introduction on how to create your own generative art using paper.js. She'll also share insights to common techniques and explain possible pitfalls. She's excited to code art with you!
 > 
@@ -152,7 +152,7 @@ It is really nice to see the many different artists in the generative space. Sab
 
 # 🔖 Articles and Tutorials
 
-[https://www.youtube.com/watch?v=O3gLBhC353Y](https://www.youtube.com/watch?v=O3gLBhC353Y)
+{{ youtube O3gLBhC353Y }}
 
 ## [Blender Procedural Nodes](https://www.youtube.com/watch?v=O3gLBhC353Y)
 
@@ -160,7 +160,7 @@ A 2 Hour tutorial on using [Blender](https://www.blender.org/) (An open source 3
 
 If you want to get a sense of what Blender is capable to do, please check out their latest short film. I'm always extremely impressed that there is such a big community that is willing to put something this incredible together. 
 
-[https://www.youtube.com/watch?v=4YA9LSBLOB0](https://www.youtube.com/watch?v=4YA9LSBLOB0)
+{{ youtube 4YA9LSBLOB0 }}
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41b737ad-8709-47d0-a442-30f20c6cd45e/self_organizing_textures.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41b737ad-8709-47d0-a442-30f20c6cd45e/self_organizing_textures.png)
 

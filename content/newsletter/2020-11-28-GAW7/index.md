@@ -50,7 +50,7 @@ I've been having a ball going over the work that Hau has been posting on his [Tw
 
 ## WebAssembly Music
 
-[https://www.youtube.com/watch?v=C8j_ieOm4vE&feature=emb_title](https://www.youtube.com/watch?v=C8j_ieOm4vE&feature=emb_title)
+{{ youtube C8j_ieOm4vE }}
 
 > Been playing with computer music since the 80s from the tracker era to modern soft synths and DAWs, and even writing some myself. Recently as WebAssembly came along with excellent performance, and AudioWorklet technology in providing low latency audio, it's finally possible to use the web for serious music production. As a programmer I like to use a programming language for expressing the music, and also for synthesizing the instruments. I compose my music in Javascript and create my instruments in AssemblyScript which is compiled to WebAssembly. It's all running in the browser. You can write the music in a live coding-environment, and you can play and record the instruments with a midi-keyboard.
 > 
@@ -74,7 +74,7 @@ You will be able to see the work from Peter and how he  generated the music base
 
 # Controlling an Unreal Engine Particle System with Twitter
 
-[https://www.youtube.com/watch?v=WiLPwNWuzXw](https://www.youtube.com/watch?v=WiLPwNWuzXw)
+{{ youtube  WiLPwNWuzXw }}
 
 > There is little to be seen here in terms of the technical breakdown of the piece. Yet the concept, though we see it in a number of different applications such a
 > 
@@ -104,7 +104,7 @@ You will be able to see the work from Peter and how he  generated the music base
 
 ## City Generator - Procedural City Generator
 
-[https://www.youtube.com/watch?v=ligKs9aXKsA](https://www.youtube.com/watch?v=ligKs9aXKsA)
+{{ youtube ligKs9aXKsA }}
 
 > Today we are looking at City Generator, a tool for quickly creating cities using procedural generation. We then look at how to take the output and create 3D levels in Blender.
 > 

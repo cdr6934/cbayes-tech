@@ -143,7 +143,7 @@ Sources: [wblut](https://www.instagram.com/wblut/), [cyber.ia](https://www.insta
 
 ## [Ferrofluid Sculptures](https://www.wired.com/story/ferrofluid-sculptures/)
 
-[https://www.youtube.com/watch?v=n8Zvyr2Bc5Y](https://www.youtube.com/watch?v=n8Zvyr2Bc5Y)
+{{ youtube n8Zvyr2Bc5Y }}
 
 > IN THE EARLY 1960s, a NASA engineer by the name of Steve Papell dreamed up a career for modern-day artist Eric Mesplé. Well, at least not directly. Papell was trying to figure out how to move fuel around an engine in zero gravity, and hit upon the idea of a “ferrofluid.” By adding magnetic nanoparticles to a liquid, you can magnetize the medium. Apply a magnetic field, and suddenly that liquid behaves like no other on Earth.
 > 

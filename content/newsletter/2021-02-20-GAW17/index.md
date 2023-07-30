@@ -55,7 +55,7 @@ So let's keep on working on simple skills. A brush, a pen, are amazing pieces of
 
 Btw, if you haven't watch Blown Away on Netflix, please do. Talk about a beautiful "physical" art form that gives me so many chills. Glass is such a beautiful material to see it being shaped into many fantastic pieces. .. I can't recommend highly enough!
 
-[https://www.youtube.com/watch?v=Qb3zq_VRJ3Q](https://www.youtube.com/watch?v=Qb3zq_VRJ3Q)
+{{ youtube Qb3zq_VRJ3Q }}
 
 # Inspirations
 
@@ -69,7 +69,7 @@ Btw, if you haven't watch Blown Away on Netflix, please do. Talk about a beautif
 
 Check out Dmitri Cherniak in an interview of his project "[Ringers](https://artblocks.io/project/13)" as he discusses his work and inspiration of the pieces which were featured on [Artblocks.io](http://artblocks.io) You can also check out his work on his [Instagram](https://www.instagram.com/dmitricherniak/?hl=en) or his  [website.](http://www.dmitricherniak.com/) 
 
-[https://www.youtube.com/watch?v=GOzQ4EUG3o4](https://www.youtube.com/watch?v=GOzQ4EUG3o4)
+{{ youtube GOzQ4EUG3o4 }}
 
 ---
 
@@ -93,7 +93,7 @@ Check out Dmitri Cherniak in an interview of his project "[Ringers](https://artb
 
 # 🚤 Motion
 
-[https://www.youtube.com/watch?v=J-0NzU1TmIY](https://www.youtube.com/watch?v=J-0NzU1TmIY)
+{{ youtube J-0NzU1TmIY }}
 
 ## Tissue - Experimenting with the Reaction-Diffusion
 

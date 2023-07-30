@@ -66,7 +66,7 @@ You can also check out his work on [Instagram](https://www.instagram.com/andreio
 
 ## Microbes Don't Actually Look Like Anything
 
-[https://www.youtube.com/watch?v=VBmzwM76V0o](https://www.youtube.com/watch?v=VBmzwM76V0o)
+{{ youtube VBmzwM76V0o }}
 
 The beauty of nature is that it is generative as well. Here you will find a very fascinating source of inspiration that comes from the real world and can provide some patterns to replicate in art as well. 
 
@@ -110,7 +110,7 @@ There is something beautiful about linking algorithmic
 
 ## 3d Tutorial | Stereographic Voronoi Sphere | Blender 2.8
 
-[https://www.youtube.com/watch?v=3vpDMNNjb8A](https://www.youtube.com/watch?v=3vpDMNNjb8A)
+{{ youtube 3vpDMNNjb8A }}
 
 > In this video, we will use the Extra Meshes addon, along with a few modeling and modifier adjustments to reproduce a very similar object in Blender 2.8.
 > 
@@ -122,7 +122,7 @@ There is something beautiful about linking algorithmic
 > Apparitions is an exploration of the space between the algorithmic and organic. My goal as a generative artist is to create artwork that inspires curiosity, leading viewers to simultaneously see the work as computer generated and hand crafted, because it *is* both.
 > 
 
-[https://www.youtube.com/watch?v=X-iSQQgOd1A](https://www.youtube.com/watch?v=X-iSQQgOd1A)
+{{ youtube X-iSQQgOd1A }}
 
 > A small exploration of an algorithm inspired by ants, and some little experiments into simulating some of the behaviour of ants and slime moulds.
 > 
@@ -131,7 +131,7 @@ There is something beautiful about linking algorithmic
 
 ## HTML5 Canvas Crash Course for Generative Art
 
-[https://www.youtube.com/watch?v=Yvz_axxWG4Y](https://www.youtube.com/watch?v=Yvz_axxWG4Y)
+{{ youtube Yvz_axxWG4Y }}
 
 > From HTML5 canvas basics to beautiful particle systems in one video. Do you want to master Front End Web Development this year? Then this tutorial is for you! :) We will go from important fundamentals to digital art, let me show you the real power of vanilla JavaScript in this HTML5 canvas crash course for beginners!
 > 

@@ -143,7 +143,7 @@ My first exposure to using Clojure in the generative space was through [Inconver
 
 # Courses
 
-[https://www.youtube.com/watch?v=CkjM8et49lI&list=PLLx7jIm38p9m6n8X01Sz2kQaSC9U6_6u5&index=23](https://www.youtube.com/watch?v=CkjM8et49lI&list=PLLx7jIm38p9m6n8X01Sz2kQaSC9U6_6u5&index=23)
+{{ youtube CkjM8et49lI }}
 
 ## [Generative Processes](https://www.youtube.com/playlist?list=PLLx7jIm38p9m6n8X01Sz2kQaSC9U6_6u5&fbclid=IwAR0ubXZJyCENmE3gQobDLhDAO8p5VFPWA8VA4ftalTkHEi5SULuprM603gg)
 

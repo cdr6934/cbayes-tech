@@ -126,7 +126,7 @@ I am quite excited for the following! It will be a great exercise that I think a
 
 ## [Narcisse](www.nonotak.com)
 
-[https://www.youtube.com/watch?v=Yd6krWW_UbM&feature=emb_title](https://www.youtube.com/watch?v=Yd6krWW_UbM&feature=emb_title)
+{{ youtube Yd6krWW_UbM }}
 
 > 
 > 

@@ -29,14 +29,14 @@ Photo by Erwan Hesry on Unsplash
 
 There are so many beautiful things about the work that Dr. Neri Oxman has done with architecture and natural materials. Here I've added a few videos of her collaborations at MIT and the insane wonder that the pieces that they have been able to create. 
 
-[https://www.youtube.com/watch?v=9HI8FerKr6Q](https://www.youtube.com/watch?v=9HI8FerKr6Q)
+{{youtube 9HI8FerKr6Q}}
 
 A unified approach to grown structures. 
 
 > The video shows 15 different variations of one computational growth process. Based on this process we created a series of 3D printed wearables in cooperation with [Prof. Neri Oxman](https://neri.media.mit.edu/) from the MIT Media Lab.
 > 
 
-[https://www.youtube.com/watch?v=CVa_IZVzUoc](https://www.youtube.com/watch?v=CVa_IZVzUoc)
+{{ youtube CVa_IZVzUoc}}
 
 > Designer and architect Neri Oxman is leading the search for ways in which digital fabrication technologies can interact with the biological world. Working at the intersection of computational design, additive manufacturing, materials engineering and synthetic biology, her lab is pioneering a new age of symbiosis between microorganisms, our bodies, our products and even our buildings.
 > 
@@ -55,7 +55,7 @@ Here are a few more of the works that he has recently placed on Twitter. Check h
 
 # 🚤 Motion
 
-[https://www.youtube.com/watch?v=vI8rKFvLodY&feature=emb_title](https://www.youtube.com/watch?v=vI8rKFvLodY&feature=emb_title)
+{{youtube vI8rKFvLodY}}
 
 > Algorithms and rule sets are the ground for generative art – Artistic creation often starts with a conscious choice of these rules, but isn’t limited to any medium, topic, technique or philosophical context. Questions of order and chaos are intrinsically linked to these rules and determine its philosophical proximity to complexity theory (Stephen Wolfram and others). Generative art is either outcome or process of an artistic production based on autonomous systems – thus excluding human spectator agency. Interactive art, on the contrary, is based on spectator-ship agency. Interactive art is per definition either the process or creative result of inter-subjective human art generation. In generative art rules create art, in interactive art the absence of rules defines human interaction.
 > 

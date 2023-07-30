@@ -27,14 +27,14 @@ Chris Ried
 
 # 📸 Generative Music
 
-[https://www.youtube.com/watch?v=cwxH5Xc4pQo](https://www.youtube.com/watch?v=cwxH5Xc4pQo)
+{{youtube cwxH5Xc4pQo}}
 
 ## [Introduction to Generative Music](https://medium.com/@metalex9/introduction-to-generative-music-91e00e4dba11)
 
 > Eno further describes systems which create “ever-changing music,” that could “produce original music forever,” lamenting the limitations which forced him to simply record the output of these systems as traditional albums rather than “sell the system itself, so that a listener would know that the music was always unique.”
 > 
 
-[https://www.youtube.com/watch?v=JzGpUal_hY4](https://www.youtube.com/watch?v=JzGpUal_hY4)
+{{youtube JzGpUal_hY4}}
 
 Found this interesting video on a recent 
 

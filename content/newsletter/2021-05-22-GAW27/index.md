@@ -38,7 +38,7 @@ If you haven't yet looked at Artblocks, I'd highly recommend it!
 
 # 🖌️ Unconventional Media
 
-[https://www.youtube.com/watch?v=Z_pOiHX6HYE&t=373s](https://www.youtube.com/watch?v=Z_pOiHX6HYE&t=373s)
+{{ youtube Z_pOiHX6HYE }}
 
 > Frieder Nake chose "**The Art of Being Precise**" as the title for the conversation. He explains his choice as follows: "There is a book by Max Bense, "**Die präzisen Vergnügen"** [The Precise Pleasures] (1964). For him, that was the program. Emotions in art? How vulgar! We think pictures, we don't make them. We have machines for making them. We program the machines so that they do what we want. In the mid-1960s, when this started, Sol LeWitt said, "The idea becomes a machine that makes the art." With the computer, the semiotic machine had emerged, a machine nobody foresaw. The image-making took on a radically new dimension: it was no longer a matter of making one image, but of thinking an infinite number of them. And, indeed, when I think one picture, I immediately think many and more. Please, always keep in mind: We think pictures, it is said, and not: we think of the pictures! This is a big and a radical difference. In the mid-1960s, the algorithmic revolution broke into art and has been writing a strand of its history ever since."
 > 
@@ -70,7 +70,7 @@ If you haven't yet looked at Artblocks, I'd highly recommend it!
 
 ## Making Perfect Looping Textures in Blender 2.92
 
-[https://www.youtube.com/watch?v=trSjzWh-Buk](https://www.youtube.com/watch?v=trSjzWh-Buk)
+{{ youtube trSjzWh-Buk }}
 
 > In this Blender 2.92 I will show you how I make texture nodes loop in a perfect seamless way
 > 
@@ -86,7 +86,7 @@ Here is the first [recording](https://mit.zoom.us/rec/play/MmAZGkw94hRbLudgLWfW3
 
 ## [InteractML](http://interactml.com/)
 
-[https://www.youtube.com/watch?v=kiYnHxVqaEk&feature=emb_title](https://www.youtube.com/watch?v=kiYnHxVqaEk&feature=emb_title)
+{{ youtube kiYnHxVqaEk }}
 
 > Interactive machine learning (IML) is a subfield of artificial intelligence (AI) research where users, generally non-experts, can quickly create and test ML models. These models can learn input/outputs from real-time data through human/computer examples (i.e. when the user moves his arms up-down the character swims upwards).
 > 

@@ -37,7 +37,7 @@ All that to say, randomness in its true form actually doesn't give us beautiful 
 
 Alexis André is an artist, researcher and designer aiming at redefining entertainment. In this golden age of computation and data overflow, why is our entertainment still designed to be consumed in a passive way? A few media are offering interactive experiences, but none of them are designed specifically for you. In this live demo, Alexis will create a sketch from scratch for participants to experience what it's like working with nannou and Rust
 
-[https://www.youtube.com/watch?v=Ml6tpyTyXhM](https://www.youtube.com/watch?v=Ml6tpyTyXhM)
+{{ youtube Ml6tpyTyXhM }}
 
 Presented by Alexis André, Artist/Researcher, Sony Computer Science Laboratories, Inc..
 
@@ -80,7 +80,7 @@ saxi is a tool for interacting with the AxiDraw drawing machine by Evil Mad Scie
 
 ## [Cables.g](http://cables.gl)l
 
-[https://www.youtube.com/watch?v=EPFNHYah9F4&list=PLYimpE2xWgBveaPOiV_2_42kZEl_1ExB0](https://www.youtube.com/watch?v=EPFNHYah9F4&list=PLYimpE2xWgBveaPOiV_2_42kZEl_1ExB0)
+{{ youtube EPFNHYah9F4 }}
 
 > Cables is a tool for creating beautiful interactive content. With an easy to navigate interface and real time visuals, it allows for rapid prototyping and fast adjustments. You are provided with a set of operators, such as mathematical functions, shapes, materials and post processing effects. Connect these to each other with virtual cables to create the experience you have in mind. Easily export your piece of work at any time. Embed it into your website or use it for any kind of creative installation.
 > 

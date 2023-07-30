@@ -187,7 +187,7 @@ Credits go to:
 
 # 📸 Generative Graphics
 
-[https://www.youtube.com/watch?v=KW2Fa23lxwM&t=317s](https://www.youtube.com/watch?v=KW2Fa23lxwM&t=317s)
+{{ youtube KW2Fa23lxwM }}
 
 ## Generative Ocean Waves
 
@@ -229,7 +229,7 @@ The intention was to show how a digital thought evolves, how AI becomes self awa
 
 If you want to watch presentation of the paper, there is a great presentation of the Monte Carlo methods that he is using in order to better fit complex shapes using geometry processing.  
 
-[https://www.youtube.com/watch?v=zl9GtPX0LjM&feature=emb_title](https://www.youtube.com/watch?v=zl9GtPX0LjM&feature=emb_title)
+{{ youtube zl9GtPX0LjM }}
 
 ![https://northeastofnorth.com/wp-content/uploads/2018/09/Absolut-Cracking-02AB016-12k-04-Final-3000x3000-e1538337528413.png](https://northeastofnorth.com/wp-content/uploads/2018/09/Absolut-Cracking-02AB016-12k-04-Final-3000x3000-e1538337528413.png)
 
@@ -238,7 +238,7 @@ If you want to watch presentation of the paper, there is a great presentation of
 > Marius Watz is a Norwegian artist and curator who works in the field of generative art. He will be exhibiting as part of the Weave by Abertay group show in the Wellgate centre for this year’s NEoN digital arts festival. He will also be exhibiting work in the café of the Dundee Science Centre as part of the Dundee Science Festival from 20 October, when there will be an interactive workshop inspired by his work
 > 
 
-[https://www.youtube.com/watch?v=AM60OPmrUG0](https://www.youtube.com/watch?v=AM60OPmrUG0)
+{{ youtube AM60OPmrUG0 }}
 
 ---
 
@@ -247,7 +247,7 @@ If you want to watch presentation of the paper, there is a great presentation of
 > in this workshop, we started experiencing audio problems in the recording for ~1 hour. The topic was OSC connections and intro to Kinect Studio Recorder. We have cut that part of the video out and made it available in this separate video if you are really eager to listen regardless of the audio problem. Thanks for your understanding.
 > 
 
-[https://www.youtube.com/watch?v=VBzIPLh-ECg&feature=emb_title](https://www.youtube.com/watch?v=VBzIPLh-ECg&feature=emb_title)
+{{ youtube VBzIPLh-ECg }}
 
 ## [Creating Generative Visuals with Complex Systems](https://www.dropbox.com/s/3js3dnqq1wisidq/Complex%20Systems%20Example%20Files.zip?dl=0)
 
@@ -258,7 +258,7 @@ These patterns, while compelling on their own, can also be used as the input to 
 
 ## The Book of Chaos
 
-[https://www.youtube.com/watch?v=kZNTozzsNqk](https://www.youtube.com/watch?v=kZNTozzsNqk)
+{{ youtube kZNTozzsNqk }}
 
 > Every artist has their tools - paint, pens, canvases, or film - that they use on a daily basis. Have you ever wondered what a generative artist's box of tools looks like? What algorithms do we use? How do we deal with color? How do we make code-generated artwork appear natural?
 > 

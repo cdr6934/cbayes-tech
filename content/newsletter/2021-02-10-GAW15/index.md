@@ -23,7 +23,7 @@ Take Excel, for example, it is a complicated calculator with a bunch of function
 
 And art is not excluded from the fold of "everything." 
 
-[https://www.youtube.com/watch?v=OrwBc6PwAcY&feature=emb_title](https://www.youtube.com/watch?v=OrwBc6PwAcY&feature=emb_title)
+{{ youtube OrwBc6PwAcY }}
 
 Or can also be used for things like the above [video](https://mymodernmet.com/excel-art/) or t[his](https://cdr6934.medium.com/how-i-used-excel-to-create-abstract-album-artwork-fee740d4414f). 
 
@@ -75,7 +75,7 @@ If you have more, let me know as I am curious of what your thoughts are around t
 
 To end, here is a talk by Thomas Pedersen who has been deeply embedded in the R community and his thoughts on generative art and R. 
 
-[https://www.youtube.com/watch?v=8FWSrvEFY4E](https://www.youtube.com/watch?v=8FWSrvEFY4E)
+{{ youtube 8FWSrvEFY4E }}
 
 Have a wonderful week! 
 

@@ -54,7 +54,8 @@ Just like [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) or [Manf
 
 ## Inspiration / Articles
 
-[https://www.youtube.com/watch?v=vArIkzYtW6I](https://www.youtube.com/watch?v=vArIkzYtW6I)
+
+{{< youtube vArIkzYtW6I >}}
 
 # Scribble Animation - Bleeptrack
 
@@ -67,8 +68,9 @@ Just like [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) or [Manf
 
 > In Part 2 of this two-part conversation, the Le Random team speaks with Casey Reas, artist, UCLA professor and co-founder of Processing and Feral File. We touch on a variety of subjects, including historical generations, the most overlooked decades and the location of artistic intent in generative work. For part one click [here](https://www.lerandom.art/editorial/reas-history-1).
 > 
+{{< youtube f4s1h2YETNY >}}
 
-[https://www.youtube.com/watch?v=f4s1h2YETNY&t=720s](https://www.youtube.com/watch?v=f4s1h2YETNY&t=720s)
+
 
 ## Shader Art Coding
 

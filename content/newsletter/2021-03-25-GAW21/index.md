@@ -22,7 +22,7 @@ And it is here! My conversation with Dave Yarwood  led us down some very interes
 
 ## Dave Yarwood Conversation on Generative Music
 
-[https://www.youtube.com/watch?v=A1c2zUtbuwg](https://www.youtube.com/watch?v=A1c2zUtbuwg)
+{{ youtube A1c2zUtbuwg }}
 
 > Dave Yarwood - Dave is a software engineer and musician who has developed a musical composition framework called Alda. In the hour we spoke of his work on Alda, generative music, sonic visualization, inspirations, and influence in the world of generative music. Below you will find all of the high-level topics upon which we spoke.
 > 
@@ -74,7 +74,7 @@ IG: [neel.shivdasani](https://www.instagram.com/neel.shivdasani/) / [Pinkfluffyb
 
 ## Live Coding an Ambient Electro-Set
 
-[https://www.youtube.com/watch?v=G1m0aX9Lpts](https://www.youtube.com/watch?v=G1m0aX9Lpts)
+{{ youtube G1m0aX9Lpts }}
 
 The above video does a great job and taking a sonic library and generate an electro set. Its good study / flow work music. It does also a good job at also what can be done with the work. 
 
@@ -95,7 +95,7 @@ Speaking of generative music, here is an interesting analog "generative music" w
 
 ## Introduction to Generative Music w/ VCV Rack
 
-[https://www.youtube.com/watch?v=CmaYA38ADoo](https://www.youtube.com/watch?v=CmaYA38ADoo)
+{{ youtube CmaYA38ADoo }}
 
 > So I had a few questions on my last stream about how to make this kind of generative stuff in VCV Rack, so here we go! Hope you enjoy!
 > 

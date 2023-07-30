@@ -76,12 +76,12 @@ The following images come from their collection called mesh creation. These are 
 
 # 🖌️ Unconventional Media
 
-[https://www.youtube.com/watch?v=sT0Joqn-Bsw&feature=emb_title](https://www.youtube.com/watch?v=sT0Joqn-Bsw&feature=emb_title)
+{{ youtube sT0Joqn-Bsw }}
 
 > Jeff discusses his studio setup, his film projects, and his practical solutions for improving his workflow with Max. Video by Jeff Rona, with additional editing by Ron MacLeod.
 > 
 
-[https://www.youtube.com/watch?v=vxwP3rFNEaA&feature=emb_title](https://www.youtube.com/watch?v=vxwP3rFNEaA&feature=emb_title)
+{{ youtube vxwP3rFNEaA }}
 
 > TechGloves is a new interface for musical expression with several different sensors that allow its users to intuitively control audio and musical parameters in a VST – such as the cutoff frequency of a filter, the signal’s panning in a stereo sound field, and the modulation index of a frequency modulated signal.
 > 

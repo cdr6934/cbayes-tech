@@ -91,14 +91,14 @@ I was absolutely floored by the sounds that Nathan Ho has been able to create us
 > A noise function for 3d rendering is a function which inputs at least a coordinate vector (either 2d or 3d) and possibly more control parameters and outputs a value (for the sake of simplicity between 0 and 1) such that the output value is not a simple function of the coordinate vector but contains a good mixture of randomness and smoothness. Dependent on the type of noise, that may mean different things in practice. A noise function is usually chosen based on its ability to represent a natural shape, so it should emulate structures in nature.
 > 
 
-[https://www.youtube.com/watch?v=XF2IrULLzLA](https://www.youtube.com/watch?v=XF2IrULLzLA)
+{{youtube XF2IrULLzLA}}
 
 ## Self-Programmed Generative Ambient Music
 
 > In today's episode, we are going to talk about generative ambient music, which is music being programmed to be randomly generated, paying particular attention to 'Random' and 'Probability' devices.
 > 
 
-[https://www.youtube.com/watch?v=NL7KnFZ8SgQ](https://www.youtube.com/watch?v=NL7KnFZ8SgQ)
+{{youtube NL7KnFZ8SgQ}}
 
 # i3D Paper Preview
 

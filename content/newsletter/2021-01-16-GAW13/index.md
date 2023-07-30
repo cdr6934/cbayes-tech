@@ -89,7 +89,7 @@ I love these type of projects; there is a little computational work to generate 
 
 # 📸 Generative Graphics
 
-[https://www.youtube.com/watch?v=-Ck84x9oJrc&feature=emb_title](https://www.youtube.com/watch?v=-Ck84x9oJrc&feature=emb_title)
+{{ youtube Ck84x9oJrc }}
 
 Just a simple and beautiful motion blurring effect and dance mixed together
 
@@ -104,7 +104,7 @@ Just another interesting artistic application of deep learning by generating amb
 
 ## Creative Algorithms - Generative Design & Creative Coding Art
 
-[https://www.youtube.com/watch?v=Z9NLxrkMWM4&t=55s](https://www.youtube.com/watch?v=Z9NLxrkMWM4&t=55s)
+{{ youtube Z9NLxrkMWM4 }}
 
 > A showcase of generative, data-driven, interactive and real-time projects by designer and artist Patrik Hübner. Patrik, who is based in Germany, uses creative algorithms, data-driven design and artificial intelligence-based coding techniques to produce meaningful interactions of design, art and data.
 > 
@@ -133,7 +133,7 @@ This is a fun little tutorial on generating little "blob" characters using SVG w
 
 ## Open Frameworks and Creative Coding w/ Zach Lieberman
 
-[https://www.youtube.com/watch?v=mAck4adI8XM](https://www.youtube.com/watch?v=mAck4adI8XM)
+{{ youtube mAck4adI8XM }}
 
 > Rob and Jason are joined by Zach Lieberman, professor at MIT's Media Lab and co-founder of the School for Poetic Computation. They first talk about Herb Sutter's 2020 wrap up blog post and the ISO mailing from December 2020. Then Zach discusses Open Frameworks, a C++ toolkit he co-created 10 years ago for creative coding.
 > 

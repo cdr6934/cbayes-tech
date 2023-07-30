@@ -22,7 +22,7 @@ Over the years as the sapling matures, it becomes the essence of the mature tree
 
 A living sculpture, a triumphant image that is unique in its own right. 
 
-[https://www.youtube.com/watch?v=fCdXvp0tTnc](https://www.youtube.com/watch?v=fCdXvp0tTnc)
+{{ youtube fCdXvp0tTnc }}
 
 > This first episode from Bonsai Releaf documents the designing, pruning and shaping of a Juniper bonsai tree.
 > 
@@ -80,7 +80,7 @@ Thanks to the Future Sketches Talks by the MIT Media lab hosted by Zac Lieberman
 
 ## The Captivating Invention of Color
 
-[https://www.youtube.com/watch?time_continue=1057&v=QxGAofhYi7M&feature=emb_title](https://www.youtube.com/watch?time_continue=1057&v=QxGAofhYi7M&feature=emb_title)
+{{ youtube QxGAofhYi7M }}
 
 > Sensory export Carolyn Purnell shares the fascinating history of color and how color revolutions have changed the course of history. Carolyn Purnell is a history instructor, writer, and lover of all things colorful and offbeat. She is the author of The Sensational Past: How the Enlightenment Changed the Way We Use Our Senses (Norton, 2017) and the forthcoming Inventing Color. Carolyn earned her Ph.D. in history from University of Chicago, and her work has appeared in Wall Street Journal, CityLab by The Atlantic, Good Housekeeping, and Apartment Therapy. She has received fellowships from the National Endowment for the Humanities, Huntington Library, the Georges Lurcy Foundation, the Brown Foundation of Fellows, and the French Society for Historical Studies.
 > 

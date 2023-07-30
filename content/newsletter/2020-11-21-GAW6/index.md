@@ -109,7 +109,7 @@ I've been a fan of Caleb's work for a while now. He has a muted palette of color
 
 # 📸 Generative Graphics
 
-[https://www.youtube.com/watch?v=1dPFgWT2Aio&t=93s](https://www.youtube.com/watch?v=1dPFgWT2Aio&t=93s)
+{{ youtube 1dPFgWT2Aio }}
 
 ## [Processing art tutorial Ep.2 | GRID 02](https://youtu.be/1dPFgWT2Aio)
 
@@ -193,14 +193,14 @@ func draw() {
 
 The above code displays what a basic circle randomly jumping across the screen.  So it doesn't do anything but it provides an idea of what it can do. 
 
-[https://www.youtube.com/watch?v=d9lsT4kJo44&feature=youtu.be](https://www.youtube.com/watch?v=d9lsT4kJo44&feature=youtu.be)
+{{ youtube d9lsT4kJo44 }}
 
 > Tutorial covering the Rust programming language and the the Nannou creative coding framework. We re-create the Mystify screensaver that appeared in Windows 3.1.
 > 
 
 Nannou is a newer creative coding framework written in Rust.   
 
-[https://www.youtube.com/watch?v=LR5f3-5vB_U](https://www.youtube.com/watch?v=LR5f3-5vB_U)
+{{ youtube LR5f3-5vB_U }}
 
 ## Animating with AI
 
