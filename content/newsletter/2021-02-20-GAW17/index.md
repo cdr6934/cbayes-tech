@@ -102,7 +102,7 @@ Check out Dmitri Cherniak in an interview of his project "[Ringers](https://artb
 
 Blender, an open source 3D animation software package akin to 3D Max, Maya, and others will be a good learn If you have any interest in 3D animation. I've done some work in it out of curiousity and found this  plugin which was used in the previous reaction diffusion tutorial is a serious look into. 
 
-[https://www.youtube.com/watch?v=2Wcu9E0EGEM&feature=emb_rel_end](https://www.youtube.com/watch?v=2Wcu9E0EGEM&feature=emb_rel_end)
+{{ youtube 2Wcu9E0EGEM }}
 
 # 🔖 Articles and Tutorials
 

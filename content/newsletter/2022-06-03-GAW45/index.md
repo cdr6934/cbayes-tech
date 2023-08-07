@@ -48,7 +48,7 @@ Also, I have been working at making the links from the last 40+ newsletters in o
 > In this film, we meet a community of artists who are harnessing algorithms to make live and improvised electronic music. "If music is a form of code, then perhaps code can be a form of music." Algorithms drive the way we see, hear and interact with the world. And these days, there's a growing backlash against them. But "algorave"—short for algorithmic rave—offers a different way to harness these mathematical formulas. Algorave artists sit behind a laptop while their keystrokes are broadcast onto screens or walls around them, laying bare the mechanics behind the music. They run processes that create the sound in realtime, allowing for a truly live, improvisational and unpredictable form of electronic music.
 > 
 
-[https://www.youtube.com/watch?v=RpzEzUCgVoQ](https://www.youtube.com/watch?v=RpzEzUCgVoQ)
+{{ youtube RpzEzUCgVoQ }}
 
 # Yorkshire Sound Woman Network
 
@@ -96,7 +96,7 @@ TactileJS is a Javascript library for representing, manipulating, and drawing ti
 
 # 3Vial Engine - Python Graphics Engine
 
-[https://www.youtube.com/watch?v=aX_e3kaVUQc&t=3s](https://www.youtube.com/watch?v=aX_e3kaVUQc&t=3s)
+{{ youtube aX_e3kaVUQc }}
 
 The engine is in its early days, but as you see there are some very interesting and has the node style of work. 
 

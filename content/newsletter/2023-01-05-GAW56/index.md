@@ -66,7 +66,7 @@ Suppose you haven’t participated or don’t yet know. In that case, Genuary is
 
 Here is an exciting entry from last year that I  happened upon and found quite interesting. 
 
-[https://www.youtube.com/watch?v=skZDNexhYXU](https://www.youtube.com/watch?v=skZDNexhYXU)
+{{ youtube skZDNexhYXU }}
 
 ![Untitled](#Untitled%201.png)
 

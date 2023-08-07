@@ -86,7 +86,7 @@ I need to get around to putting together a better calendar for this year.
 
 # 🔖 Articles and Tutorials
 
-[https://www.youtube.com/watch?v=qEp70jK8Az0](https://www.youtube.com/watch?v=qEp70jK8Az0)
+{{ youtube qEp70jK8Az0 }}
 
 > At the end of this video, you may have a broad concept of how to implement a cloth simulation algorithm in your own game. You can take a look at the webgl + js game engine I'm developing using the cloth simulation I implemented in the video
 > 

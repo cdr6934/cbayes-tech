@@ -94,12 +94,12 @@ The above site is just another wonderment of generative deep learning which is y
 
 # NFTs The Next 500 Years
 
-[https://www.youtube.com/watch?v=tgYP-afKIho](https://www.youtube.com/watch?v=tgYP-afKIho)
+{{ youtube tgYP-afKIho }}
 
 > While NFTs have dominated the discourse around art this year, everything about them feels opaque. How to obtain, define, and conserve NFTs are still a confusing matters for many. To get to the bottom of things PAMM’s Director of Digital Engagement will moderate a panel with artist Sofia Crespo, curator Dr. Tina Rivers Ryan, and Art Blocks CCO Jeff Davis. The panel will discuss how NFTs have changed the practice of digital art, where NFTs sit in the broader tradition of digital art, and where this all might be headed.
 > 
 
-[https://www.youtube.com/watch?v=xh61Ol2X4GA](https://www.youtube.com/watch?v=xh61Ol2X4GA)
+{{ youtube xh61Ol2X4GA }}
 
 # Coding the Game of Life (shader)
 
@@ -129,7 +129,7 @@ The above site is just another wonderment of generative deep learning which is y
 
 # 5 Techniques for Generative Music
 
-[https://www.youtube.com/watch?v=uNz1XfVfJak](https://www.youtube.com/watch?v=uNz1XfVfJak)
+{{ youtube uNz1XfVfJak }}
 
 In this video, Andrew Huang uses a modular synth to explain how generative music can be created using hardware with a nice overview of what it means for music to be generative. 
 
