@@ -8,7 +8,7 @@ categories:
 tags: ['r','rocketry']
 ---
 
-```{r Libraries, include=FALSE}
+```r
 library(tidyverse)
 ```
 
@@ -34,7 +34,7 @@ R = \frac{M_0}{M}
 $$
 
 
-```{r, include=FALSE}
+```r
 AcceleratedForce <- function(m,v.e) { m*v.e }
 
 RocketEquation <- function(mass.ratio, exhaust.velocity)
@@ -45,7 +45,7 @@ RocketEquation <- function(mass.ratio, exhaust.velocity)
 ```
 
 
-```{r}
+```r
 RocketEquationGraph <- data.frame(Mass.Ratio = c(seq(1:20)))
 RocketEquationGraph <- RocketEquationGraph %>% 
   mutate( M4000 = RocketEquation(Mass.Ratio, 4000),M3000 = RocketEquation(Mass.Ratio, 3000),M2000 = RocketEquation(Mass.Ratio, 2000), M1000 = RocketEquation(Mass.Ratio, 1000) )
@@ -54,7 +54,7 @@ RocketEquationGraph
 
 
 
-```{r}
+```r
 g <- RocketEquationGraph %>% ggplot() + 
   geom_line(aes(Mass.Ratio, M4000), color = "red")+
   geom_line(aes(Mass.Ratio, M3000)) + 
@@ -123,7 +123,8 @@ As the velocity given to the spacecraft increases, the eccentricity of the ellip
 * 6.670 $Nm^{2}kg^{2}$
 * 5.975 kg
 * 63
-```{r}
+
+```r
 G <- 6.670*10^-11
 eMass <- 5.975*10^24
 

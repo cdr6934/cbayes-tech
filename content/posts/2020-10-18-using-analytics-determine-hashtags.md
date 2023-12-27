@@ -8,7 +8,7 @@ tags: ["R","analytics"]
 ---
 
 
-```{r include=FALSE}
+```r
 library(stringr)
 library(readr)
 library(tidyverse)
@@ -19,7 +19,7 @@ I have been curious on what makes an interesting post on instagram based on a la
 
 
 
-```{r}
+```r
 # Extract hashtags
 patt <- regex("#\\S+")
 genart <- read_csv("~/InstaCrawlR/table-generativeart-2020-10-11 13:35:33.csv")
@@ -27,16 +27,16 @@ genart_db <- genart %>% select(ID, Likes, Owner, Date, Text) %>% mutate(hashtags
 genart_db_table <- genart_db %>% unnest(cols = "hashtags") %>% mutate(Year = year(Date), Month = month(Date), DayOfWeek = wday(Date),  Day = day(Date), Hour = hour(Date))
 ```
 
-```{r}
+```r
 genart_db_table %>% head()
 ```
 That will generate a rather large dataset 
-```{r}
+```r
 genart_db_table %>% count()
 ```
 
 Instead of having too muc
-```{r}
+```r
   exclude_tags <- c("#fishart","#artphotohraphy", "#marinephotography","#underwaterscenes","#sharkattack","#акула","#вебпанк","#сос","#seaphotography","fishart","#sharks","#enhancedvitimins")
 genart_db_hashtag_mean <- genart_db_table %>% 
   group_by(hashtags) %>% 
@@ -52,7 +52,7 @@ genart_db_hashtag_mean <- genart_db_table %>%
 ```
 This leads to some very interesting issues of certain tags that may need to be removed from the set due to their  
 
-```{r}
+```r
 genart_db_table %>% 
   group_by(hashtags) %>% 
   summarize(Count = n()) %>% 
@@ -62,14 +62,15 @@ genart_db_table %>%
                                                                                  = "Hashtag")
 ```
 So it appears that the #generativeart tag is the greatest here which would make sense... 
-```{r}
+
+```r
 genart_db_table %>% filter(hashtags %in% c("#generativeart")) %>% 
   group_by(hashtags, Hour) %>% summarize(Count = n()) %>% 
     ggplot(aes(Hour, Count)) + geom_col() +labs(title = "Most Common Occurence in Generative Art Posts",  x = "Hour")
 ```
 
 But we might want to see if there is a difference at a more granular level. 
-```{r}
+```r
 genart_db_table %>% filter(hashtags %in% c("#generativeart")) %>% 
   group_by(hashtags, Hour, DayOfWeek) %>% summarize(Count = n()) %>% 
     ggplot(aes(Hour, Count)) + geom_col() + facet_grid(DayOfWeek ~ .) +labs(title = "Most Common Hashtags in #generativeart Posts by Day", 
@@ -77,7 +78,7 @@ genart_db_table %>% filter(hashtags %in% c("#generativeart")) %>%
 ```
 None really when looking at the detail here. 
 
-```{r}
+```r
 genart_db_table %>% filter(hashtags %in% c("#generativeart", "#digitalart","#creativecoding", "#generative", "#codeart","#abstractart")) %>% 
   group_by(hashtags, Hour) %>% summarize(Count = n()) %>% 
   mutate(PercentTotal = Count / sum(Count)) %>% 

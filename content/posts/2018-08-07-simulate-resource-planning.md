@@ -11,7 +11,7 @@ Here I've tried to come up with a simple layout on how we might simulate doctor'
 Following code tries to resource plan certain doctor visits based on the vignette that was provided with the simmer package. 
 
 
-```{r}
+```r
 library(simmer)
 set.seed(42)
 env <- simmer("SuperDuperSim")

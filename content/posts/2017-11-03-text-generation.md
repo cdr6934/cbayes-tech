@@ -14,7 +14,7 @@ Text Generation (Generative Texr) is a very interesting field of study. There ar
 
 The following Node library gives a structure which is used to generate random words that are assigned to lexical structure that is defined by the user. 
 
-```{}
+```r
     centar : {
         animal : ["wolf","bear","tiger","lion","snake","anteater"],
         fruit : ["banana","tomato","cherry","strawberry","starfruit"],

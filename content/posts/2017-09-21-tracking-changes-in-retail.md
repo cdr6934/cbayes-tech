@@ -18,7 +18,7 @@ In the ever changing world of retail; one always has to keep one step ahead of t
 
 These are all great ideas, but how do we truly watch tas things get better? 
 
-```{r}
+```r
 library(qcc)
 library(xtable)
 library(SixSigma)
@@ -26,8 +26,7 @@ library(qicharts)
 ```
 
 ## Cause and Effect Diagrams 
-```{r}
-
+```r
 cManpower <- c("Recepcionist", "Record. Operator",
 "Storage operators")
 cMaterials <- c("Supplier", "Transport agency",
@@ -51,7 +50,7 @@ Measurements = cMeasurements),
 effect = cEffect)
 ```
 
-```{r}
+```r
 ss.ceDiag(
 effect = cEffect,
 causes.gr <- cGroups,
@@ -64,7 +63,7 @@ sub = "Pellets Density")
 
 
 ## Check Sheet
-```{r}
+```r
 data_checkSheet <- rbind(
 data.frame(Group = "Manpower",
 Cause = cManpower),
@@ -85,14 +84,13 @@ data_checkSheet$C_supplier <- NA
 
 
 
-```{r, echo=FALSE}
-
+```r
 data_checkSheet
 ```
 
 ## Control Charts
 
-```{r}
+```r
 pdensity <- c(10.6817, 10.6040, 10.5709, 10.7858,
 10.7668, 10.8101, 10.6905, 10.6079,
 10.5724, 10.7736, 11.0921, 11.1023,
@@ -106,7 +104,8 @@ summary(myControlChart)
 ```
 
 ## Histogram 
-```{r}
+
+```r
 hist(pdensity)
 par(bg = "gray95")
 hist(pdensity,
@@ -120,7 +119,7 @@ las = 1,
 bg = "gray")
 ```
 
-```{r}
+```r
 library(ggplot2)
 ggplot(data = data.frame(pdensity),
 aes(x = pdensity)) +
@@ -132,7 +131,7 @@ x = expression("Density ("*g/cm^3*")"),
 y = "Frequency")
 ```
 ## Pareto Chart 
-```{r}
+```r
 data_checkSheet$A_supplier <- c(2, 0, 0, 2, 1, 7, 1,
 3, 6, 0, 1, 2, 0)
 data_checkSheet$B_supplier <- c(0, 0, 1, 1, 2, 1, 12,
@@ -145,7 +144,8 @@ data_checkSheet$C_supplier
 
 data_checkSheet
 ```
-```{r}
+
+```r
 data_pareto <- data_checkSheet[order(
 data_checkSheet$Total,
 decreasing = TRUE), ]
@@ -156,20 +156,20 @@ las = 2,
 main = "Pareto chart for total causes")
 ```
 
-```{r}
+```r
 data_pareto2 <- data_pareto$Total
 names(data_pareto2) <- data_pareto$Cause
 pareto.chart(data = data_pareto2,
 main = "Out-of-control causes")
 ```
 
-```{r}
+```r
 library(qualityTools)
 paretoChart(x = data_pareto2,
 main = "Out-of-control causes")
 ```
 
-```{r}
+```r
 spreadvector <- rep(names(data_pareto2),times = data_pareto2)
 paretochart(spreadvector)
 
@@ -177,7 +177,7 @@ x <- rep(LETTERS[1:9], c(256, 128, 64, 32, 16, 8, 4, 2, 1))
 paretochart(x)
 ```
 ## Scatterplot
-```{r}
+```r
 set.seed(1234)
 ptemp <- - 140 + 15*pdensity + rnorm(24)
 
@@ -190,7 +190,7 @@ ylab = expression("Density ("*g/cm^3*")"))
 ```
 ##Stratification
 
-```{r}
+```r
 psupplier <- rep(c("A", "B", "C"), each = 8)
 
 boxplot(pdensity ~ psupplier,
@@ -199,7 +199,8 @@ xlab = "Supplier",
 ylab = expression("Density ("*g/cm^3*")"),
 main = "Box plots by supplier")
 ```
-```{r}
+
+```r
 day1 <- c(0.821, 0.846, 0.892, 0.750, 0.773, 0.786,
 0.956, 0.840, 0.913, 0.737, 0.793, 0.872)
 day2 <- c(0.678, 0.742, 0.684, 0.766, 0.721, 0.785,
@@ -217,7 +218,8 @@ pch = 20)
 abline(h = median(plates$thickness),
 lwd = 2)
 ```
-```{r}
+
+```r
 qic(thickness,
 data = plates,
 freeze = 12,

@@ -8,13 +8,13 @@ tags: ['r']
 
 Words with Friends is a wonderful game full of 
 
-```{r}
+```r
 #library(tidyverse)
 ```
 
 
 
-```{r}
+```r
 # IMport Data 
 #filepath <- "~/Dropbox/Word Lists/WordsWithFriends/enable1-wwf-v4.0-wordlist.txt"
 #wwfList <- read_csv(filepath, col_names = FALSE)
@@ -22,7 +22,7 @@ Words with Friends is a wonderful game full of
 
 
 
-```{r}
+```r
 #wwfList %>% stringr::str('.ae.')
 ```
 

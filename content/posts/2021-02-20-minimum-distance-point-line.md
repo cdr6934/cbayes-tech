@@ -54,7 +54,7 @@ The distance therefore between the point \\(P_3\\) and the line is the distance 
 * If the distance of the point to a line segment is required then it is only necessary to test that u lies between 0 and 1.
 * The solution is similar in higher dimensions.
 
-```{r}
+```
 distancePointLine <- function(x, y, slope, intercept) {
  ## x, y is the point to test.
  ## slope, intercept is the line to check distance.

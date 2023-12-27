@@ -7,7 +7,7 @@ categories:
 tags: ['R','bible','nlp']
 ---
 
-```{r Libraries, echo=TRUE}
+```r
 library(httr)
 library(tidytext)
 library(jsonlite)
@@ -20,7 +20,7 @@ key <- biblia
 
 There is much to be learned in the form of writing and the relationship it has within and outside the text. The question we might want to ask is there a way to identify the story arc of the situation.  Using spacy to tag all of the words will increase the likelyhood to better understand the 
 
-```{r Passage Insert, echo=TRUE}
+```r
 style <- "oneVersePerLineFullReference" #oneVersePerLine, bibleTextOnly, oneVersePerLineFullReference
 output <- "html"
 passage <-"Esther1-10"
@@ -28,7 +28,7 @@ resp <- GET(paste0("https://api.biblia.com/v1/bible/content/LEB.",output,"?passa
 ```
 
 
-```{r message=FALSE, warning=FALSE, include=FALSE}
+```r
 # parse html
 html <- content(resp,"text")
 doc = htmlParse(html, asText=TRUE)
@@ -41,7 +41,8 @@ plain.text <- tibble(Text = plain.text)
 
 #### Create the Data Frame 
 *TODO:* Need to make sure to figure out the book regex to include books such as 1 Timothy where there are parts of the book  
-```{r}
+
+```r
 passage <- plain.text %>% 
   mutate(
         Book = str_extract(Text, "^([*?\\w]+)"), 
@@ -52,7 +53,7 @@ passage <- plain.text %>%
 tibble(Text = passage$Text)
 ```
 
-```{r}
+```r
 data("stop_words") # Remove stop words 
 passage_frame <- passage %>% select(Book, Chapter, Verse, Line) %>% unnest_tokens(word, Line) %>%
     anti_join(stop_words)
@@ -61,19 +62,20 @@ head(passage_frame)
 
 
 Here to simply look at the entire passage as a whole, this is what we are able to retrieve in counts after having removed the words. 
-```{r}
+
+```r
 passage_frame_cnt <- passage_frame %>% count(word, sort = TRUE)
 head(passage_frame_cnt)
 ```
 
-```{r}
+```r
 passage_framea_cnt <- passage_frame %>% group_by(Chapter) %>% count(word, sort = TRUE)
 head(passage_framea_cnt)
 ```
 
 
 ### Word frequencies by chapter 
-```{r message=FALSE, warning=FALSE}
+```r
 library(ggplot2)
 
 g <- passage_framea_cnt %>%
@@ -90,9 +92,7 @@ g
 
 
 
-```{r}
-
-
+```r
 gb <- passage_framea_cnt %>% 
   filter(word %in% c("king","jews","mordecai","haman","esther", "women")) %>%  
   ggplot(aes(Chapter, n, fill = word )) + 
@@ -114,14 +114,10 @@ ga <- passage_framea_cnt %>% filter(word %in% c("king","jews")) %>%
 
 ### Sentiment Analysis of the story and its progression 
 
-```{r}
-
-```
-
 
 
 ### Generating the Wordcloud for each chapter 
-```{r Wordcloud}
+```r
   passage_frame_cnt %>%
   with(wordcloud(word, n, max.words = 100, random.color = TRUE))
 

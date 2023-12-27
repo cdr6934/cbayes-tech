@@ -7,15 +7,19 @@ categories:
 tags: ['astronomy','R']
 ---
 
-```{r}
+
+
+```r
 library(tidyverse)
 ```
 
 
-# Data Building 
+Data Building 
 
 The first thing we need to understand is where we have come and where we are going. There is alot that has been done in the past couple years but we still have more. 
-```{r}
+
+
+```r
 type <- c("Sound","Light","Human Travel")
 units <- c("mps","mps","mps")
 speed <- c(343,299792458,11082.569)
@@ -25,7 +29,7 @@ speed_data <- data.frame(type,units, speed,source)
 
 
 
-```{r}
+```r
 spd <- speed_data$speed
 spd %*% (t(spd)) 
 ```
@@ -33,7 +37,8 @@ spd %*% (t(spd))
 
 
 --TODO: The following
-```{r}
+
+```r
 299792458/11082.57
 ```
 

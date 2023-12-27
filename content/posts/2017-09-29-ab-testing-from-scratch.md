@@ -31,7 +31,7 @@ Approximate Bayesian Computation
 * Keep doing this until we've got lots of trial values that worked 
 
 
-```{r}
+```r
 library(progress)
 library(ggplot2)
 library(reshape2)
@@ -67,7 +67,7 @@ Approximate Bayesian Computation
 * Keep doing this until we've got lots of trial values that worked 
 
 
-```{r}
+```r
 estimate_conversion <- function(n_visitors, n_conv, trial_conversion, n_estimates = 1000)
 {
   i <- 0 
@@ -89,7 +89,7 @@ estimate_conversion <- function(n_visitors, n_conv, trial_conversion, n_estimate
 ```
 
 
-```{r}
+```r
 trial_conversion_a <- function()
 {
   runif(1,0,1)
@@ -98,7 +98,7 @@ trial_conversion_a <- function()
 
 
 
-```{r}
+```r
 
 simulate_conversion <- function(p, n_visitors)
 {
@@ -113,7 +113,7 @@ simulate_conversion <- function(p, n_visitors)
 ```
 
 
-```{r}
+```r
 a_estimates <- estimate_conversion(n_visitors_a, n_conv_a, trial_conversion_a)
 
 ```
@@ -121,12 +121,12 @@ a_estimates <- estimate_conversion(n_visitors_a, n_conv_a, trial_conversion_a)
 
 
 
-```{r}
+```r
 hist(x=a_estimates$cnt,  main = 'Estimates of conversion fraction for A after the A/B test')
 ```
 
 
-```{r}
+```r
 
 trial_conversion_b <- function() {
   while(TRUE == TRUE)
@@ -155,7 +155,7 @@ for(i in 1:10000)
 ```
 
 
-```{r}
+```r
 
 trial_as <- data.frame(cnt = trial_as_func())
 trial_bs <- data.frame(cnt = trial_bs_func())
@@ -172,7 +172,7 @@ ggplot(trailCnt, aes(cnt, fill=trial)) +
 ```
 
 
-```{r}
+```r
 b_estimates <-  estimate_conversion(n_visitors_b, n_conv_b, trial_conversion_b)
 
 a_estimates$trial <- 'a'
@@ -186,7 +186,7 @@ ggplot(trailCnt, aes(cnt, fill=trial)) +
 
 ```
 
-```{r}
+```r
 a <- a_estimates$cnt > b_estimates$cnt
 sum(a == TRUE)/length(a)
 ```

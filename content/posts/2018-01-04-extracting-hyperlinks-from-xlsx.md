@@ -10,9 +10,13 @@ tags: ['r','microsoft','excel']
 
 ### In Progress 
 
+
+```r
 install.packages("keras")
 library(keras)
 
 
 devtools::install_github("omarwagih/ggseqlogo")
 devtools::install_github("leonjessen/PepTools")
+
+```

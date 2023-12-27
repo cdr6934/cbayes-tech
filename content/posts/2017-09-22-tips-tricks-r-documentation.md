@@ -35,7 +35,7 @@ All of these are suggestions and  will vary from company to preference to indivi
 
 Down here we find an implementaiton of these rules that have been pulled from the roxygen2 package. Above every function that is coded, you should have the following added. This will give you the ability to properly understand what and why you have written. 
 
-```{r}
+```r
 #' Add together two numbers
 #'
 #' @param x A number

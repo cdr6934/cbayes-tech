@@ -8,7 +8,7 @@ tags: ['R','difficulty']
 
 Sometimes, seeing data in a 3 dimensional space gives us better visibility to the rest of the world. You will see that we have taken a hypothetical experiment and tried to rate different ideas by their complexity and likelihood to succeed.  
 
-```{r echo=TRUE, message=FALSE}
+```r
 
 #Libraries to import
 library(tidyverse)

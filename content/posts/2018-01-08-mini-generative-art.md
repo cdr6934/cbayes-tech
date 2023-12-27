@@ -9,14 +9,14 @@ tags: ['R','generative']
 
 
 Sometimes something simple can turn out to generate the most beautiful things. Following you will find a few lines of code that present a beautiful pattern. 
-```{r include=FALSE}
+```r
 library(ggplot2)
 library(dplyr)
 ```
 
 
 ## Oval Curve
-```{r Simple Curve}
+```r
   n <- 300
   t1 <- 1:n
   t0 <- seq(3,2*n+1,2) %% n
@@ -35,7 +35,7 @@ library(dplyr)
 
 
 ## Wavy Weaving of Wonder
-```{r}
+```r
 
 seq(from=-10, to=10, by = 0.05) %>%
 expand.grid(x=., y=.) %>%

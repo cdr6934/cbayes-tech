@@ -9,6 +9,7 @@
       <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -1329,8 +1330,7 @@ library(ggplot2) library(dplyr) Oval Curve n &amp;lt;- 300 t1 &amp;lt;- 1:n t0 &
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/posts/extracting-hyperlinks-from-an-xslx-in-r/</guid>
-      <description>In Progress install.packages(&amp;ldquo;keras&amp;rdquo;) library(keras)
-devtools::install_github(&amp;ldquo;omarwagih/ggseqlogo&amp;rdquo;) devtools::install_github(&amp;ldquo;leonjessen/PepTools&amp;rdquo;)</description>
+      <description>In Progress install.packages(&amp;#34;keras&amp;#34;) library(keras) devtools::install_github(&amp;#34;omarwagih/ggseqlogo&amp;#34;) devtools::install_github(&amp;#34;leonjessen/PepTools&amp;#34;) </description>
     </item>
     
     <item>
@@ -1339,7 +1339,8 @@ devtools::install_github(&amp;ldquo;omarwagih/ggseqlogo&amp;rdquo;) devtools::in
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/posts/human-ingenuity-and-speed/</guid>
-      <description>library(tidyverse) Data Building The first thing we need to understand is where we have come and where we are going. There is alot that has been done in the past couple years but we still have more.
+      <description>library(tidyverse) Data Building
+The first thing we need to understand is where we have come and where we are going. There is alot that has been done in the past couple years but we still have more.
 type &amp;lt;- c(&amp;#34;Sound&amp;#34;,&amp;#34;Light&amp;#34;,&amp;#34;Human Travel&amp;#34;) units &amp;lt;- c(&amp;#34;mps&amp;#34;,&amp;#34;mps&amp;#34;,&amp;#34;mps&amp;#34;) speed &amp;lt;- c(343,299792458,11082.569) source &amp;lt;- c(&amp;#34;&amp;#34;,&amp;#34;&amp;#34;,&amp;#34;&amp;#34;) speed_data &amp;lt;- data.frame(type,units, speed,source) spd &amp;lt;- speed_data$speed spd %*% (t(spd)) &amp;ndash;TODO: The following
 299792458/11082.57 Human History of Speed Speed hasn&amp;rsquo;t been a</description>
     </item>

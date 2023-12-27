@@ -11,7 +11,7 @@ One of the fundamental priorities of a data scientist is being able to bend the 
 
 But it does take discipline and instinct to understand the validity of the data so lets exercise this a little:
 
-```{r}
+```r
 library(tidyverse)
 library(reshape2)
 

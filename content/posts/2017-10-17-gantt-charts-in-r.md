@@ -12,7 +12,7 @@ tags: ['r']
 
 
 ## Using timevis 
-```{r}
+```r
 library(timevis)
 
 data <- data.frame(
@@ -27,7 +27,7 @@ timevis(data)
 
 
 ## Using DiagrammerR
-```{r}
+```r
 
 library(tidyr)
 library(dplyr)
@@ -60,7 +60,7 @@ More of the extras            :               extras_3,   after extras_1, 48h
 
 ## Using Plotly 
 If you wanted to use a more 
-```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+```r
 library(plotly)
 
 df <- read.csv("https://cdn.rawgit.com/plotly/datasets/master/GanttChart-updated.csv", stringsAsFactors = F)
@@ -88,7 +88,7 @@ for(i in 1:(nrow(df) - 1)){
 
 ```
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+```r
 p
 ```
 
