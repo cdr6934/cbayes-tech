@@ -14,7 +14,7 @@ First published on [Substack](https://generative.substack.com/p/cc-framework-rel
 
 First of all! Thanks for continuing to be great supporters in readership and I hope you are always finding something new and interesting to read or learn. 
 
-{{< youtube 8UrjvupULpbV6B7K >}}
+{{< youtube hPjblxA09ZI >}}
 
 ## Programming Differential Growth
 
