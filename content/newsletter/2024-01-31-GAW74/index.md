@@ -28,13 +28,7 @@ Chris Ried
 
 There are always so many wonderful entries.. here are a few of my favorites! 
 
-![CleanShot 2024-01-31 at 22.06.21.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/fb766c13-92b6-4a0a-9a99-0e2ad50d667a/CleanShot_2024-01-31_at_22.06.21.png)
-
-![CleanShot 2024-01-31 at 22.02.30.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/e4a471b5-075c-4c8f-bd7a-96862d4d8947/CleanShot_2024-01-31_at_22.02.30.png)
-
-![CleanShot 2024-01-31 at 22.35.40.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/d9278bb3-5753-4087-a477-d4da94ff3efe/CleanShot_2024-01-31_at_22.35.40.png)
-
-![CleanShot 2024-01-31 at 22.36.20.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/cd707035-7994-4b64-b234-72131fa313c3/CleanShot_2024-01-31_at_22.36.20.png)
+![](74-1.png)
 
 [Andreiongd -](https://www.instagram.com/reel/C2qA3Z_oDvd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) Skeuomorphism  /   [Orr Kislev - Flocking](https://x.com/OrrKislev/status/1748248352083345690?s=20)   / [Lionel Radisson- SDF](https://x.com/MAKIO135/status/1751918106392588714?s=20) /      [Gorillasun - SDFs](https://x.com/gorillasu/status/1752100759569612859?s=20) 
 
@@ -42,8 +36,7 @@ Although this was the last day of Genuary, I was able to get a couple entries in
 
 # Tutorials & Articles
 
-![CleanShot 2024-01-31 at 21.50.16.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/e4f725d7-d17c-4a7d-9331-17852ea46785/CleanShot_2024-01-31_at_21.50.16.png)
-
+![](74-2.png)
 ## [Collision Detection](https://www.jeffreythompson.org/collision-detection/thanks.php)
 
 > The collision of objects underlies most game experiences and user-interfaces. Baseball bats collide with balls, zombies bump into walls, and Mario lands on platforms and stomps turtles. Even something as simple as clicking a button (a rectangle) with your mouse (a point) is a collision.
@@ -51,8 +44,7 @@ Although this was the last day of Genuary, I was able to get a couple entries in
 
 This is a resource to highlight. There is so many use cases of collision detection that I believe you would find great value. 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/f91c0d2e-1952-4357-b8b7-ef8bfb6646ee/Untitled.png)
-
+![](74-3.png)
 ## [20+ Questions about Licia’s Plotter Painting](https://www.eyesofpanda.com/project/plotter_painting_q_a/)
 
 > Since the start of my plotter painting journey, I have received many wonderful questions about my practice. What plotters do you use? How do you refill the brush? What paper do you use? Why?
@@ -63,7 +55,7 @@ This is a resource to highlight. There is so many use cases of collision detecti
 
 I’ve been following Licia’s work for years and I’m always have loved the intricate plotting she has done with the brush. Take some time, and really read through it as she has such a great perspective on her art. Also definitely check out [Golan’s](https://courses.ideate.cmu.edu/60-428/f2021/) Drawing With Machines course work as to Licia’s words, “its a treasure trove” 
 
-https://www.youtube.com/watch?v=oDjn1-Sw8As
+{{< youtube oDjn1-Sw8As >}}
 
 ## Hypotrochiod
 
@@ -72,27 +64,25 @@ https://www.youtube.com/watch?v=oDjn1-Sw8As
 
 I am a sucker for large screens and immersive experiences. I could easily have a room in my house with a screen like this and watch it for hours. 
 
-![CleanShot 2024-01-31 at 22.55.37.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/1aefb6d6-a9a5-4bc6-8b63-e19d5141de63/CleanShot_2024-01-31_at_22.55.37.png)
-
+![](74-4.png)
 ## [Veoluz](https://jaredforsyth.com/veoluz/)
 
 > VeoLuz is an exploration-focused playground and an artistic tool. It attempts to mimic the behavior of photons as they interact with barriers of various kinds − those that absorb light, those that reflect light, and those that refract light.
 > 
 
-https://www.youtube.com/watch?v=2f_OZviPoww
+{{< youtube 2f_OZviPoww >}}
 
 ## How to Create a Particle System w/ Emitter in Max
 
 Fedorico has a backlog of many tutorials mainly for Max MSP [here](https://www.federicofoderaro.com/max-msp-jitter-tutorials.html). Max is commercial software and so the ecosystem is less accessible; however it’s always great to see other using the creativity in many tools across the board.  
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/e32997fd-ab74-48a9-a7b1-ca182ff74bf3/Untitled.png)
-
+![](74-5.png)
 ## [Flitter](https://github.com/jonathanhogg/flitter)
 
 > **Flitter** is a functional programming language wrapped around a declarative system for describing 2D and 3D visuals. [The language](https://github.com/jonathanhogg/flitter/blob/main/docs/language.md) is designed to encourage an iterative, explorative, play-based approach to constructing generative visuals. The engine that runs **Flitter** programs is able to live reload all code (including shaders) and assets (images, models, etc.) while retaining current system state - thus supporting live-coding. It also has support for interacting with running programs via MIDI surfaces.
 > 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/800e0bee-2d80-466b-b70c-cdc89d0206f8/Untitled.png)
+![](74-6.png)
 
 ## **[Bantam Tools Acquires Evil Mad Scientist to Accelerate Development of Next Generation Art and Handwriting Machines](https://www.bantamtools.com/blog/bantam-tools-acquires-evil-mad-scientist)**
 
@@ -103,7 +93,7 @@ If you own a plotter, or are considering purchasing one, this news should intere
 
 # Books
 
-![CleanShot 2024-01-31 at 22.16.08.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/d12ca616-1483-40e1-ba19-33d9d30a2e31/CleanShot_2024-01-31_at_22.16.08.png)
+![](74-7.png)
 
 ## [Your Brain on Art - How the Arts Transform Us](https://www.amazon.com/Your-Brain-Art-Arts-Transform-ebook/dp/B0B4QZ5V7R/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1706760917&sr=8-1)
 

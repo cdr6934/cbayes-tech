@@ -15,25 +15,21 @@ tags: ['generative']
 
 In my previous discussion, I shared my current artistic endeavors, which involves playing with 3D objects and creating generative abstract sculptures that I would like to 3D print. I have been experimenting with OpenSCAD, which has been more enjoyable than I initially anticipated and has proven to be an easy domain-specific language to work with. Check out their website at https://openscad.org/.
 
-![CleanShot 2023-08-26 at 14.51.28@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6b75eda-13f8-42aa-8bc0-062d882ea641/CleanShot_2023-08-26_at_14.51.282x.png)
-
-![CleanShot 2023-08-26 at 14.53.07@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9eaafe5-9bd7-4b8e-9a84-97f8a087e8e0/CleanShot_2023-08-26_at_14.53.072x.png)
-
-![CleanShot 2023-08-26 at 14.51.16@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/070b10d7-4835-4ef4-9217-a946a56c84bb/CleanShot_2023-08-26_at_14.51.162x.png)
+![](69-1.png)
 
 I have also been working with [Rhino3D + Grasshopper](https://www.rhino3d.com/) and have been pleasantly surprised by the size of the community of users in this space. The number of interesting packages that have been built is truly spectacular. To fully engage with these tools, I have focused on immersing myself in the techniques and ideas behind them.
 
-![RenderDetail_4.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a929b669-0d0f-4063-9f5b-8a0c87438691/RenderDetail_4.jpg)
+![](69-2.png)
 
 I have found [this](http://grasshopperdocs.com/) contribution documentation site for Grasshopper, and some of the algorithms available are fascinating. I will post more about them in a later issue. My work on generative 3D models has led me to explore other materials that can be 3D printed. As I consider reproducing them or collaborating with someone to print them, I find myself going down a few rabbit trails. 
 
-![CleanShot 2023-08-26 at 15.14.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1a71d6f-dd2b-4689-81e6-b87451fd0988/CleanShot_2023-08-26_at_15.14.02.png)
+![](69-3.png)
 
 **Design by Decay, Decay by Design - Andrea Ling (2018)**
 
 Then I’d need to find someone that has a [robotic arm](https://www.devonics.com/product-page/ufactory-xarm-5-lite) that I’d program to do hold the extruder. (By the way if anyone has a connection, I’d love to get in touch). For that just for inspiration, this was a great video… 
 
-https://www.youtube.com/watch?v=elqwn7k2Wwk
+{{< youtube elqwn7k2Wwk >}}
 
 I’ve also been playing with [TouchDesigner](https://derivative.ca/), much like [MaxMSP](https://cycling74.com/products/max)  is a node based programming environment. Used for large Visual Effects chains for projection mapping, immersive experiences. One of the benefits of such a package are the many ways one can connect software and hardware to help provide inputs into the chain which are great creative outlets. 
 
@@ -56,7 +52,7 @@ Chris
 
 Being with what I’ve written above, the following book is a great resource for all sorts of amazing ideas. 
 
-https://www.youtube.com/watch?v=ff5RrTUmtl4
+{{< youtube ff5RrTUmtl4 >}}
 
 ## Things Fall Together: A Guide to the New Materials Revolution
 
@@ -67,7 +63,7 @@ This video gives a great understanding on what the books is about. I’d highly 
 
 # Articles:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65ffbb77-9c3a-43d8-8aa5-d305d1dee513/Untitled.png)
+![](69-4.png)
 
 ## **[MIT engineers use kirigami to make ultrastrong, lightweight structures](https://news.mit.edu/2023/using-kirigami-ultrastrong-lightweight-structures-0822?fbclid=IwAR3UxQMTZ0RYoGfk7W1BERPc-uwFZkrMTRI4IFMwEPClGxU9Shl021iedKE)**
 
@@ -76,7 +72,7 @@ This video gives a great understanding on what the books is about. I’d highly 
 
 Folding Paper Low Tech to create high tech technologies. 
 
-![CleanShot 2023-08-26 at 14.34.48@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47772d30-5847-40c6-9be6-e27a110c7cca/CleanShot_2023-08-26_at_14.34.482x.png)
+![Cocreating with Robots](69-5.png)
 
 ## **[sougwen chung co-creates & meditates with multi-robotics through biosensors](https://www.designboom.com/art/sougwen-chung-installation-co-creates-meditates-multi-robotics-biosensors-assembly-lines-03-28-2023/)**
 
@@ -85,12 +81,12 @@ Folding Paper Low Tech to create high tech technologies.
 
 # [TextFX - Lupe Fiasoco X LLMs](https://textfx.withgoogle.com/)
 
-![CleanShot 2023-08-26 at 13.26.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3af70f1c-58a2-4b39-bd10-8c10f3d4cfad/CleanShot_2023-08-26_at_13.26.28.png)
+![TextFX](69-6.png)
 
 > TextFX is an AI experiment that uses Google's PaLM 2 large language model. These 10 tools are designed to expand the writing process by generating creative possibilities with text and language.
 > 
 
-https://www.youtube.com/watch?v=7UMsBocPO-Y
+{{< youtube 7UMsBocPO-Y>}}
 
 > This video shows how you can programmatically create 3d models using python code and output to a suitable format for 3d printing or to have CADCAM toolpath added for CNC manufacturing.
 > 
@@ -98,14 +94,14 @@ https://www.youtube.com/watch?v=7UMsBocPO-Y
 > The code I show here allows me to make parametric 3D CAD models of 'LEG0' pieces.
 > 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f57016d6-4ee8-43f6-97aa-e624dff491e3/Untitled.png)
+![](69-7.png)
 
 ## **[JSSketcher](https://github.com/xibyte/jsketcher)**
 
 > JSketcher is a parametric 3d modeler employing a 2D constraint solver for sketches and the feature/history metaphor to build models. The 2D constraint solver is completely written in javascript/typescript and is implemented in both the 3D CAD and the 2D sketcher. Originally developed by xibyte to make models for 3d printing. Today JSketcher provides a rich set of tools for visualizing, selecting/interacting with 3D geometry, tracking and storing model history all built on the foundation of the 2D sketcher engine and employing OpenCascade for solid modeling operations.
 > 
 
-![CleanShot 2023-08-26 at 16.21.48.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/957f2839-8d2b-460e-826f-185df57e6f89/CleanShot_2023-08-26_at_16.21.48.png)
+![](69-8.png)
 
 ## [Subpixel Zoo](https://geometrian.com/programming/reference/subpixelzoo/index.php)
 
@@ -115,7 +111,7 @@ https://www.youtube.com/watch?v=7UMsBocPO-Y
 > For displays, the color needs to be represented by discrete "subpixel"s (usually but not always three: some kind of red, green, or blue). The perceived color is then [the addition of](https://en.wikipedia.org/wiki/Additive_color) the subpixels' emissions.
 > 
 
-![CleanShot 2023-08-26 at 13.30.13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6fddb3c-b0e3-459c-852f-ee3b3650a538/CleanShot_2023-08-26_at_13.30.13.png)
+![Live Coding Languages for Quilters](69-9.png)
 
 ## **[Live Coding Languages for Quilters](https://www.barbara.graphics/)**
 
@@ -126,7 +122,7 @@ https://www.youtube.com/watch?v=7UMsBocPO-Y
 
 ## [Math for Programmers Books](https://www.humblebundle.com/books/math-for-programmers-2023-manning-books?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_3_layout_index_4_layout_type_threes_tile_index_1_c_mathforprogrammers2023manning_bookbundle)
 
-![CleanShot 2023-08-26 at 15.09.09.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f729485-5115-4b31-b207-599eb4dafe7e/CleanShot_2023-08-26_at_15.09.09.png)
+![Math for Programmers](69-10.png)
 
 > A yearly Math For Programmings bundle of books. The Geometry of Programmers is a great book to check out and look into along with many other interesting reads.
 >

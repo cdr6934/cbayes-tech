@@ -15,7 +15,7 @@ tags: ['generative']
 
 First of all! Thanks for continuing to be great supporters in readership and I hope you are always finding something new and interesting to read or learn. 
 
-https://www.youtube.com/watch?time_continue=1709&v=hPjblxA09ZI&embeds_referring_euri=https://www.redditmedia.com/&source_ve_path=Mjg2NjIsMjg2NjIsMjM4NTE&feature=emb_title
+{{< youtube 8UrjvupULpbV6B7K >}}
 
 ## Programming Differential Growth
 
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?time_continue=1709&v=hPjblxA09ZI&embeds_referring_
 
 Does a really nice job showing how differential growth works and how to implement it in Processing. There are other resources. 
 
-https://www.youtube.com/watch?v=5zFOSQDpby8
+{{< youtube 5zFOSQDpby8 >}}
 
 ## Design Against AI (John Maeda)
 
@@ -35,7 +35,7 @@ I hadn’t heard this talk before but apparently it happens every year. I think 
 
 This happened now a number of weeks ago, but I think that John has a healthy take on AI and creativity in the design space. Worth listening to as a number of interesting products he highlights.
 
-https://www.youtube.com/watch?v=5V07vm5u74Q
+{{< youtube 5V07vm5u74Q >}}
 
 ## [Babylon.js 7.0 Released](https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d)
 
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=5V07vm5u74Q
 
 Some interesting new features such as procedural geometry (definitely been digging into this one), Gassian Splat Rendering, State of Art WebXR support to name among of the interesting new features.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/7e1b86a8-36b6-45f3-8f9d-93270cc2041f/Untitled.png)
+![](76-1.png)
 
 ## **[vvvv gamma 6.0 release](https://visualprogramming.net/blog/vvvv-gamma-6.0-release/?fbclid=IwAR3a8naRss_6jeYZizX0IkSyc4sHqvgUoSY87u75xwvOZdTZ9POrfjiPeH4_aem_AaBKb4MPC_W9xeNewgU_d9idboLsrNHlMakDXKMShMm-45gpql14s7aWfP9DoH13OqFIiveYgBqaCWjijfhqnDO5)**
 
@@ -53,7 +53,7 @@ Some interesting new features such as procedural geometry (definitely been diggi
 
 If you are a C# developer and windows fan, this is the place for you. Think TouchDesigner but different due to its Node based programming systems.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/d9ebc900-7174-45d7-99df-231d247f6c1b/Untitled.png)
+![](76-2.png)
 
 # [How To Generate Color Palettes for Design Systems](https://matthewstrom.com/writing/generating-color-palettes/?utm_source=tldrdesign)
 
@@ -62,14 +62,14 @@ If you are a C# developer and windows fan, this is the place for you. Think Touc
 
 It’s a lengthy read, but not only helpful for building design systems but how you may go about create a color palette. Definitely learned some interesting things here. 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/bf17d1ae-cab7-4d53-9e07-b45c717f1fa4/Untitled.png)
+![](76-3.png)
 
 # [Strange Attractors](https://www.dynamicmath.xyz/strange-attractors/)
 
 > The term **'Strange Attractor'** is used to describe an attractor (a region or shape to which points are 'pulled' as the result of a certain process) that displays sensitive dependence on initial conditions (that is, points which are initially close on the attractor become exponentially separated with time). The most famous strange attractor is undoubtedly the Lorenz attractor - a three dimensional object whose body plan resembles a butterfly or a mask. The Lorenz attractor, named for its discoverer Edward N. Lorenz, arose from a mathematical model of the atmosphere [[5](https://www.dynamicmath.xyz/strange-attractors/#lorenz1963)].
 > 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b013a59-21dc-44b9-9c04-b7289cd6cf98/514fdf62-c108-47c9-a947-57db75fdf93e/Untitled.png)
+![](76-4.png)
 
 ## [AI Movie Hackathon](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2024/?fbclid=IwAR1OQklrD-UJTAlVBokf_LEflsT9ZOvxu8CdZ6HlkvWPu9MYW0og0asClJM_aem_AbE6uB8GJYZFuqIKlKggOt-nVnrxiq8PKLra6M4KLAqpERfjmvrxHjbbj3a-0wlEOOA-ZrWRGa90cjIH3Ix3MqNT)
 
