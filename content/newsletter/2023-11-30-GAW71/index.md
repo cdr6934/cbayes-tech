@@ -8,6 +8,8 @@ featured:
 tags: ['generative']
 ---
 
+First published on [Substack](https://open.substack.com/pub/generative/p/pixels-as-code-lindenmayer-systems?r=58kr3&utm_campaign=post&utm_medium=web)
+
 > Creativity can impact some sort of CHANGE in the WORLD. But we must first embrace pure DIFFERENCES and work together for a common cause. - Henry Johnson Jr
 > 
 

@@ -7,8 +7,7 @@ categories:
 featured: 
 tags: ['generative']
 ---
-
-[Website](https://www.generativecollective.com/) |  [Instagram](https://www.instagram.com/generate.collective/) | [Youtube](https://www.youtube.com/channel/UCBOYyqA-mqyoTSJ8pO9sQiA) | [Behance](https://www.behance.net/generatecoll) | [Twitter](https://twitter.com/generatecoll) | [BuyMeACoffee](https://www.buymeacoffee.com/generatecoll)
+First published on [Substack](https://generative.substack.com/p/cc-framework-releases-strange-attractors)
 
 > **Imperfection inspires invention, imagination, creativity. It stimulates. The more I feel imperfect, the more I feel alive. - Jhumpa Lahiri**
 > 
@@ -75,3 +74,6 @@ It’s a lengthy read, but not only helpful for building design systems but how 
 
 > What kind of space do you call home? Is it defined by the décor and furniture that make living comfortable, the cherished memories with family, the environmental and cultural symbols, or simply a sense of belonging and peace? The short films created during the [second MIT AI for Filmmaking Hackathon](https://www.youtube.com/playlist?list=PLuKHvu886W1bzHDmicVYy91g0htZB-XLY) offer insights into this question. This hackathon, held at the MIT Media Lab on February 17–18, showcased and celebrated the latest advancements in generative AI tools, including image, video, 3D content, music, and voiceover generation.
 >
+
+
+[Website](https://www.generativecollective.com/) |  [Instagram](https://www.instagram.com/generate.collective/) | [Youtube](https://www.youtube.com/channel/UCBOYyqA-mqyoTSJ8pO9sQiA) | [Behance](https://www.behance.net/generatecoll) | [Twitter](https://twitter.com/generatecoll) | [BuyMeACoffee](https://www.buymeacoffee.com/generatecoll)

@@ -8,6 +8,8 @@ featured:
 tags: ['generative']
 ---
 
+First published on [Substack](https://open.substack.com/pub/generative/p/organic-architecture-automation-and?r=58kr3&utm_campaign=post&utm_medium=web)
+
 > Very well then! I'll write, write write. He let the words soak into his mind and displace all else. - Richard Matheson
 > 
 

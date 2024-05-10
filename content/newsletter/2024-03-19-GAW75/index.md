@@ -7,10 +7,11 @@ categories:
 featured: 
 tags: ['generative']
 ---
-
+First published on [Substack}(https://open.substack.com/pub/generative/p/doing-nothing-creative-freedom-and?r=58kr3&utm_campaign=post&utm_medium=web) 
 
 > **Creativity is the fragrance of freedom. - OSHO**
-> 
+ 
+
 
 Hello fellow readers and greetings to all who have recently come across this newsletter. I appreciate your support through reading this little newsletter in light of so many other interesting things out there. 
 

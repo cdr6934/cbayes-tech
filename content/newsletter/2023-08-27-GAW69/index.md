@@ -8,6 +8,8 @@ featured:
 tags: ['generative']
 ---
 
+First published on [Substack](https://open.substack.com/pub/generative/p/live-coding-quilts-openscad-and-the?r=58kr3&utm_campaign=post&utm_medium=web)
+
 > Developing the skill of creativity, like with any other skill, takes time. Do devote time to creativity. Honor its flow and its magic. Allow it to become your Life Force. Train Creativity daily. **-Natasa Pantovic Nuit**
 > 
 
@@ -63,7 +65,7 @@ This video gives a great understanding on what the books is about. I’d highly 
 
 # Articles:
 
-![](69-4.png)
+![MIT Engineers use Kirigama](69-4.png)
 
 ## **[MIT engineers use kirigami to make ultrastrong, lightweight structures](https://news.mit.edu/2023/using-kirigami-ultrastrong-lightweight-structures-0822?fbclid=IwAR3UxQMTZ0RYoGfk7W1BERPc-uwFZkrMTRI4IFMwEPClGxU9Shl021iedKE)**
 

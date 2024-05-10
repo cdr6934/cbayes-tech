@@ -7,8 +7,10 @@ categories:
 featured: 
 tags: ['generative']
 ---
+
+First published on [Substack](https://open.substack.com/pub/generative/p/your-brain-on-art-plotters-and-veoluz?r=58kr3&utm_campaign=post&utm_medium=web)
+
 > Creativity is a continual surprise. - Ray Bradbury
-> 
 
 Hello All, 
 

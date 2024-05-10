@@ -8,6 +8,9 @@ featured:
 tags: ['generative']
 ---
 
+First published on [Substack](https://open.substack.com/pub/generative/p/noisy-svgs-dynamic-wearables-and?r=58kr3&utm_campaign=post&utm_medium=web)
+
+
 > AS AN INNOVATOR, YOU NEED TO BE AWARE OF HOW TRADITIONS, HABITS AND BIAS CAN ACT AS BARRIERS TO ACCEPTING NEW IDEAS. - MAX MCKEOWN
 > 
 

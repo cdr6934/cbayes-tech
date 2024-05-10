@@ -8,7 +8,9 @@ featured:
 tags: ['generative']
 ---
 
-> CREATIVITY IS AN INTELLIGENT ESCAPE FROM THE PERCEIVED LIMITS. - SANDEEP KAKKAR
+This was first published on [Substack](https://open.substack.com/pub/generative/p/noisy-svgs-dynamic-wearables-and?r=58kr3&utm_campaign=post&utm_medium=web)
+
+> Creativity is an intelligent escape from the perceived limits. - SANDEEP KAKKAR
 
 
 I recently finished reading "Artist as Inventor." Although it's an academic work that requires effort to digest, its arguments stand out. Primarily, it asserts that art has consistently advanced technology, suggesting a kinship rather than a division between the two. It also emphasizes the crucial role artists play in technology advancement through tool experimentation. The book delves into philosophy and culture, offering an alternative perspective to the prevalent art critique that war spurs technological innovation. This viewpoint is drawn from a broad range of historical examples across media arts.

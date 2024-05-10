@@ -8,7 +8,7 @@ featured:
 tags: ['generative']
 ---
 
-[Website](https://www.generativecollective.com/) |  [Instagram](https://www.instagram.com/generate.collective/) | [Youtube](https://www.youtube.com/channel/UCBOYyqA-mqyoTSJ8pO9sQiA) | [Behance](https://www.behance.net/generatecoll) | [Twitter](https://twitter.com/generatecoll) | [BuyMeACoffee](https://www.buymeacoffee.com/generatecoll)
+First published on [Substack](https://open.substack.com/pub/generative/p/variable-fonts-neural-graphic-primitives?r=58kr3&utm_campaign=post&utm_medium=web)
 
 > Admiring a creative soul at work is almost as satisfying as making your own paintings. E.A. Bucchianeri
 > 
@@ -121,3 +121,5 @@ It’s well work watching these:
 
 > Most of my experience writing GLSL so far focused on enhancing pre-existing Three.js/React Three Fiber scenes that contain diverse geometries and materials with effects that wouldn't be achievable without shaders, such as my work with **[dispersion](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)** and **[particle effects](https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/)**. However, during my studies of shaders, I always found my way to **[Shadertoy](https://https//www.shadertoy.com/)**, which contains a multitude of impressive 3D scenes featuring landscapes, clouds, fractals, and so much more, **entirely implemented in GLSL**. No geometries. No materials. Just *a single fragment shader*.
 >
+
+[Website](https://www.generativecollective.com/) |  [Instagram](https://www.instagram.com/generate.collective/) | [Youtube](https://www.youtube.com/channel/UCBOYyqA-mqyoTSJ8pO9sQiA) | [Behance](https://www.behance.net/generatecoll) | [Twitter](https://twitter.com/generatecoll) | [BuyMeACoffee](https://www.buymeacoffee.com/generatecoll)
