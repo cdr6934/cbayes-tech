@@ -11,7 +11,7 @@ tags: ['generative']
 > AS AN INNOVATOR, YOU NEED TO BE AWARE OF HOW TRADITIONS, HABITS AND BIAS CAN ACT AS BARRIERS TO ACCEPTING NEW IDEAS. - MAX MCKEOWN
 > 
 
-Has been previously posted on Substack
+Has been previously posted on Substack. 
 
 **Happy Holidays,** 
 
