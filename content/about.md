@@ -16,7 +16,14 @@ toc: false
 
 # Hi! My name is Chris Ried! 
 
-I am a technologist who loves to learn. I've spent much of the last 10 years exploring many different mediums and applications. 
+I am a artist who loves to learn and who happens to use technology to mine it. I've spent much of the last 10 years exploring many different mediums and applications. 
+
+As an artist, or creative technologist or whatever you might want to call it. 
+
+My life's calling always has been to create, tinker, learn.. 
+
+I love to explore for the sake of finding the small moments ["the glitch in the matrix"](https://en.wikipedia.org/wiki/The_Matrix) or the "wrinkle in the fabric of time" to document the secrets of the universe that present themselves. 
+
 
 
 ## Timeline: 
@@ -33,4 +40,6 @@ I am a technologist who loves to learn. I've spent much of the last 10 years exp
 * 2020 - Started Generative Collective Weekly 
 * 2021 - Hicetnunc.xyz and Foundation.app 
 * 2021 - Released on FXHash 
+* 2021 - Started CBayes Media Labs 
+
 
