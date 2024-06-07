@@ -29,7 +29,7 @@ I love to explore for the sake of finding the small moments &amp;ldquo;the glitc
       <pubDate>Wed, 26 Oct 2022 21:38:52 +0800</pubDate>
       
       <guid>https://chrisried.xyz/resume/</guid>
-      <description>Experience Founder | CBayes Media Labs | Oct 2021 - Present In October 2021, started working on Web3 projects Ethereum / Tezos blockchain. Contracted with well-known angel investors and music industry professionals on projects as a consultant. Senior Data Scientist | Kythera Labs | Apr 2021 - Oct 2021 Worked on a team of 5 data scientists working with proprietary claims data to identify cost savings opportunities by providing demographic intelligence.</description>
+      <description>Experience Director of Software Engineering | Treverse LLC | Jan 2023 - Present Architected internal inventory processing system using a serverless framework which includes services from Lambda, S3, RDS, CloudFront, and Route53. Support of our client facing interface for A-Stock Founder | CBayes Media Labs | Oct 2021 - Present In October 2021, started working on Web3 projects Ethereum / Tezos blockchain. Contracted with well-known angel investors and music industry professionals on projects as a consultant.</description>
     </item>
     
     <item>
@@ -149,8 +149,8 @@ Automation: Animation Engine for Creative Coding Automaton is an animation engin
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://chrisried.xyz/resources/generative-coding/</guid>
-      <description>Creative Coding Details Following are different creative coding frameworks that make up the majority of creative coding projects that are seen in technology throughout the internet, museums and other technological venues worldwide.
-C++ Name Type Project Type URL Github Link Description Status Arnold Paid https://docs.arnoldrenderer.com/api/arnold-7.1.2.0/index.html Cinder Open Source https://libcinder.org/ CGAL JUCE https://juce.com/ Maximillian https://github.com/micknoise/Maximilian OpenFrameworks https://openframeworks.cc/ Ossia https://ossia.io/ Unreal Engine 2D,3D https://www.unrealengine.com/ Python Name Type Project Type URL Github Link Description Status BespokeSynth Open Source https://www.</description>
+      <description>The following resources are all frameworks and tools used by creative technologists all over the world. You will find these used in innovative websites, museum installations, interactive events and venues (concerts, conferences, etc).
+C++ Name Type Description Arnold A high-quality rendering software. Cinder A free and open-source library for professional-quality creative coding in C++. CGAL A software library that provides easy access to efficient and reliable geometric algorithms. JUCE An open-source cross-platform C++ application framework, used for developing desktop and mobile applications.</description>
     </item>
     
     <item>

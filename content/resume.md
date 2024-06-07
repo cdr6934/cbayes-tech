@@ -11,6 +11,11 @@ mathjax: false
 ---
 
 ## Experience
+
+### Director of Software Engineering | [Treverse LLC](https://www.treverse.com) | Jan 2023  - Present 
+* Architected internal inventory processing system using a serverless framework which includes services from Lambda, S3, RDS, CloudFront, and Route53. 
+* Support of our client facing interface for [A-Stock](https://www.a-stock.bid) 
+
 ### Founder  | [CBayes Media Labs](https://www.cbayes.com/)  | Oct 2021 - Present
 * In October 2021, started working on Web3 projects Ethereum / Tezos blockchain. 
 * Contracted with well-known angel investors and music industry professionals on projects as a consultant. 
