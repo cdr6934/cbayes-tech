@@ -80,22 +80,20 @@ The following resources are all frameworks and tools used by creative technologi
 
 ### Other Languages
 
-| Name                                                                                                            | Type        | Description |
+| Name     | Type        | Description |
 |-----------------------------------------------------------------------------------------------------------------|-------------|-------------|
 | [alda](https://github.com/alda-lang/alda)                                                                       | Lisp        | A music programming language for musicians. |
 | [ChuCK](https://chuck.stanford.edu/)                                                                            | ChuCK       | A programming language for real-time sound synthesis and music creation. |
 | [CSound](https://csound.com/) ([Github](https://github.com/csound/csound.github.io))                            | CSound      | A sound and music computing system which was originally developed at MIT in 1985 by Barry Vercoe. |
 | [gg](https://github.com/fogleman/gg) ([Github](https://github.com/fogleman/gg))                                 | Go          | A library for rendering 2D graphics in pure Go. |
 | [ggPlot](https://ggplot2.tidyverse.org/) ([Github](https://github.com/tidyverse/ggplot2/))                      | R           | A data visualization package for the statistical programming language R. |
-| [Godot Engine](https://godotengine.org/)                                                                        | GDScript    | An open-source game engine. |
-| [Hydra](https://hydra.ojack.xyz/?sketch_id=ritchse_4)                                                           | WebGL       | A platform for live coding visuals. |
-| [Lygia](https://github.com/patriciogonzalezvivo/lygia)                                                          | glsl        | A shader library for creating real-time graphics. |
-| [Orca](https://github.com/hundredrabbits/Orca#:~:text=Orca%20is%20an%
-
-20esoteric%20programming,uppercase%20letters%20operate%20each%20frame.) | Orca        | A programming environment designed to be a visual language. |
-| [OPENRNDR](https://openrndr.org/)                                                                               | Kotlin      | A framework for creative coding. |
-| [Satin](https://github.com/Hi-Rez/Satin)                                                                        | Objective-C, Swift | A high-level framework for creating 3D content with Metal. |
-| [ShaderToy](https://www.shadertoy.com/)                                                                         | glsl        | A platform to create and share shaders. |
-| [SonicPi](https://sonic-pi.net/)                                                                                | Ruby        | A code-based music creation and performance tool. |
-| [SuperCollider](https://supercollider.github.io/)                                                               | SuperCollider | An environment and programming language for real-time audio synthesis and algorithmic composition. |
-| [Unity](https://unity.com/)                                                                                     | C#          | A cross-platform game engine. |
+| [Godot Engine](https://godotengine.org/)| GDScript    | An open-source game engine. |
+| [Hydra](https://hydra.ojack.xyz/?sketch_id=ritchse_4)| WebGL       | A platform for live coding visuals. |
+| [Lygia](https://github.com/patriciogonzalezvivo/lygia)| glsl        | A shader library for creating real-time graphics. |
+| [Orca](https://github.com/hundredrabbits/Orca#:~:text=Orca%20is%20an%20esoteric%20programming,uppercase%20letters%20operate%20each%20frame.) | Orca| A programming environment designed to be a visual language. |
+| [OPENRNDR](https://openrndr.org/)| Kotlin| A framework for creative coding. |
+| [Satin](https://github.com/Hi-Rez/Satin)| Objective-C, Swift | A high-level framework for creating 3D content with Metal. |
+| [ShaderToy](https://www.shadertoy.com/)| glsl        | A platform to create and share shaders. |
+| [SonicPi](https://sonic-pi.net/)| Ruby| A code-based music creation and performance tool. |
+| [SuperCollider](https://supercollider.github.io/)| SuperCollider | An environment and programming language for real-time audio synthesis and algorithmic composition. |
+| [Unity](https://unity.com/)| C#| A cross-platform game engine. |
