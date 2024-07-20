@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>simmer on Artistic Portfolio of Chris Ried</title>
-    <link>https://chrisried.xyz/tags/simmer/</link>
+    <link>https://generativecollective.com/tags/simmer/</link>
     <description>Recent content in simmer on Artistic Portfolio of Chris Ried</description>
     <image>
-      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/simmer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/simmer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simulate Doctor Visit Resource Planning Using Simmer</title>
-      <link>https://chrisried.xyz/posts/simulate-resource-planning-using-simmer/</link>
+      <link>https://generativecollective.com/posts/simulate-resource-planning-using-simmer/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/simulate-resource-planning-using-simmer/</guid>
+      <guid>https://generativecollective.com/posts/simulate-resource-planning-using-simmer/</guid>
       <description>Here I&amp;rsquo;ve tried to come up with a simple layout on how we might simulate doctor&amp;rsquo;s visits.
 Following code tries to resource plan certain doctor visits based on the vignette that was provided with the simmer package.
 library(simmer) set.seed(42) env &amp;lt;- simmer(&amp;#34;SuperDuperSim&amp;#34;) env patient &amp;lt;- trajectory(&amp;#34;patients&amp;#39; path&amp;#34;) %&amp;gt;% ## add an intake activity seize(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% timeout(function() rnorm(1, 15)) %&amp;gt;% release(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% ## add a consultation activity seize(&amp;#34;doctor&amp;#34;, 1) %&amp;gt;% timeout(function() rnorm(1, 20)) %&amp;gt;% release(&amp;#34;doctor&amp;#34;, 1) %&amp;gt;% ## add a planning activity seize(&amp;#34;administration&amp;#34;, 1) %&amp;gt;% timeout(function() rnorm(1, 5)) %&amp;gt;% release(&amp;#34;administration&amp;#34;, 1) env %&amp;gt;% add_resource(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% add_resource(&amp;#34;doctor&amp;#34;, 2) %&amp;gt;% add_resource(&amp;#34;administration&amp;#34;, 1) %&amp;gt;% add_generator(&amp;#34;patient&amp;#34;, patient, function() rnorm(1, 10, 2)) env %&amp;gt;% run(80) %&amp;gt;% now() env %&amp;gt;% peek(3) env %&amp;gt;% stepn() %&amp;gt;% # 1 step print() %&amp;gt;% stepn(3) # 3 steps envs &amp;lt;- lapply(1:100, function(i) { simmer(&amp;#34;SuperDuperSim&amp;#34;) %&amp;gt;% add_resource(&amp;#34;nurse&amp;#34;, 1) %&amp;gt;% add_resource(&amp;#34;doctor&amp;#34;, 2) %&amp;gt;% add_resource(&amp;#34;administration&amp;#34;, 1) %&amp;gt;% add_generator(&amp;#34;patient&amp;#34;, patient, function() rnorm(1, 10, 2)) %&amp;gt;% run(80) }) envs %&amp;gt;% get_mon_resources() %&amp;gt;% head() envs %&amp;gt;% get_mon_arrivals() %&amp;gt;% head() </description>

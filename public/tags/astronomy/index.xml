@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>astronomy on Artistic Portfolio of Chris Ried</title>
-    <link>https://chrisried.xyz/tags/astronomy/</link>
+    <link>https://generativecollective.com/tags/astronomy/</link>
     <description>Recent content in astronomy on Artistic Portfolio of Chris Ried</description>
     <image>
-      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human Ingenuity and Speed</title>
-      <link>https://chrisried.xyz/posts/human-ingenuity-and-speed/</link>
+      <link>https://generativecollective.com/posts/human-ingenuity-and-speed/</link>
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/human-ingenuity-and-speed/</guid>
+      <guid>https://generativecollective.com/posts/human-ingenuity-and-speed/</guid>
       <description>library(tidyverse) Data Building
 The first thing we need to understand is where we have come and where we are going. There is alot that has been done in the past couple years but we still have more.
 type &amp;lt;- c(&amp;#34;Sound&amp;#34;,&amp;#34;Light&amp;#34;,&amp;#34;Human Travel&amp;#34;) units &amp;lt;- c(&amp;#34;mps&amp;#34;,&amp;#34;mps&amp;#34;,&amp;#34;mps&amp;#34;) speed &amp;lt;- c(343,299792458,11082.569) source &amp;lt;- c(&amp;#34;&amp;#34;,&amp;#34;&amp;#34;,&amp;#34;&amp;#34;) speed_data &amp;lt;- data.frame(type,units, speed,source) spd &amp;lt;- speed_data$speed spd %*% (t(spd)) &amp;ndash;TODO: The following

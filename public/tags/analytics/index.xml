@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>analytics on Artistic Portfolio of Chris Ried</title>
-    <link>https://chrisried.xyz/tags/analytics/</link>
+    <link>https://generativecollective.com/tags/analytics/</link>
     <description>Recent content in analytics on Artistic Portfolio of Chris Ried</description>
     <image>
-      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Analytics to Determine Ideal Hashtags for Instagram</title>
-      <link>https://chrisried.xyz/posts/using-analytics-to-determine-ideal-hashtags/</link>
+      <link>https://generativecollective.com/posts/using-analytics-to-determine-ideal-hashtags/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/using-analytics-to-determine-ideal-hashtags/</guid>
+      <guid>https://generativecollective.com/posts/using-analytics-to-determine-ideal-hashtags/</guid>
       <description>library(stringr) library(readr) library(tidyverse) library(lubridate) I have been curious on what makes an interesting post on instagram based on a larger dataset of images that have been tagged with #generativeart. Some of this is just data discovery, this could seem that there may be a correlation between the tags that have been used and the amount of likes there are.
 # Extract hashtags patt &amp;lt;- regex(&amp;#34;#\\S+&amp;#34;) genart &amp;lt;- read_csv(&amp;#34;~/InstaCrawlR/table-generativeart-2020-10-11 13:35:33.csv&amp;#34;) genart_db &amp;lt;- genart %&amp;gt;% select(ID, Likes, Owner, Date, Text) %&amp;gt;% mutate(hashtags = str_extract_all(Text,patt) ) genart_db_table &amp;lt;- genart_db %&amp;gt;% unnest(cols = &amp;#34;hashtags&amp;#34;) %&amp;gt;% mutate(Year = year(Date), Month = month(Date), DayOfWeek = wday(Date), Day = day(Date), Hour = hour(Date)) genart_db_table %&amp;gt;% head() That will generate a rather large dataset</description>
     </item>
     
     <item>
       <title>How to Catch Fraud with Deep Learning</title>
-      <link>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</link>
+      <link>https://generativecollective.com/posts/how-to-catch-fraud-with-deep-learning/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/how-to-catch-fraud-with-deep-learning/</guid>
+      <guid>https://generativecollective.com/posts/how-to-catch-fraud-with-deep-learning/</guid>
       <description>Fraud continues to be an important topic in the financial world helping detect when funds are mismanaged.
 Nilson reports that U.S. card fraud (credit, debt, etc) was reportedly $9 billion in 2016 and expected to increase to $12 billion by 2020. Due to these nefarious acts; it is in the best interest of any organization to ensure the work of most customers. Thus it is appropriate to respond to this fraud.</description>
     </item>

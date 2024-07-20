@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>iot on Artistic Portfolio of Chris Ried</title>
-    <link>https://chrisried.xyz/tags/iot/</link>
+    <link>https://generativecollective.com/tags/iot/</link>
     <description>Recent content in iot on Artistic Portfolio of Chris Ried</description>
     <image>
-      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phillips Hue in R</title>
-      <link>https://chrisried.xyz/posts/phillips-hue-in-r/</link>
+      <link>https://generativecollective.com/posts/phillips-hue-in-r/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/phillips-hue-in-r/</guid>
+      <guid>https://generativecollective.com/posts/phillips-hue-in-r/</guid>
       <description>The following function can be used to find and display the internal IP address needed to retrieve the IP address from Hue Bridge. You will need to generate an API key i.e. a &amp;ldquo;userkey&amp;rdquo; as I called it below.
 getIP &amp;lt;- function() { url &amp;lt;- paste0(&amp;#34;https://www.meethue.com/api/nupnp&amp;#34;) res &amp;lt;- httpGET(url) resJson &amp;lt;- fromJSON(res) res &amp;lt;- resJson[[&amp;#34;internalipaddress&amp;#34;]] res } In order to know what light you should change the state on, one can run the following to retrieve the available lights connected on the network.</description>
     </item>

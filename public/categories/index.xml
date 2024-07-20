@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Artistic Portfolio of Chris Ried</title>
-    <link>https://chrisried.xyz/categories/</link>
+    <link>https://generativecollective.com/categories/</link>
     <description>Recent content in Categories on Artistic Portfolio of Chris Ried</description>
     <image>
-      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://chrisried.xyz/categories/development/</link>
+      <link>https://generativecollective.com/categories/development/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/categories/development/</guid>
+      <guid>https://generativecollective.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://chrisried.xyz/categories/golang/</link>
+      <link>https://generativecollective.com/categories/golang/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/categories/golang/</guid>
+      <guid>https://generativecollective.com/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://chrisried.xyz/categories/index/</link>
+      <link>https://generativecollective.com/categories/index/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/categories/index/</guid>
+      <guid>https://generativecollective.com/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generative art</title>
-      <link>https://chrisried.xyz/categories/generative-art/</link>
+      <link>https://generativecollective.com/categories/generative-art/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/categories/generative-art/</guid>
+      <guid>https://generativecollective.com/categories/generative-art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geometry</title>
-      <link>https://chrisried.xyz/categories/geometry/</link>
+      <link>https://generativecollective.com/categories/geometry/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/categories/geometry/</guid>
+      <guid>https://generativecollective.com/categories/geometry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://chrisried.xyz/categories/math/</link>
+      <link>https://generativecollective.com/categories/math/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/categories/math/</guid>
+      <guid>https://generativecollective.com/categories/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>analytics</title>
-      <link>https://chrisried.xyz/categories/analytics/</link>
+      <link>https://generativecollective.com/categories/analytics/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/categories/analytics/</guid>
+      <guid>https://generativecollective.com/categories/analytics/</guid>
       <description></description>
     </item>
     

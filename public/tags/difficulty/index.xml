@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>difficulty on Artistic Portfolio of Chris Ried</title>
-    <link>https://chrisried.xyz/tags/difficulty/</link>
+    <link>https://generativecollective.com/tags/difficulty/</link>
     <description>Recent content in difficulty on Artistic Portfolio of Chris Ried</description>
     <image>
-      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/difficulty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/difficulty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Time and Difficulty</title>
-      <link>https://chrisried.xyz/posts/time-and-difficulty/</link>
+      <link>https://generativecollective.com/posts/time-and-difficulty/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/time-and-difficulty/</guid>
+      <guid>https://generativecollective.com/posts/time-and-difficulty/</guid>
       <description>Sometimes, seeing data in a 3 dimensional space gives us better visibility to the rest of the world. You will see that we have taken a hypothetical experiment and tried to rate different ideas by their complexity and likelihood to succeed.
 #Libraries to import library(tidyverse) library(plotly) # Intellectual matrix idea &amp;lt;- c(&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;, &amp;#34;Clip toenails&amp;#34;,&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;,&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;,&amp;#34;Build a spaceship&amp;#34;,&amp;#34;Create a new social platform&amp;#34;, &amp;#34;Build a birdhouse&amp;#34;,&amp;#34;Collect 10000 friends&amp;#34;) time &amp;lt;- c(5,5,2,3,1,5,5,2,3,5,5,2,3,1,5,5,2) difficulty &amp;lt;- c(5,4,2,3,1,5,4,2,3,5,5,2,3,1,5,5,2) favorability &amp;lt;- c(2,5,2,1,3,4,1,2,1,2,5,2,1,3,3,1,2) #Creates the dataframe dataset &amp;lt;- data.</description>
     </item>

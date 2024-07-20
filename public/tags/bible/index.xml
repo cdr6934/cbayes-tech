@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>bible on Artistic Portfolio of Chris Ried</title>
-    <link>https://chrisried.xyz/tags/bible/</link>
+    <link>https://generativecollective.com/tags/bible/</link>
     <description>Recent content in bible on Artistic Portfolio of Chris Ried</description>
     <image>
-      <url>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://chrisried.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisried.xyz/tags/bible/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/bible/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Book of Esther in the Tidy Verse</title>
-      <link>https://chrisried.xyz/posts/exploring-the-book-of-esther-in-the-tidy-verse/</link>
+      <link>https://generativecollective.com/posts/exploring-the-book-of-esther-in-the-tidy-verse/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chrisried.xyz/posts/exploring-the-book-of-esther-in-the-tidy-verse/</guid>
+      <guid>https://generativecollective.com/posts/exploring-the-book-of-esther-in-the-tidy-verse/</guid>
       <description>library(httr) library(tidytext) library(jsonlite) library(tidyverse) library(wordcloud) library(XML) source(&amp;#34;~/keys.R&amp;#34;) key &amp;lt;- biblia There is much to be learned in the form of writing and the relationship it has within and outside the text. The question we might want to ask is there a way to identify the story arc of the situation. Using spacy to tag all of the words will increase the likelyhood to better understand the
 style &amp;lt;- &amp;#34;oneVersePerLineFullReference&amp;#34; #oneVersePerLine, bibleTextOnly, oneVersePerLineFullReference output &amp;lt;- &amp;#34;html&amp;#34; passage &amp;lt;-&amp;#34;Esther1-10&amp;#34; resp &amp;lt;- GET(paste0(&amp;#34;https://api.</description>
     </item>
