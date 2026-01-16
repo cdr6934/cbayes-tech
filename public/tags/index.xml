@@ -1,312 +1,243 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>generative</title>
-      <link>https://generativecollective.com/tags/generative/</link>
+      <title>Generative</title>
+      <link>http://localhost:1313/tags/generative/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/generative/</guid>
+      <guid>http://localhost:1313/tags/generative/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>newsletter</title>
-      <link>https://generativecollective.com/tags/newsletter/</link>
+      <title>Newsletter</title>
+      <link>http://localhost:1313/tags/newsletter/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/newsletter/</guid>
+      <guid>http://localhost:1313/tags/newsletter/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>blockchain</title>
-      <link>https://generativecollective.com/tags/blockchain/</link>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/blockchain/</guid>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>generative art</title>
-      <link>https://generativecollective.com/tags/generative-art/</link>
+      <title>Generative Art</title>
+      <link>http://localhost:1313/tags/generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/generative-art/</guid>
+      <guid>http://localhost:1313/tags/generative-art/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web3</title>
-      <link>https://generativecollective.com/tags/web3/</link>
+      <title>Web3</title>
+      <link>http://localhost:1313/tags/web3/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/web3/</guid>
+      <guid>http://localhost:1313/tags/web3/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>creative coding</title>
-      <link>https://generativecollective.com/tags/creative-coding/</link>
+      <title>Creative Coding</title>
+      <link>http://localhost:1313/tags/creative-coding/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/creative-coding/</guid>
+      <guid>http://localhost:1313/tags/creative-coding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data analysis</title>
-      <link>https://generativecollective.com/tags/data-analysis/</link>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/data-analysis/</guid>
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>geometry</title>
-      <link>https://generativecollective.com/tags/geometry/</link>
+      <title>Geometry</title>
+      <link>http://localhost:1313/tags/geometry/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/geometry/</guid>
+      <guid>http://localhost:1313/tags/geometry/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>r</title>
-      <link>https://generativecollective.com/tags/r/</link>
+      <title>R</title>
+      <link>http://localhost:1313/tags/r/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/r/</guid>
+      <guid>http://localhost:1313/tags/r/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>analytics</title>
-      <link>https://generativecollective.com/tags/analytics/</link>
+      <title>Analytics</title>
+      <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/analytics/</guid>
+      <guid>http://localhost:1313/tags/analytics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nlp</title>
-      <link>https://generativecollective.com/tags/nlp/</link>
+      <title>Nlp</title>
+      <link>http://localhost:1313/tags/nlp/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/nlp/</guid>
+      <guid>http://localhost:1313/tags/nlp/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
-      <link>https://generativecollective.com/tags/python/</link>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fraud</title>
-      <link>https://generativecollective.com/tags/fraud/</link>
+      <title>Fraud</title>
+      <link>http://localhost:1313/tags/fraud/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/fraud/</guid>
+      <guid>http://localhost:1313/tags/fraud/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>risk</title>
-      <link>https://generativecollective.com/tags/risk/</link>
+      <title>Risk</title>
+      <link>http://localhost:1313/tags/risk/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/risk/</guid>
+      <guid>http://localhost:1313/tags/risk/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>currency</title>
-      <link>https://generativecollective.com/tags/currency/</link>
+      <title>Currency</title>
+      <link>http://localhost:1313/tags/currency/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/currency/</guid>
+      <guid>http://localhost:1313/tags/currency/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>difficulty</title>
-      <link>https://generativecollective.com/tags/difficulty/</link>
+      <title>Difficulty</title>
+      <link>http://localhost:1313/tags/difficulty/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/difficulty/</guid>
+      <guid>http://localhost:1313/tags/difficulty/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>evernote</title>
-      <link>https://generativecollective.com/tags/evernote/</link>
+      <title>Evernote</title>
+      <link>http://localhost:1313/tags/evernote/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/evernote/</guid>
+      <guid>http://localhost:1313/tags/evernote/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hue</title>
-      <link>https://generativecollective.com/tags/hue/</link>
+      <title>Hue</title>
+      <link>http://localhost:1313/tags/hue/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/hue/</guid>
+      <guid>http://localhost:1313/tags/hue/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>iot</title>
-      <link>https://generativecollective.com/tags/iot/</link>
+      <title>Iot</title>
+      <link>http://localhost:1313/tags/iot/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/iot/</guid>
+      <guid>http://localhost:1313/tags/iot/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>simmer</title>
-      <link>https://generativecollective.com/tags/simmer/</link>
+      <title>Simmer</title>
+      <link>http://localhost:1313/tags/simmer/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/simmer/</guid>
+      <guid>http://localhost:1313/tags/simmer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>excel</title>
-      <link>https://generativecollective.com/tags/excel/</link>
+      <title>Excel</title>
+      <link>http://localhost:1313/tags/excel/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/excel/</guid>
+      <guid>http://localhost:1313/tags/excel/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>microsoft</title>
-      <link>https://generativecollective.com/tags/microsoft/</link>
+      <title>Microsoft</title>
+      <link>http://localhost:1313/tags/microsoft/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/microsoft/</guid>
+      <guid>http://localhost:1313/tags/microsoft/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>astronomy</title>
-      <link>https://generativecollective.com/tags/astronomy/</link>
+      <title>Astronomy</title>
+      <link>http://localhost:1313/tags/astronomy/</link>
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/astronomy/</guid>
+      <guid>http://localhost:1313/tags/astronomy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bible</title>
-      <link>https://generativecollective.com/tags/bible/</link>
+      <title>Bible</title>
+      <link>http://localhost:1313/tags/bible/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/bible/</guid>
+      <guid>http://localhost:1313/tags/bible/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>documentation</title>
-      <link>https://generativecollective.com/tags/documentation/</link>
+      <title>Documentation</title>
+      <link>http://localhost:1313/tags/documentation/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/documentation/</guid>
+      <guid>http://localhost:1313/tags/documentation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>text</title>
-      <link>https://generativecollective.com/tags/text/</link>
+      <title>Text</title>
+      <link>http://localhost:1313/tags/text/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/text/</guid>
+      <guid>http://localhost:1313/tags/text/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>feature engineering</title>
-      <link>https://generativecollective.com/tags/feature-engineering/</link>
+      <title>Feature Engineering</title>
+      <link>http://localhost:1313/tags/feature-engineering/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/feature-engineering/</guid>
+      <guid>http://localhost:1313/tags/feature-engineering/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>statistics</title>
-      <link>https://generativecollective.com/tags/statistics/</link>
+      <title>Statistics</title>
+      <link>http://localhost:1313/tags/statistics/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/statistics/</guid>
+      <guid>http://localhost:1313/tags/statistics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>books</title>
-      <link>https://generativecollective.com/tags/books/</link>
+      <title>Books</title>
+      <link>http://localhost:1313/tags/books/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/books/</guid>
+      <guid>http://localhost:1313/tags/books/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>packages</title>
-      <link>https://generativecollective.com/tags/packages/</link>
+      <title>Packages</title>
+      <link>http://localhost:1313/tags/packages/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/packages/</guid>
+      <guid>http://localhost:1313/tags/packages/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>roxygen</title>
-      <link>https://generativecollective.com/tags/roxygen/</link>
+      <title>Roxygen</title>
+      <link>http://localhost:1313/tags/roxygen/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/roxygen/</guid>
+      <guid>http://localhost:1313/tags/roxygen/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rocketry</title>
-      <link>https://generativecollective.com/tags/rocketry/</link>
+      <title>Rocketry</title>
+      <link>http://localhost:1313/tags/rocketry/</link>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/rocketry/</guid>
+      <guid>http://localhost:1313/tags/rocketry/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>creativity</title>
-      <link>https://generativecollective.com/tags/creativity/</link>
+      <title>Creativity</title>
+      <link>http://localhost:1313/tags/creativity/</link>
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/tags/creativity/</guid>
+      <guid>http://localhost:1313/tags/creativity/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "OpenSCAD Introduction"
-date: 8/7/2023
+date: '2023-08-07'
 draft: true
 ---
 

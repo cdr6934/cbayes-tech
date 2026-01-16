@@ -1,78 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://generativecollective.com/categories/development/</link>
+      <link>http://localhost:1313/categories/development/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/categories/development/</guid>
+      <guid>http://localhost:1313/categories/development/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>golang</title>
-      <link>https://generativecollective.com/categories/golang/</link>
+      <title>Golang</title>
+      <link>http://localhost:1313/categories/golang/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/categories/golang/</guid>
+      <guid>http://localhost:1313/categories/golang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>index</title>
-      <link>https://generativecollective.com/categories/index/</link>
+      <title>Index</title>
+      <link>http://localhost:1313/categories/index/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/categories/index/</guid>
+      <guid>http://localhost:1313/categories/index/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>generative art</title>
-      <link>https://generativecollective.com/categories/generative-art/</link>
+      <title>Generative Art</title>
+      <link>http://localhost:1313/categories/generative-art/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/categories/generative-art/</guid>
+      <guid>http://localhost:1313/categories/generative-art/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>geometry</title>
-      <link>https://generativecollective.com/categories/geometry/</link>
+      <title>Geometry</title>
+      <link>http://localhost:1313/categories/geometry/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/categories/geometry/</guid>
+      <guid>http://localhost:1313/categories/geometry/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>math</title>
-      <link>https://generativecollective.com/categories/math/</link>
+      <title>Math</title>
+      <link>http://localhost:1313/categories/math/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/categories/math/</guid>
+      <guid>http://localhost:1313/categories/math/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>analytics</title>
-      <link>https://generativecollective.com/categories/analytics/</link>
+      <title>Analytics</title>
+      <link>http://localhost:1313/categories/analytics/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/categories/analytics/</guid>
+      <guid>http://localhost:1313/categories/analytics/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

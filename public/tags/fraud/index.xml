@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fraud on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/fraud/</link>
-    <description>Recent content in fraud on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Fraud on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/fraud/</link>
+    <description>Recent content in Fraud on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/fraud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fraud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Catch Fraud with Deep Learning</title>
-      <link>https://generativecollective.com/posts/how-to-catch-fraud-with-deep-learning/</link>
+      <link>http://localhost:1313/posts/how-to-catch-fraud-with-deep-learning/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/how-to-catch-fraud-with-deep-learning/</guid>
-      <description>Fraud continues to be an important topic in the financial world helping detect when funds are mismanaged.
-Nilson reports that U.S. card fraud (credit, debt, etc) was reportedly $9 billion in 2016 and expected to increase to $12 billion by 2020. Due to these nefarious acts; it is in the best interest of any organization to ensure the work of most customers. Thus it is appropriate to respond to this fraud.</description>
+      <guid>http://localhost:1313/posts/how-to-catch-fraud-with-deep-learning/</guid>
+      <description>&lt;p&gt;Fraud continues to be an important topic in the financial world helping detect when funds are mismanaged.&lt;/p&gt;&#xA;&lt;p&gt;Nilson reports that U.S. card fraud (credit, debt, etc) was reportedly $9 billion in 2016 and expected to increase to $12 billion by 2020. Due to these nefarious acts; it is in the best interest of any organization to ensure the work of most customers. Thus it is appropriate to respond to this fraud.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

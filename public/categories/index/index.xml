@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/categories/index/</link>
-    <description>Recent content in index on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Index on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/categories/index/</link>
+    <description>Recent content in Index on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/categories/index/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Create Generative Art</title>
-      <link>https://generativecollective.com/posts/2022-10-26-how-to-make-generative-art/</link>
+      <link>http://localhost:1313/posts/2022-10-26-how-to-make-generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/2022-10-26-how-to-make-generative-art/</guid>
-      <description>Following are 10 ways how to start learning how to make generative art.
-Learn how to use a framework or software for generative art. There are a number of different ways to do this. Here is a mindmap as a guide. I&amp;rsquo;d suggest just looking at them and start searching for them.
-Take a few art classes There are plenty of places online such as Domestika or Skillshare that will help you find inspiration, and open your mind to new ideas of expression.</description>
+      <guid>http://localhost:1313/posts/2022-10-26-how-to-make-generative-art/</guid>
+      <description>&lt;p&gt;Following are 10 ways how to start learning how to make generative art.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Learn how to use a framework or software for generative art.&#xA;There are a number of different ways to do this. Here is a mindmap as a guide. I&amp;rsquo;d suggest just looking at them and start searching for them.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Take a few art classes&#xA;There are plenty of places online such as Domestika or Skillshare that will help you find inspiration, and open your mind to new ideas of expression. You can also find something in IRL in your city.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,6 +1,7 @@
 baseURL: "https://generativecollective.com/"
 title: Artistic Portfolio of Chris Ried
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true

@@ -1,937 +1,544 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newsletters on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/newsletter/</link>
+    <link>http://localhost:1313/newsletter/</link>
     <description>Recent content in Newsletters on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/newsletter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CC Framework Releases, Strange Attractors and Generating Color Palettes</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-76/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-76/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-76/</guid>
-      <description>First published on Substack
-Imperfection inspires invention, imagination, creativity. It stimulates. The more I feel imperfect, the more I feel alive. - Jhumpa Lahiri
-First of all! Thanks for continuing to be great supporters in readership and I hope you are always finding something new and interesting to read or learn.
-Programming Differential Growth Program amazing, complex, and chaotic patterns via differential growth. Differential growth creates a chaotic system that can be used to model biological processes.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-76/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://generative.substack.com/p/cc-framework-releases-strange-attractors&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Imperfection inspires invention, imagination, creativity. It stimulates. The more I feel imperfect, the more I feel alive. - Jhumpa Lahiri&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;First of all! Thanks for continuing to be great supporters in readership and I hope you are always finding something new and interesting to read or learn.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hPjblxA09ZI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;programming-differential-growth&#34;&gt;Programming Differential Growth&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Program amazing, complex, and chaotic patterns via differential growth. Differential growth creates a chaotic system that can be used to model biological processes. Learn about vectors, ArrayLists, and how to program forces in Java (Processing) while creating beautiful, organic images.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Doing Nothing, Creative Freedom and Airfoil - Tutorial</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-75/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-75/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-75/</guid>
-      <description>First published on [Substack}(https://open.substack.com/pub/generative/p/doing-nothing-creative-freedom-and?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web)
-Creativity is the fragrance of freedom. - OSHO
-Hello fellow readers and greetings to all who have recently come across this newsletter. I appreciate your support through reading this little newsletter in light of so many other interesting things out there.
-So a few thoughts I’ve been thinking about recently …
-Individualism is a complex concept with many facets and profound implications for our psyche. The freedom it offers is particularly cherished by artists and those displaying creativity.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-75/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/doing-nothing-creative-freedom-and?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Creativity is the fragrance of freedom. - OSHO&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello fellow readers and greetings to all who have recently come across this newsletter. I appreciate your support through reading this little newsletter in light of so many other interesting things out there.&lt;/p&gt;&#xA;&lt;p&gt;So a few thoughts I’ve been thinking about recently …&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Individualism is a complex concept with many facets and profound implications for our psyche. The freedom it offers is particularly cherished by artists and those displaying creativity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Your Brain On Art, Plotters, and Veoluz</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-74/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-74/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-74/</guid>
-      <description>First published on Substack
-Creativity is a continual surprise. - Ray Bradbury
-Hello All,
-Welcome all who have recently subscribed in the last couple weeks. I am sovery grateful that you are all excited about this little practice of ours called creative coding.
-Also, I’ve been putting together a little Github document on content creators who are doing creative coding tutorials. This is an in progress but I hope you can check them out and find either software or projects that interest you to learn new things!</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-74/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/your-brain-on-art-plotters-and-veoluz?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Creativity is a continual surprise. - Ray Bradbury&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello All,&lt;/p&gt;&#xA;&lt;p&gt;Welcome all who have recently subscribed in the last couple weeks. I am sovery grateful that you are all excited about this little practice of ours called creative coding.&lt;/p&gt;&#xA;&lt;p&gt;Also, I’ve been putting together a little Github document on content creators who are doing creative coding tutorials. This is an in progress but I hope you can check them out and find either software or projects that interest you to learn new things!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Artist as Inventor, Max Meets GL and Organ Pipe Physics</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-73/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-73/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-73/</guid>
-      <description>This was first published on Substack
-Creativity is an intelligent escape from the perceived limits. - SANDEEP KAKKAR
-I recently finished reading &amp;ldquo;Artist as Inventor.&amp;rdquo; Although it&amp;rsquo;s an academic work that requires effort to digest, its arguments stand out. Primarily, it asserts that art has consistently advanced technology, suggesting a kinship rather than a division between the two. It also emphasizes the crucial role artists play in technology advancement through tool experimentation.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-73/</guid>
+      <description>&lt;p&gt;This was first published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/noisy-svgs-dynamic-wearables-and?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Creativity is an intelligent escape from the perceived limits. - SANDEEP KAKKAR&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I recently finished reading &amp;ldquo;Artist as Inventor.&amp;rdquo; Although it&amp;rsquo;s an academic work that requires effort to digest, its arguments stand out. Primarily, it asserts that art has consistently advanced technology, suggesting a kinship rather than a division between the two. It also emphasizes the crucial role artists play in technology advancement through tool experimentation. The book delves into philosophy and culture, offering an alternative perspective to the prevalent art critique that war spurs technological innovation. This viewpoint is drawn from a broad range of historical examples across media arts.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Noisy SVGs, Dynamic Wearables, and 2024 Predictions</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-72/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-72/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-72/</guid>
-      <description>First published on Substack
-AS AN INNOVATOR, YOU NEED TO BE AWARE OF HOW TRADITIONS, HABITS AND BIAS CAN ACT AS BARRIERS TO ACCEPTING NEW IDEAS. - MAX MCKEOWN
-Has been previously posted on Substack.
-Happy Holidays,
-We are just about to enter a new year! 😱😱😱
-This year flew by much faster than expected, which in hindsight isn’t surprising.
-It does always bring a time of reflection and goal setting**.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-72/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/noisy-svgs-dynamic-wearables-and?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;AS AN INNOVATOR, YOU NEED TO BE AWARE OF HOW TRADITIONS, HABITS AND BIAS CAN ACT AS BARRIERS TO ACCEPTING NEW IDEAS. - MAX MCKEOWN&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Has been previously posted on Substack.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Happy Holidays,&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are just about to enter a new year! 😱😱😱&lt;/p&gt;&#xA;&lt;p&gt;This year flew by much faster than expected, which in hindsight isn’t surprising.&lt;/p&gt;&#xA;&lt;p&gt;It does always bring a time of reflection and goal setting**. So without further ado..**&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pixels as Code, Lindenmayer Systems, and Crumpled Paper</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-71/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-71/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-71/</guid>
-      <description>First published on Substack
-Creativity can impact some sort of CHANGE in the WORLD. But we must first embrace pure DIFFERENCES and work together for a common cause. - Henry Johnson Jr
-Hi my Friends!
-First of all I want to thank all of you! We’ve passed 2000 subscribers to this newsletter and I can only thank you all so much for taking the time to subscribe. You don’t know how much it means to know that you are excited about</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-71/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/pixels-as-code-lindenmayer-systems?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Creativity can impact some sort of CHANGE in the WORLD. But we must first embrace pure DIFFERENCES and work together for a common cause. - Henry Johnson Jr&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hi my Friends!&lt;/p&gt;&#xA;&lt;p&gt;First of all I want to thank all of you! We’ve &lt;strong&gt;passed 2000 subscribers&lt;/strong&gt; to this newsletter and I can only thank you all so much for taking the time to subscribe. You don’t know how much it means to know that you are excited about&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Variable Fonts, Neural Graphic Primitives and Flash-backs</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-70/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-70/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-70/</guid>
-      <description>First published on Substack
-Admiring a creative soul at work is almost as satisfying as making your own paintings. E.A. Bucchianeri
-This weekend I was able to spend some time looking over some of the old Masters of Flash. These books were huge inspirations in my early teens to come to realize that computers were powerful enough to explore new worlds using code.
-The web creatives of the day and it’s just nostalgic to flip through these.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-70/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/variable-fonts-neural-graphic-primitives?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Admiring a creative soul at work is almost as satisfying as making your own paintings. E.A. Bucchianeri&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This weekend I was able to spend some time looking over some of the old Masters of Flash. These books  were huge inspirations in my early teens to come to realize that computers were powerful enough to explore new worlds using code.&lt;/p&gt;&#xA;&lt;p&gt;The web creatives of the day and it’s just nostalgic to flip through these.. you can on &lt;a href=&#34;http://Archive.com&#34;&gt;Archive.com&lt;/a&gt; with the following links.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Live Coding Quilts, OpenSCAD, and the Tale of the Subpixel Zoo</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-69/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-69/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-69/</guid>
-      <description>First published on Substack
-Developing the skill of creativity, like with any other skill, takes time. Do devote time to creativity. Honor its flow and its magic. Allow it to become your Life Force. Train Creativity daily. -Natasa Pantovic Nuit
-Disclaimer: All in progress work.. just documenting the work here..
-In my previous discussion, I shared my current artistic endeavors, which involves playing with 3D objects and creating generative abstract sculptures that I would like to 3D print.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-69/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/live-coding-quilts-openscad-and-the?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Developing the skill of creativity, like with any other skill, takes time. Do devote time to creativity. Honor its flow and its magic. Allow it to become your Life Force. Train Creativity daily. &lt;strong&gt;-Natasa Pantovic Nuit&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Disclaimer: All in progress work.. just documenting the work here..&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In my previous discussion, I shared my current artistic endeavors, which involves playing with 3D objects and creating generative abstract sculptures that I would like to 3D print. I have been experimenting with OpenSCAD, which has been more enjoyable than I initially anticipated and has proven to be an easy domain-specific language to work with. Check out their website at &lt;a href=&#34;https://openscad.org/&#34;&gt;https://openscad.org/&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Organic Architecture, Automation, and Poisson Flow</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-68/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-68/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-68/</guid>
-      <description>First published on Substack
-Very well then! I&amp;rsquo;ll write, write write. He let the words soak into his mind and displace all else. - Richard Matheson
-Automation: Animation Engine for Creative Coding Automaton is an animation engine for creative coding. While you&amp;rsquo;re doing creative coding, doing time-based animation by code sometimes causes you so much pain. This project provides a framework and its GUI to connect your coding pieces with animations.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-68/</guid>
+      <description>&lt;p&gt;First published on &lt;a href=&#34;https://open.substack.com/pub/generative/p/organic-architecture-automation-and?r=58kr3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&#34;&gt;Substack&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Very well then! I&amp;rsquo;ll write, write write. He let the words soak into his mind and displace all else. - Richard Matheson&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;68-1.png&#34; alt=&#34;Automation&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;automation-animation-engine-for-creative-coding&#34;&gt;&lt;a href=&#34;https://github.com/0b5vr/automaton&#34;&gt;Automation: Animation Engine for Creative Coding&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Automaton is an animation engine for creative coding. While you&amp;rsquo;re doing creative coding, doing time-based animation by code sometimes causes you so much pain. This project provides a framework and its GUI to connect your coding pieces with animations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reading Deeply, Modeling 3D Patterns and SVG Paths</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-67/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-67/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-67/</guid>
-      <description>Originally posted on Substack
-Read deeply. Stay open. Continue to wonder. -Austin Kleon
-Good morning friends!
-I want to thank you for your continued support!
-I want to make a few points on reading deeply and how it might relate in creative coding / generative art. We have past the apex of popularity when it comes to generative art. It will be a fascinating era of history in the future that will bring some interesting insights into understanding creativity and market forces.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-67/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/reading-deeply-modeling-3d-patterns&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Read deeply. Stay open. Continue to wonder. -Austin Kleon&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good morning friends!&lt;/p&gt;&#xA;&lt;p&gt;I want to thank you for your continued support!&lt;/p&gt;&#xA;&lt;p&gt;I want to make a few points on reading deeply and how it might relate in creative coding / generative art. We have past the apex of popularity when it comes to generative art. It will be a fascinating era of history in the future that will bring some interesting insights into understanding creativity and market forces.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Early Computer Art, Word Music, and Creative PowerPoint Programming</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-66/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-66/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-66/</guid>
-      <description>Originally posted on Substack
-I had no idea how creative ambition and life balance could coexist, because achieving balance seemed to imply being content, and didn&amp;rsquo;t contentment mean you were no longer hungry&amp;quot;? And if you lost your hunger, didn&amp;rsquo;t you one day wake up in the suburbs helicopter parenting a couple of kids or working at a soul sucking corporate job? You stopped making art. You stopped being passionate. You stopped being you.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-66/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/early-computer-art-word-music-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I had no idea how creative ambition and life balance could coexist, because achieving balance seemed to imply being content, and didn&amp;rsquo;t contentment mean you were no longer hungry&amp;quot;? And if you lost your hunger, didn&amp;rsquo;t you one day wake up in the suburbs helicopter parenting a couple of kids or working at a soul sucking corporate job? You stopped making art. You stopped being passionate. You stopped being you.” - Rachel Friedman&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Javascript Game Engines, Very Low Frequencies, and Randomness</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-65/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-65/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-65/</guid>
-      <description>Originally posted on Substack
-#065 - Creative Coding / Generative Arts Weekly &amp;ldquo;Creativity is the art of connecting randomness, the harmony found in unexpected patterns, the beauty in the chaos. It&amp;rsquo;s our mind&amp;rsquo;s dance with the universe&amp;rsquo;s spontaneity.” - ChatGPT by the wisdom of humanity
-My apologies for not sending out a newsletter in the past couple of weeks. I&amp;rsquo;ve been finishing up some master&amp;rsquo;s classes, and the work has been quite intense.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-65/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/javascript-game-engines-very-low&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;065---creative-coding--generative-arts-weekly&#34;&gt;#065 - Creative Coding / Generative Arts Weekly&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Creativity is the art of connecting randomness, the harmony found in unexpected patterns, the beauty in the chaos. It&amp;rsquo;s our mind&amp;rsquo;s dance with the universe&amp;rsquo;s spontaneity.” - &lt;strong&gt;ChatGPT by the wisdom of humanity&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;My apologies for not sending out a newsletter in the past couple of weeks. I&amp;rsquo;ve been finishing up some master&amp;rsquo;s classes, and the work has been quite intense. However, I am still here and hope that you are too!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fungal Architectures, R As A Game Engine, and Photoresistors</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-64/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-64/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-64/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Creativity is intelligence having fun.&amp;rdquo; - Albert Einstein
-I am so floored and thankful to the 53 new subscribers and 2 paid subscribers since the last edition of the newspaper. I do try my best to bring interesting content that I’ve found interesting.
-Who Am I? Jasia Reichardt was born in 1933 in Warsaw, Poland.
-Reichardt began her career as an art critic, writing for publications such as the Times Literary Supplement, Studio International, and Art International.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-64/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/fungal-architectures-r-as-a-game&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Creativity is intelligence having fun.&amp;rdquo; - Albert Einstein&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I am so floored and thankful to the &lt;strong&gt;53 new subscribers&lt;/strong&gt; and &lt;strong&gt;2 paid subscribers&lt;/strong&gt; since the last edition of the newspaper. I do try my best to bring interesting content that I’ve found interesting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-am-i&#34;&gt;Who Am I?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Untitled.png&#34; alt=&#34;Untitled&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jasia Reichardt&lt;/strong&gt; was born in 1933 in Warsaw, Poland.&lt;/p&gt;&#xA;&lt;p&gt;Reichardt began her career as an art critic, writing for publications such as the Times Literary Supplement, Studio International, and Art International. She went on to work as the Assistant Director of the Institute of Contemporary Arts (ICA) in London from 1963 to 1971.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Spinning Flips, 3D Ceramics, and #GenArtCraft</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-63/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-63/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-63/</guid>
-      <description>Originally posted on Substack
-My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style. - Maya Angelou
-Thank you so much to the 41 new subscribers since the last newsletter. I am always so very thankful for the support that you all show by simply subscribing.
-Up to… Some weeks just fly by so quickly.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-63/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/spinning-flips-3d-ceramics-and-genartcraft&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style. - Maya Angelou&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Thank you so much to the &lt;strong&gt;41 new subscribers&lt;/strong&gt; since the last newsletter. I am always so very thankful for the support that you all show by simply subscribing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;up-to&#34;&gt;Up to…&lt;/h3&gt;&#xA;&lt;p&gt;Some weeks just fly by so quickly. I’ve been working on a new gig for a previous employer. It’s not art related which is sometimes sad but at the moment it is what needs to happen in order for my life to stay in balance. I’ve found that a mixture gives me the most satisfaction.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Audio Reactive Shaders, Prehistoric Midjourney, and Modular ChatGPT</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-62/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-62/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-62/</guid>
-      <description>Originally posted on Substack
-Creativity thrives where its roots are crowded. -Ozzie Zehner
-Good Morning!
-I&amp;rsquo;ve found that this is the best way for me to get inspiration. Unfortunately, I don&amp;rsquo;t have as much time as I&amp;rsquo;d like, but I think it&amp;rsquo;s all about finding balance. When I was a full-time artist, I had a difficult time with this, but when I have other things in my life that help drive me, that&amp;rsquo;s when I&amp;rsquo;m at my best.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-62/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/audio-reactive-shaders-prehistoric&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Creativity thrives where its roots are crowded. -Ozzie Zehner&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good Morning!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve found that this is the best way for me to get inspiration. Unfortunately, I don&amp;rsquo;t have as much time as I&amp;rsquo;d like, but I think it&amp;rsquo;s all about finding balance. When I was a full-time artist, I had a difficult time with this, but when I have other things in my life that help drive me, that&amp;rsquo;s when I&amp;rsquo;m at my best.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AI Sculpting, Voronoi Fonts, and Tomorrow and Tomorrow</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-61/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-61/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-61/</guid>
-      <description>Originally posted on [Substack](AI Sculpting, Voronoi Fonts, and Tomorrow and Tomorrow)
-Creativity thrives where its roots are crowded. -Ozzie Zehner
-Good morning friends!
-I hope you all had a wonderful weekend!
-Here are a few interesting links for you all to explore and discover. Right now I’ve been rather busy so I hope that you can find some
-Who Am I? Last weeks image was Harold Cohen
-Here is a great overview of his life and work!</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-61/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on [Substack](AI Sculpting, Voronoi Fonts, and Tomorrow and Tomorrow)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Creativity thrives where its roots are crowded. -Ozzie Zehner&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good morning friends!&lt;/p&gt;&#xA;&lt;p&gt;I hope you all had a wonderful weekend!&lt;/p&gt;&#xA;&lt;p&gt;Here are a few interesting links for you all to explore and discover. Right now I’ve been rather busy so I hope that you can find some&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-am-i&#34;&gt;Who Am I?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Untitled.png&#34; alt=&#34;Untitled&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Last weeks image was &lt;strong&gt;Harold Cohen&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a great overview of his life and work!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Prophetic Art, ChatGPT Inside and Out, and The History of Shadows</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-60/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-60/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-60/</guid>
-      <description>Originally posted on Substack
-The nature of yearning is urgent so as to guarantee evolution, change. -Darryl Calkins
-“We are the knights of a future realm.”
-I’ve been wading through the libraries of the mind trying to grapple with the relationship of art and it’s prophetic nature. There appears to be a correlation that art has a predilection to predict the future of culture. It also tends to have gravitational pull on innovation.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-60/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/prophetic-art-chatgpt-inside-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The nature of yearning is urgent so as to guarantee evolution, change. -Darryl Calkins&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;“We are the knights of a future realm.”&lt;/p&gt;&#xA;&lt;p&gt;I’ve been wading through the libraries of the mind trying to grapple with the relationship of art and it’s prophetic nature. There appears to be a correlation that art has a predilection to predict the future of culture. It also tends to have gravitational pull on innovation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>10PRINT SVG, Visual Language Workshop, and Text to Music?</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-59/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-59/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-59/</guid>
-      <description>Originally posted on Substack
-It’s humbling that in the past 90 days, I’ve had subscribed readers from 75 different countries. In a world with so much content and other things to do, I do appreciate your interest in this passion of mine and I hope I can continue celebrating this practice with you all.
-But to some of my weeks shenanigans:
-So speaking of AI, I’ve been working with ChatGPT to develop catchy article titles to gain inspiration for a few posts I’d like to write this year.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-59/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/10print-svg-visual-language-workshop&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;CleanShot_2023-02-01_at_09.31.32.png&#34; alt=&#34;CleanShot 2023-02-01 at 09.31.32.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s humbling that in the past 90 days, I’ve had subscribed readers from &lt;strong&gt;75 different countries&lt;/strong&gt;. In a world with so much content and other things to do, I do appreciate your interest in this passion of mine and I hope I can continue celebrating this practice with you all.&lt;/p&gt;&#xA;&lt;p&gt;But to some of my weeks shenanigans:&lt;/p&gt;&#xA;&lt;p&gt;So speaking of AI,  I’ve been working with &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34;&gt;ChatGPT&lt;/a&gt; to develop catchy article titles to gain inspiration for a few posts I’d like to write this year. Here are a few of my favorites:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Weiwei, Evolving Alien Coral and Visualizing Science</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-58/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-58/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-58/</guid>
-      <description>Originally posted on Substack
-Art is a tool to set up new questions -Ai Weiwei
-So last week, I started adding a new segment to experiment with, and I have a couple more in mind that I’d like to try over the future weeks. But why this “who am I?”
-As some of my long-time subscribers have probably noticed, History is important to me. It brings context to both the old and the new.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-58/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/weiwei-evolving-alien-coral-and-visualizing&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Art is a tool to set up new questions -Ai Weiwei&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;So last week, I started adding a new segment to experiment with, and I have a couple more in mind that I’d like to try over the future weeks. But why this &lt;strong&gt;“who am I?”&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As some of my long-time subscribers have probably noticed, History is important to me. It brings context to both the old and the new.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Drawing Ideas, 3D CSS, and Immersive Art</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-57/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-57/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-57/</guid>
-      <description>Originally posted on Substack
-Great minds discuss ideas. Average minds discuss events. Small minds discuss people. - Henry Thomas Buckle
-I want to say thank you so much to the subscribers that continue to sign up far! And thank you to the paid subscribers for your support that is so generous of you!
-This week I’ve been thinking through various ways I can bring some interesting content into the mix.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-57/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/drawing-ideas-3d-css-and-immersive&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Great minds discuss ideas. Average minds discuss events. Small minds discuss people. - Henry Thomas Buckle&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I want to say thank you so much to the subscribers that continue to sign up far!  And thank you to the paid subscribers for your support that is so generous of you!&lt;/p&gt;&#xA;&lt;p&gt;This week I’ve been thinking through various ways I can bring some interesting content into the mix.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Genuary 2023, Reflections, and Artificial Life</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-56/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-56/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-56/</guid>
-      <description>Originally posted on Substack
-The true secret to happiness lies in taking a genuine interest in all the details of daily life. -William Morris
-A little over a year ago, I dedicated a year and my full-time work to generative/creative coding and thought I’d give a bit of an update. What went well, what I wished I could have done better, etc.
-I aimed to do the following:
-Interview more generative artists like Tyler Hobbs here… Outcome: I have done 0 of them since last year 😟.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-56/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/genuary-2023-reflections-and-artificial&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The true secret to happiness lies in taking a genuine interest in all the details of daily life. -William Morris&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;A little over a year ago, I dedicated a year and my full-time work to generative/creative coding and thought I’d give a bit of an update. What went well, what I wished I could have done better, etc.&lt;/p&gt;&#xA;&lt;p&gt;I aimed to do the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Interview more generative artists like Tyler Hobbs &lt;a href=&#34;https://www.youtube.com/watch?v=pTesZREe73c&amp;amp;t=1285s&#34;&gt;here&lt;/a&gt;…&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outcome&lt;/strong&gt;: I have done &lt;strong&gt;0&lt;/strong&gt; of them since last year 😟. Most of it is due to my activation energy to get over the hump of asking.&lt;/li&gt;&#xA;&lt;li&gt;I’ve been working on a podcast project with a friend that we will release in Q1 2023. The idea is to get more experience in podcasting/video so that I can build the skills to develop premium content.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Weekly Newsletter&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outcome&lt;/strong&gt;:  In aggregate, I was able to release an issue every other week, but a few months happened once a month. Some of that was due to content; I didn’t want to litter the newsletter with crypto-related work.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.webase.com/&#34;&gt;Webase&lt;/a&gt; / &lt;a href=&#34;https://paperai.app/&#34;&gt;Paperai&lt;/a&gt; Collab: a no-code platform with Web3 built-in&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outcome&lt;/strong&gt;: The vision is to allow creators to use blockchain technologies and create a subscription to a newsletter or members-only site. We got an interview with &lt;a href=&#34;https://www.ycombinator.com/&#34;&gt;Y-Combinator&lt;/a&gt;, which was a neat experience.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Delve into the history of generative art&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outcome&lt;/strong&gt;: I have been able to collect and read several books. Many are gallery, some are academic papers and some are working through archives and finding interesting and relevant work. Though they are limited, I’ve found many fascinating works tidbits of artists experimenting with art and technology. It’s just remarkable to see so much great work. Plus there are an endless number of rabbit trails to follow and I am always ensnared by them. A few were the works of &lt;a href=&#34;https://www.amazon.com/Maeda-Media-John/dp/0789305259&#34;&gt;Maeda &amp;amp; Media&lt;/a&gt; for early work in late 1990s / 2000s which led to a bunch of thesis to read. Or the situations described in “T&lt;a href=&#34;https://www.amazon.com/Maeda-Media-John/dp/0789305259&#34;&gt;he Troubled History of Computer Art”&lt;/a&gt; of activism of 1970s against technologies due to the Vietnam war.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Compile Generative Art History Resources&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outcome&lt;/strong&gt;: I’ve been slowly working at this, as I have been collecting data and creating timelines; I’m envisioning to create a responsive timeline for artists and bios around them. There are great resources out there already, &lt;a href=&#34;https://dada.compart-bremen.de/&#34;&gt;Database of Digital Art&lt;/a&gt; (seems to be offline right now), &lt;a href=&#34;https://spalterdigital.com/&#34;&gt;Spalter Digital&lt;/a&gt;,  and &lt;a href=&#34;https://monoskop.org/Index&#34;&gt;Monoskop&lt;/a&gt; to name a few.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Learning new technologies&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generative workflows&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I did a lot of conversion from R / Java-centric generative art; I have spent a lot of time in the browser, first playing with p5 and then slowly porting workflows to canvas along with shaders.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;3D / 3D Printing&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outcome&lt;/strong&gt;: Spending a lot of time exploring the generative possibilities with Rhino and Grasshopper, Blender, Unity,, and C4D. I also wanted to understand using a 3D printer and working to generate 3D objects.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Frontend&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This goes back to Javascript; I have yet to spend tons of time developing in the browser outside of like 15 years ago in high school.  I had a ton of great courses using &lt;a href=&#34;https://frontendmasters.com/&#34;&gt;FrontendMasters&lt;/a&gt; and dove into React, Next.js, and Svelte to get a thorough understanding.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;What I have learned:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Narrative Scripting, Live Coding, and Happy Holidays!</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-55/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-55/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-55/</guid>
-      <description>Originally posted on Substack
-Every mistake is a new style. -Michael Meade
-Happy Holidays!
-I hope you find time to appreciate the little things in life.
-It is a time of stress, family, loneliness, and remembering those we lost.
-So be kind to yourself, and find ways to appreciate the chaos..
-May that be a little piece of code to obsess about, a quote to ponder, a walk in nature to absorb the color, smells, emotions, or simply the sound of the cold wind tickling your inner ear.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-55/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/narrative-scripting-live-coding-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Every mistake is a new style. -Michael Meade&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Happy Holidays!&lt;/p&gt;&#xA;&lt;p&gt;I hope you find time to appreciate the little things in life.&lt;/p&gt;&#xA;&lt;p&gt;It is a time of stress,  family, loneliness, and remembering those we lost.&lt;/p&gt;&#xA;&lt;p&gt;So be kind to yourself, and find ways to appreciate the chaos..&lt;/p&gt;&#xA;&lt;p&gt;May that be a little piece of code to obsess about, a quote to ponder,  a walk in nature to absorb the color, smells, emotions, or simply the sound of the cold wind tickling your inner ear.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algorists, Metaballs and Shader Prototyping</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-53/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-53/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-53/</guid>
-      <description>Originally posted on Substack
-if(creation &amp;amp;&amp;amp; object of art &amp;amp;&amp;amp; algorithm &amp;amp;&amp;amp; one’s own algorithm) { include * an algorist* } else if(!creation &amp;amp;&amp;amp; !object of art &amp;amp;&amp;amp; !algorithm &amp;amp;&amp;amp; !one’s own algorithm) { exclude not an algorist }
-The above statement was the manifesto coined by J. P. Herbert and the mantra of The Algorists; a group formed in 1995 at SIGGRAPH which included (Roman Verostko, Jean-Pierre Hébert, and Ken Musgrave).</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-53/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/algorists-metaballs-and-shader-prototyping&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;if(creation &amp;amp;&amp;amp; object of art &amp;amp;&amp;amp; algorithm &amp;amp;&amp;amp; one’s own algorithm) {&#xA;include * an algorist*&#xA;} else if(!creation &amp;amp;&amp;amp; !object of art &amp;amp;&amp;amp; !algorithm &amp;amp;&amp;amp; !one’s own algorithm) {&#xA;exclude &lt;em&gt;not an algorist&lt;/em&gt; }&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The above statement was the manifesto coined by J. P. Herbert and the mantra of The Algorists; a group  formed in 1995 at &lt;a href=&#34;https://www.siggraph.org/&#34;&gt;SIGGRAPH&lt;/a&gt; which included (Roman Verostko, Jean-Pierre Hébert, and Ken Musgrave).&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
+      <link>http://localhost:1313/newsletter/generative-arts-52/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/newsletter/generative-arts-52/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello fellow readers,&lt;/p&gt;&#xA;&lt;p&gt;Hope your Friday morning / afternoon is going well. There are a number of interesting links below for you to digest and swallow.&lt;/p&gt;&#xA;&lt;p&gt;And for just a little inspiration…&lt;/p&gt;&#xA;&lt;p&gt;If you haven’t seen the work by &lt;a href=&#34;https://www.teaboswell.com/&#34;&gt;Tyler Boswell&lt;/a&gt;  definitely check out his work &lt;a href=&#34;https://www.teaboswell.com/projects/september&#34;&gt;September&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/cosipiovasc0/status/1577370812624998400?s=20&amp;amp;t=JvG3Se3lkkg-r9GIcmg2Ew&#34;&gt;https://twitter.com/cosipiovasc0/status/1577370812624998400?s=20&amp;amp;t=JvG3Se3lkkg-r9GIcmg2Ew&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Have a wonderful weekend!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FFMPEG Video Art, Generative Audio and Ken Perlin</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-51/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-51/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-51/</guid>
-      <description>Originally posted on Substack
-Silence creates space for content to appear. -J.R. Rim
-Video Art with FFMPEG {{ youtube nobWeGycSe8 }}
-One of the many tools we use to describe motion is in a sequence of images or videos. We love them and use them for our work as it adds yet another dimension to the images. The following few selections all use FFMPEG an open source tool to convert video from different formats in the command line or through a programming language.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-51/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/ffmpeg-video-art-generative-audio&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Silence creates space for content to appear. -J.R. Rim&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;video-art-with-ffmpeg&#34;&gt;Video Art with FFMPEG&lt;/h2&gt;&#xA;&lt;p&gt;{{ youtube nobWeGycSe8 }}&lt;/p&gt;&#xA;&lt;p&gt;One of the many tools we use to describe motion is in a sequence of images or videos. We love them and use them for our work as it adds yet another dimension to the images. The following few selections all use &lt;a href=&#34;https://ffmpeg.org/&#34;&gt;FFMPEG&lt;/a&gt; an open source tool to convert video from different formats in the command line or through a programming language. But there are a few more creative uses of this tool and &lt;a href=&#34;https://artificial-images.com/&#34;&gt;Derrick Schultz&lt;/a&gt; has a great &lt;a href=&#34;https://docs.google.com/document/d/12X_2YoCnPPN7B3OsgX39aYyRF8OF-TVStkFTkKhWrx4/edit&#34;&gt;4 week video course&lt;/a&gt; that he uses the tools in creative ways and provides code artists another way to create some interesting work.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hallucinating Art Models, Sound Design in Python, and a little Canvas</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-50/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-50/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-50/</guid>
-      <description>Originally posted on Substack
-Make things happen, Don&amp;rsquo;t let things happen to you. -Syed Sharukh
-Hello creatives!
-I’ve been spending quite a bit of time learning a bunch of technologies in the last year to continue stepping up the various skills needed to really try what I have in my mind. Much of it has to do with in real life materials but using generative techniques to really drive it and so I hope to share in the future.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-50/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/hallucinating-art-models-sound-design&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Make things happen, Don&amp;rsquo;t let things happen to you. -Syed Sharukh&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello creatives!&lt;/p&gt;&#xA;&lt;p&gt;I’ve been spending quite a bit of time learning a bunch of technologies in the last year to continue stepping up the various skills needed to really try what I have in my mind. Much of it has to do with in real life materials but using generative techniques to really drive it and so I hope to share in the future.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Stable Diffusion, Biologically Augmented Bespoke Pieces and Surrealism</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-48/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-48/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-48/</guid>
-      <description>Originally posted on Substack
-The detail is everything -Vladimir Nabokov
-As much as the last year has been at a slower pace of releasing this newsletter. I do want to get back into the habit of highlighting the wonderful world of generative and creative coding arts on a more regular basis so I hope you have been able to enjoy the work.
-Few Thoughts on AI Art You will find that much of this weeks highlights do look at the Stable Diffusion model that has been released in the past 2 weeks.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-48/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;hhttps://generative.substack.com/p/stable-diffusion-biologically-augmented&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The detail is everything -Vladimir Nabokov&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As much as the last year has been at a slower pace of releasing this newsletter. I do want to get back into the habit of highlighting the wonderful world of generative and creative coding arts on a more regular basis so I hope you have been able to enjoy the work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;few-thoughts-on-ai-art&#34;&gt;Few Thoughts on AI Art&lt;/h2&gt;&#xA;&lt;p&gt;You will find that much of this weeks highlights do look at the Stable Diffusion model that has been released in the past 2 weeks. It’s of course exciting the recognize the beauty that comes from these models and the interesting ways that artists will use these outputs to enhance their practices.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The &#34;War of Art&#34; and Painting Poetry</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-49/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-49/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-49/</guid>
-      <description>Originally posted on Substack
-It is a commonplace among artists and children at play that they&amp;rsquo;re not aware of time or solitude while they&amp;rsquo;re chasing their vision. The hours fly. - Steven Pressfield
-I’ve been reading the book “The War of Art” by Steven Pressfield and have found a number of quotes that have resonated with me quite a bit over the last year. Specifically when it comes to knowing how to simple continue.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-49/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/the-war-of-art-and-painting-poetry&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It is a commonplace among artists and children at play that they&amp;rsquo;re not aware of time or solitude while they&amp;rsquo;re chasing their vision. The hours fly. - Steven Pressfield&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I’ve been  reading the book “&lt;a href=&#34;https://stevenpressfield.com/books/the-war-of-art/&#34;&gt;The War of Art”&lt;/a&gt; by Steven Pressfield and have found a number of quotes that have resonated with me quite a bit over the last year. Specifically when it comes to knowing how to simple continue. Creativity and its call can be such a driving force….&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Morphing Spheres and Phyllotactic Spirals</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-47/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-47/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-47/</guid>
-      <description>Originally posted on Substack
-It&amp;rsquo;s a great time to be a creator. Trust your creativity. -Ron Howard
-Reflecting on the past year..
-{{ youtube OFI1FJcGLeM }}
-The Art of John Edmark What do plants know about numbers? A certain spiral pattern commonly seen in sunflowers, pinecones, and many species of cacti contains some surprising numerical properties. In this brisk talk, Paul Dancstep investigates this pattern through several kinetic sculptures by artist John Edmark.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-47/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/morphing-spheres-and-phyllotactic&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a great time to be a creator. Trust your creativity. -Ron Howard&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Reflecting on the past year..&lt;/p&gt;&#xA;&lt;p&gt;{{ youtube OFI1FJcGLeM }}&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-art-of-john-edmark&#34;&gt;The Art of John Edmark&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What do plants know about numbers? A certain spiral pattern commonly seen in sunflowers, pinecones, and many species of cacti contains some surprising numerical properties. In this brisk talk, Paul Dancstep investigates this pattern through several kinetic sculptures by artist John Edmark. These mesmerizing artworks provide a number of insights into the mathematical lives of plants.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative 3D Art Tools and Inspirations</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-46/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-46/</link>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-46/</guid>
-      <description>Originally posted on Substack
-“If you&amp;rsquo;re not prepared to be wrong, you&amp;rsquo;ll never come up with anything original.” -Ken Robinson
-I’ve had a number of requests and personal interest where 3D imagery is used to create generative art. So I hope that this is beneficial.
-Generative art can be done in almost every application. You will find that it can be done in Photoshop, using code, using simply code in the browser, or just by hand as one of my fellow generative artists (Dan Gries) has done.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-46/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/generative-3d-art-tools-and-inspirations&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“If you&amp;rsquo;re not prepared to be wrong, you&amp;rsquo;ll never come up with anything original.” -Ken Robinson&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I’ve had a number of requests and personal interest where 3D imagery is used to create generative art. So I hope that this is beneficial.&lt;/p&gt;&#xA;&lt;p&gt;Generative art can be done in almost every application. You will find that it can be done in &lt;a href=&#34;https://www.openpicture.art/&#34;&gt;Photoshop&lt;/a&gt;, using code, using simply code in the browser, or just by hand as one of my fellow generative artists (Dan Gries) has done.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algoraves, Weird AI Art, and Generative Tools</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-45/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-45/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-45/</guid>
-      <description>Originally posted on Substack
-If it doesn’t fit comfortably within your heart, let it go. - Toni Sorenson
-Well its been a little over a month since the last newsletter has gone out. There are just too many things to get done in a day.
-Also, I have been working at making the links from the last 40+ newsletters in one place so that they are more accessible. Right now they are just a Markdown page but hopefully will give this a little more structure as well.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-45/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/algoraves-weird-ai-art-and-generative&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If it doesn’t fit comfortably within your heart, let it go. - Toni Sorenson&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Well its been a little over a month since the last newsletter has gone out.  There are just too many things to get done in a day.&lt;/p&gt;&#xA;&lt;p&gt;Also, I have been working at making the links from the last 40+ newsletters in one place so that they are more accessible. Right now they are just a &lt;a href=&#34;https://github.com/cdr6934/GenerativeArtsNewsletter/blob/main/IssueLinks.md&#34;&gt;Markdown page&lt;/a&gt; but hopefully will give this a little more structure as well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative Music, Lambda Calculus, and GLSL in Blender</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-44/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-44/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-44/</guid>
-      <description>Originally posted on Substack
-The job of the artist is always to deepen the mystery -Francis Bacon
-Hello Friends,
-It’s been another couple weeks since the last edition has gone out. I’ve been spending time on my own artwork, gathering books and inspirations along with traveling and working on another project involving blockchains.
-Hope you enjoy!
-Chris Ried
-📰 Happenings Eyeo Festival - June 14 - 17, 2022 School of Poetic Computation - Multiple Courses Anderson Ranch Art Center - Multiple Classes Processing and Laser: Creative Code to Wood Panel - June 27 - July 1, 2022 Drawing with Machines - July 18 - 22, 2022 📸 Generative Meet Vera Monar, the 98-Year-Old Generative Art Pioneer Who Is Enjoying New Relevance at the Venice Bienniale “For me, arriving in Paris was happiness,” Molnár told me of her emigration to the French capital in 1947 with François Molnar, who would become her husband.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-44/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/generative-music-lambda-calculus&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The job of the artist is always to deepen the mystery -Francis Bacon&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello Friends,&lt;/p&gt;&#xA;&lt;p&gt;It’s been another couple weeks since the last edition has gone out. I’ve been spending time on my own artwork, gathering books and inspirations along with traveling and working on another  project involving blockchains.&lt;/p&gt;&#xA;&lt;p&gt;Hope you enjoy!&lt;/p&gt;&#xA;&lt;p&gt;Chris Ried&lt;/p&gt;&#xA;&lt;h1 id=&#34;-happenings&#34;&gt;📰 Happenings&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://eyeofestival.com/&#34;&gt;Eyeo Festival&lt;/a&gt; - June 14 - 17, 2022&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sfpc.study/&#34;&gt;School of Poetic Computation&lt;/a&gt; - Multiple Courses&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.andersonranch.org/workshops/&#34;&gt;Anderson Ranch Art Center&lt;/a&gt; - Multiple Classes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.andersonranch.org/workshops/?pn=3&#34;&gt;Processing and Laser&lt;/a&gt;: Creative Code to Wood Panel - June 27 - July 1, 2022&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.andersonranch.org/workshops/workshop/drawing-with-machines-p0735-22/&#34;&gt;Drawing with Machines&lt;/a&gt; - July 18 - 22, 2022&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;-generative&#34;&gt;📸 Generative&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://news.artnet.com/app/news-upload/2022/04/GettyImages-1176363803-1024x681.jpg&#34; alt=&#34;https://news.artnet.com/app/news-upload/2022/04/GettyImages-1176363803-1024x681.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Requiem of Creativity</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-43/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-43/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-43/</guid>
-      <description>Originally posted on Substack
-Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside of you, to make your soul grow. Seriously! I mean starting right now, do art and do it for the rest of your lives. - Kurt Vonnegut
-The quote above is so powerful that I really don’t think there is much more to be said.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-43/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/the-requiem-of-creativity&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside of you, to make your soul grow. Seriously! I mean starting right now, do art and do it for the rest of your lives. - Kurt Vonnegut&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The quote above is so powerful that I really don’t think there is much more to be said. As we live in a time of uncertainty, I can’t think of any better use of time than taking care of our inner soul.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Design Systems, Embroidered Sculptures and Isometric Projections</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-43/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-43/</link>
       <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-43/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Don’t worry if people think you’re crazy. You are crazy. You have that kind of intoxicating insanity that lets other people dream outside of the lines and become who they’re destined to be.&amp;rdquo; - Jennifer Elisabeth
-I would love to see some critique in the generative arts space&amp;hellip;
-But a traditional art critic would give us a perspective of how it fits into the tapestry of art history and the emerging trends that occur within the community.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-43/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/design-systems-embroidered-sculptures&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Don’t worry if people think you’re crazy. You are crazy. You have that kind of intoxicating insanity that lets other people dream outside of the lines and become who they’re destined to be.&amp;rdquo; - Jennifer Elisabeth&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I would love to see some critique in the generative arts space&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;But a traditional art critic would give us a perspective of how it fits into the tapestry of art history and the emerging trends that occur within the community. I think it is extremely hard to judge generative art simply because there is an aesthetic framework that has yet to be defined in which the art can be given critique.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Web Art History, Coding in Blender and Coding Raytracing on a Calculator</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-41/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-41/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-41/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Art enables us to find ourselves and lose ourselves at the same time.&amp;rdquo; - Thomas Merton
-Good Evening Readers!
-It&amp;rsquo;s been a rather interesting couple of months adjusting to full-time work at home and trying to really give a thorough think on what it means to make art, and what does generative art stand for in the context of today. Many questions that have been on my mind are:</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-41/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/web-art-history-coding-in-blender&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Art enables us to find ourselves and lose ourselves at the same time.&amp;rdquo; - Thomas Merton&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good Evening Readers!&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a rather interesting couple of months adjusting to full-time work at home and trying to really give a thorough think on what it means to make art, and what does generative art stand for in the context of today. Many questions that have been on my mind are:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2022 Predictions, Genuary 2022 and SYMAP</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-40/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-40/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-40/</guid>
-      <description>Originally posted on Substack
-“Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston Churchill
-And 2022 is here&amp;hellip;
-it&amp;rsquo;s truly remarkable how quickly time has gone and continues to go. This time last year, generative art was a small niche group of enthusiasts who appreciate the art form. Now.. well it&amp;rsquo;s become quite an interesting spectacle and will be interesting to see how it continues to play over the next couple of years.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-40/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/2022-predictions-genuary-2022-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston Churchill&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;And 2022 is here&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;it&amp;rsquo;s truly remarkable how quickly time has gone and continues to go. This time last year, generative art was a small niche group of enthusiasts who appreciate the art form. Now.. well it&amp;rsquo;s become quite an interesting spectacle and will be interesting to see how it continues to play over the next couple of years.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Constructivist Art, Some Interesting Reads and Painting Catapults</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-39/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-39/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-39/</guid>
-      <description>Originally posted on Substack
-Never stop dreaming.. - Roy T. Bennett
-Good morning my friends!
-I hope you are finding amazing inspiration in the interesting stuff that you have been working on.
-First up: Content these days take longer to curate because its a niche space so I&amp;rsquo;d love for anyone to send me interesting generative/ creative works that they have created or inspired by.
-I&amp;rsquo;ve also been spending a good deal of time trying a bunch different things that I have been releasing fewer newsletters.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-39/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/constructivist-art-some-interesting&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Never stop dreaming.. - Roy T. Bennett&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good morning my friends!&lt;/p&gt;&#xA;&lt;p&gt;I hope you are finding amazing inspiration in the interesting stuff that you have been working on.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;First up:&lt;/strong&gt; Content these days take longer to curate because its a niche space so I&amp;rsquo;d love for anyone to send me interesting generative/ creative works that they have created or inspired by.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve also been spending a good deal of time trying a bunch different things that I have been releasing fewer newsletters. But this is part of my process, once I feel that I&amp;rsquo;ve been filled up, then I can continue to produce at a much quicker pace. But until then here are some great reads that I&amp;rsquo;ve found to be inspiring in the past month.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Painting Robots, Domain Shifting And Creating an Inviting Space in Generative Art</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-38/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-38/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-38/</guid>
-      <description>Originally posted on Substack
-Never stop dreaming.. - Roy T. Bennett
-First of all, I can&amp;rsquo;t thank you enough for your participation on Twitter in recommending the many wonderful women in the generative space. I think it&amp;rsquo;s amazing to see so much talent and creativity in the space. I&amp;rsquo;ll highlight over the next number of newsletters.
-Creating An Inviting Space in Generative Art I think it is important that we encourage a depth of perspective that comes we celebrate inclusion.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-38/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/painting-robots-domain-shifting-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Never stop dreaming.. - Roy T. Bennett&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;First of all, I can&amp;rsquo;t thank you enough for your participation on Twitter in recommending the many wonderful women in the generative space. I think it&amp;rsquo;s amazing to see so much talent and creativity in the space. I&amp;rsquo;ll highlight over the next number of newsletters.&lt;/p&gt;&#xA;&lt;h1 id=&#34;creating-an-inviting-space-in-generative-art&#34;&gt;Creating An Inviting Space in Generative Art&lt;/h1&gt;&#xA;&lt;p&gt;I think it is important that we encourage a depth of perspective that comes we celebrate inclusion. Historically speaking when the majority of all the art that has been created is by white men, we do ourselves the disservice of only seeing a sliver of what can be created.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Marfa, Subdivision and Runtime Patching</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-37/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-37/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-37/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Change the way you look at things and the things you look at change.&amp;rdquo; - Wayne W. Dyer
-So this weekend I had the amazing opportunity to make it to Marfa Texas for the inaugural Artblocks weekend which was such a treat.
-I was able to meet a bunch of genart inspirations; Caleb Ogg (iso.hedron), Aaron Penne (aaron_penne), Tyler Hobbs (tylerxhobbs), Kesean (keseantx), Stefan Contiero (stefan_contiero), Dimitri Cherniak (dmitricherniak) to name a few which was a special treat.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-37/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/marfa-subdivision-and-runtime-patching&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Change the way you look at things and the things you look at change.&amp;rdquo; - Wayne W. Dyer&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;So this weekend I had the amazing opportunity to make it to Marfa Texas for the inaugural Artblocks weekend which was such a treat.&lt;/p&gt;&#xA;&lt;p&gt;I was able to meet a bunch of genart inspirations; Caleb Ogg (i&lt;a href=&#34;https://www.instagram.com/iso.hedron/&#34;&gt;so.hedron&lt;/a&gt;), Aaron Penne (&lt;a href=&#34;https://www.instagram.com/aaron_penne/&#34;&gt;aaron_penne&lt;/a&gt;), Tyler Hobbs (&lt;a href=&#34;https://www.instagram.com/tylerxhobbs/&#34;&gt;tylerxhobbs&lt;/a&gt;), Kesean (&lt;a href=&#34;https://www.instagram.com/keseantx/&#34;&gt;keseantx&lt;/a&gt;), Stefan Contiero (&lt;a href=&#34;https://www.instagram.com/stefan_contiero/&#34;&gt;stefan_contiero&lt;/a&gt;), Dimitri Cherniak (&lt;a href=&#34;https://www.instagram.com/dmitricherniak/&#34;&gt;dmitricherniak&lt;/a&gt;) to name a few which was a special treat.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Interlocking Cable Ties, Generative NFTs, Mathematical Optimization Art</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-34/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-34/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-34/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science. He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead: his eyes are closed.&amp;rdquo; - Albert Einstein
-Hello Friends,
-This week has been fascinating on multiple fronts in the generative art space.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-34/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/interlocking-cable-ties-generative&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science. He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead: his eyes are closed.&amp;rdquo; - Albert Einstein&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello Friends,&lt;/p&gt;&#xA;&lt;p&gt;This week has been fascinating on multiple fronts in the generative art space. This week we have seen alot of interest in the NFT space. Not only have the generative NFTs minted through &lt;a href=&#34;http://artblocks.io&#34;&gt;ArtBlocks.io&lt;/a&gt; been frequently sold out within minutes, then within 24 hrs we also find the secondary markets flipping the artwork to be sold with a profit margin. Take for example the following stats from yesterday,&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nodi3D, Machines Making Art, and Eigenvectors</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-35/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-35/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-35/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;A blank canvas&amp;hellip;has unlimited possibilities.&amp;rdquo; - Stephanie Perkins
-Good Evening Folks or Happy Friday!
-I&amp;rsquo;ve been working on multiple small projects and this above was supposed to be a simple infographic of the most popular frameworks. However it has become an all weekend event on Twitter which was a great community effort. Being that there has been so much interest, I though this will be a great opportunity to move the wireframe version above into an interactive graph which I do look forward to finishing.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-35/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/nodi3d-machines-making-art-and-eigenvectors&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;A blank canvas&amp;hellip;has unlimited possibilities.&amp;rdquo; - Stephanie Perkins&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://s3-us-west-2.amazonaws.com/secure.notion-static.com/546f1719-e77e-43d4-91d2-ad0331cd2d56/Creative_Coding_Environments10.png&#34; alt=&#34;Creative Coding Environments10.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Good Evening Folks or Happy Friday!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been working on multiple small projects and this above was supposed to be a simple infographic of the most popular frameworks. However it has become an all weekend event on Twitter which was a great community effort. Being that there has been so much interest, I though this will be a great opportunity to move the wireframe version above into an interactive graph which I do look forward to finishing.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fourier Transforms, Glitch Monsters, Digital Art Displays</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-33/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-33/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-33/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Don’t worry if people think you’re crazy. You are crazy. You have that kind of intoxicating insanity that lets other people dream outside of the lines and become who they’re destined to be.&amp;rdquo; - Jennifer Elisabeth
-Hello friends!
-I hope you all have been having great weeks full of inspiration. I know that I am spotty right now with the newsletter. There are a number of things going on (two jobs mainly) which I hope will pass in the next couple of months.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-33/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;hhttps://generative.substack.com/p/fourier-transforms-glitch-monsters&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Don’t worry if people think you’re crazy. You are crazy. You have that kind of intoxicating insanity that lets other people dream outside of the lines and become who they’re destined to be.&amp;rdquo; - Jennifer Elisabeth&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello friends!&lt;/p&gt;&#xA;&lt;p&gt;I hope you all have been having great weeks full of inspiration. I know that I am spotty right now with the newsletter. There are a number of things going on (two jobs mainly) which I hope will pass in the next couple of months.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alien Dreams, Generating MIDI, and Drawing with Oceans</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-32/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-32/</link>
       <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-32/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;To be an artist means never to avert one&amp;rsquo;s eyes.&amp;rdquo; - Akira Kurosawa
-Paying attention to detail is one of the hidden secrets of any artist.
-It provides them the ability the &amp;ldquo;see&amp;rdquo; and interpret their surroundings or emotions of any subject in ways the viewer has yet to understand.
-La Crau w/ Peach Trees - Van Gogh
-Take, for instance, the following painting by Van Gogh.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-32/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/alien-dreams-generating-midi-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;To be an artist means never to avert one&amp;rsquo;s eyes.&amp;rdquo; - &lt;em&gt;Akira Kurosawa&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Paying attention to detail is one of the hidden secrets of any artist.&lt;/p&gt;&#xA;&lt;p&gt;It provides them the ability the &amp;ldquo;see&amp;rdquo; and interpret their surroundings or emotions of any subject in ways the viewer has yet to understand.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b395553a-63b6-46de-9e8d-3227870d1e63/Untitled.png&#34; alt=&#34;https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b395553a-63b6-46de-9e8d-3227870d1e63/Untitled.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;La Crau w/ Peach Trees - Van Gogh&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Take, for instance, the following painting by Van Gogh.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Conceptual Art, Fear, and Generative Synthesis</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-31/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-31/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-31/</guid>
-      <description>Originally posted on Substack
-I&amp;rsquo;ve been reading through the book &amp;ldquo;Art &amp;amp; Fear&amp;rdquo; by David Bayles and Ted Orland. I thought I might share a few passages that I highlighted. that are good nuggets about pursuing art and the insecurities that come with it.
-The function of the overwhelming majority of your artwork is simply to teach you how to make the small fraction of your artwork that soars. One of the basic and difficult lessons every artist must learn is that even the failed pieces are essential.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-31/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/conceptual-art-fear-and-generative&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been reading through the book &amp;ldquo;Art &amp;amp; Fear&amp;rdquo; by David Bayles and Ted Orland. I thought I might share a few passages that I highlighted.  that are good nuggets about pursuing art and the insecurities that come with it.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The function of the overwhelming majority of your artwork is simply to teach you how to make the small fraction of your artwork that soars. One of the basic and difficult lessons every artist must learn is that even the failed pieces are essential.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bonsai Trees, Color History and Depth Estimation</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-29/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-29/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-29/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;The absence of limitations is the enemy of art.&amp;rdquo; - Orson Welles
-The discipline of trimming and waiting, the bonsai master takes the medium of the tree and molds it using wire as a way to encourage the shape of growth. Throughout the years he cuts, and prunes, sheers and replants and cuts some more.
-Once in a while he moves the tree to a new pot, sifting through the roots system looking for only the living and then places the bonsai back into position.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-29/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/bonsai-trees-color-history-and-depth&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The absence of limitations is the enemy of art.&amp;rdquo; - &lt;em&gt;Orson Welles&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The discipline of trimming and waiting, the bonsai master takes the medium of the tree and molds it using wire as a way to encourage the shape of growth. Throughout the years he cuts, and prunes, sheers and replants and cuts some more.&lt;/p&gt;&#xA;&lt;p&gt;Once in a while he moves the tree to a new pot, sifting through the roots system looking for only the living and then places the bonsai back into position.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What makes a good generative agent?</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-28/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-28/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-28/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;The Artist always has the masters in his eyes.&amp;rdquo; - Ralph Waldo Emerson
-What makes a good generative agent? It&amp;rsquo;s an interesting question, that I will scratch but the surface. However, I’ve gathered a list of general considerations from my observations of the generative arts. My intent is to discover and explore.
-Some of this comes from the pursuit of understanding… in an ironic way. For one, It is the pursuit which help build an eye for the different, and aesthetically pleasing.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-28/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/what-makes-a-good-generative-agent&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The Artist always has the masters in his eyes.&amp;rdquo; - &lt;em&gt;Ralph Waldo Emerson&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;what-makes-a-good-generative-agent&#34;&gt;What makes a good generative agent?&lt;/h1&gt;&#xA;&lt;p&gt;It&amp;rsquo;s an interesting question, that I will scratch but the surface. However, I’ve gathered a list of general considerations from my observations of the generative arts. My intent is to discover and explore.&lt;/p&gt;&#xA;&lt;p&gt;Some of this comes from the pursuit of understanding… in an ironic way. For one, It is the pursuit which help build an eye for the different, and aesthetically pleasing. Another aspect is that the pursuit brings meaning and “eureka” moments.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cistercian Numerals, 3D Models, and Perfect Loops</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-27/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-27/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-27/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;The Artist always has the masters in his eyes.&amp;rdquo; - Ralph Waldo Emerson
-Good Evening Friends!
-I&amp;rsquo;ve been busy starting a new job and trying to replatform as a way to ensure that the newsletter is in a format that can be accessible and more automated for me. Right now I have been using Substack, however I am wanting to create great content, and automate as much as possible.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-27/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/cistercian-numerals-3d-models-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The Artist always has the masters in his eyes.&amp;rdquo; - &lt;em&gt;Ralph Waldo Emerson&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good Evening Friends!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been busy starting a new job and trying to replatform as a way to ensure that the newsletter is in a format that can be accessible and more automated for me. Right now I have been using Substack, however I am wanting to create great content, and automate as much as possible. This is something that Substack has yet been able to do for me. I&amp;rsquo;ve also registered a new domain call GenArtX which I hope will provide an alternative site that can be used by others in the community.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Futuristic Generative Art, Ferrofluids and Simulations</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-26/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-26/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-26/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;An artist&amp;rsquo;s concern is to capture beauty wherever he finds it.&amp;rdquo; - Kazuo Ishiguro
-What does generative art look like in the future?
-As much as I enjoy investigating the path that the discipline of generative art has taken in the past 60+ years; I also have been thinking about what the future may hold in this space.
-So what I am going throw out there has yet to be fully thought through.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-26/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/futuristic-generative-art-ferrofluids&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;An artist&amp;rsquo;s concern is to capture beauty wherever he finds it.&amp;rdquo; - &lt;strong&gt;Kazuo Ishiguro&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;What does generative art look like in the future?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As much as I enjoy investigating the path that the discipline of generative art has taken in the past 60+ years; I also have been thinking about what the future may hold in this space.&lt;/p&gt;&#xA;&lt;p&gt;So what I am going throw out there has yet to be fully thought through. But I haven&amp;rsquo;t come across much in these spaces, so if you have seen something I&amp;rsquo;d love to see it and discuss it further So&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>From Generative Systems to Generative Aesthetics</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-24/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-24/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-24/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Any great art work … revives and readapts time and space, and the measure of its success is the extent to which it makes you an inhabitant of that world - the extent to which it invites you in and lets you breathe its strange, special air.&amp;rdquo; - Leonard Bernstein
-Generative Systems to Generative Aesthetics All of my life, art has been a piece of my existence.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-24/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/from-generative-systems-to-generative&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Any great art work … revives and readapts time and space, and the measure of its success is the extent to which it makes you an inhabitant of that world - the extent to which it invites you in and lets you breathe its strange, special air.&amp;rdquo; - &lt;strong&gt;Leonard Bernstein&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;generative-systems-to-generative-aesthetics&#34;&gt;Generative Systems to Generative Aesthetics&lt;/h1&gt;&#xA;&lt;p&gt;All of my life, art has been a piece of my existence.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Random Machines, Creative Rust, Blurred Boundaries</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-25/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-25/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-25/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;I became an artist because I wanted to be an active participant in the conversation about art.&amp;rdquo; - Kamand Kojouri
-Alrighty, well I wanted to complete a piece on randomness called the &amp;ldquo;Ode to Randomness&amp;rdquo; as there is so much to be written and techniques in which randomness is so important to the work of generative artists. But I&amp;rsquo;ll get it out soon enough. Instead; here is an interesting usage of randomness.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-25/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/random-machines-creative-rust-blurred&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I became an artist because I wanted to be an active participant in the conversation about art.&amp;rdquo; - &lt;em&gt;Kamand Kojouri&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Alrighty, well I  wanted to complete a piece on randomness called the &amp;ldquo;Ode to Randomness&amp;rdquo; as there is so much to be written and techniques in which randomness is so important to the work of generative artists. But I&amp;rsquo;ll get it out soon enough. Instead; here is an interesting usage of randomness.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative Poetry, Archimedian Solids and Dextro</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-23/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-23/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-23/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;At the end of your creative adventure, you have a souvenir—something that you made, something to remind you forever of your brief but transformative encounter with inspiration&amp;rdquo; - Elizabeth Gilbert
-The last couple of weeks have been quite eventful. I&amp;rsquo;ve taken a new job and there has been much transitioning that has occurred to get everything completed.
-That being said, my work on aggregating / discovering the history of generative art has been progressing.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-23/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/generative-poetry-archimedian-solids&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;At the end of your creative adventure, you have a souvenir—something that you made, something to remind you forever of your brief but transformative encounter with inspiration&amp;rdquo; - Elizabeth Gilbert&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The last couple of weeks have been quite eventful. I&amp;rsquo;ve taken a new job and there has been much transitioning that has occurred to get everything completed.&lt;/p&gt;&#xA;&lt;p&gt;That being said, my work on aggregating / discovering the history of generative art has been progressing. It&amp;rsquo;s moving slowly but I&amp;rsquo;ve come across some fascinating resources that I&amp;rsquo;ll be sharing in the coming newsletters.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Generative Past, Flowing Type and Micobe Ecosystems</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-22/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-22/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-22/</guid>
-      <description>Originally posted on Substack
-“The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from the air, creating by the exertion of the imagination.” - Frederick Brooks
-Quick update: Well its been 6 months of almost weekly newsletters and I am so excited of how much content and interest (~500 Substack subscribes) there has been! I&amp;rsquo;ve loved the interactions I&amp;rsquo;ve had with you all and will hope to continue to do so!</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-22/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/the-generative-past-flowing-type&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from the air, creating by the exertion of the imagination.” - &lt;em&gt;Frederick Brooks&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;quick-update&#34;&gt;Quick update:&lt;/h1&gt;&#xA;&lt;p&gt;Well its been 6 months of almost weekly newsletters and I am so excited of how much content and interest (~500 Substack subscribes) there has been! I&amp;rsquo;ve loved the interactions I&amp;rsquo;ve had with you all and will hope to continue to do so! Its been an amazing journey to see the passion and love being part of it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alda, Generative Music in Clojure, Generative Pixel Art</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-21/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-21/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-21/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Creativity is the fragrance of individual freedom.&amp;rdquo; - Osho
-Hello friends!
-I know that I generally release on Saturday for the week but we had family and work which led to not having as much time this weekend to ensure that I finish editing the video done in time for the next release.
-And it is here! My conversation with Dave Yarwood led us down some very interesting conversations on the idea of generative music and how one might go around using a system such as Alda to create &amp;ldquo;generative music.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-21/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/alda-generative-music-in-clojure&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Creativity is the fragrance of individual freedom.&amp;rdquo; - &lt;em&gt;Osho&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello  friends!&lt;/p&gt;&#xA;&lt;p&gt;I know that I generally release on Saturday for the week but we had family and work which led to not having as much time this weekend to ensure that I finish editing the video done in time for the next release.&lt;/p&gt;&#xA;&lt;p&gt;And it is here! My conversation with Dave Yarwood  led us down some very interesting conversations on the idea of generative music and how one might go around using a system such as Alda to create &amp;ldquo;generative music.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Thoughts on NFTs, Algo-music and Processes</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-20/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-20/</link>
       <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-20/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Creativity is a synthesis of two qualities: imagination and concreteness.&amp;rdquo; - Pearl Zhu
-As NFTs are all the rage, I thought I might lay out my thoughts and maybe inspire more conversation and thoughts. So I&amp;rsquo;ve intended this to be considered in small chunks.
-I love the fact that the non-centralized infrastructure brings transparency to the masses. I don&amp;rsquo;t like the idea that we could be speeding up the process of CO2 shot into the environment due to additional electrical consumption of the blockchains.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-20/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/thoughts-on-nfts-algo-music-and-processes&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Creativity is a synthesis of two qualities: imagination and concreteness.&amp;rdquo; - &lt;em&gt;Pearl Zhu&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As NFTs are all the rage,  I thought I might lay out my thoughts and maybe inspire more conversation and thoughts. So I&amp;rsquo;ve intended this to be considered in small chunks.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I love the fact that the non-centralized infrastructure brings transparency to the masses.&lt;/li&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t like the idea that we could be speeding up the process of CO2 shot into the environment due to additional electrical consumption of the blockchains.&lt;/li&gt;&#xA;&lt;li&gt;I love the ability to see regular people make millions; I mean who doesn&amp;rsquo;t love a pauper to prince story.&lt;/li&gt;&#xA;&lt;li&gt;I worry about the &amp;ldquo;blitzkrieg&amp;rdquo; or gold rush that every artist/collector is having to make it big knowing many will be disappointed.&lt;/li&gt;&#xA;&lt;li&gt;I love technology to turn over entire industries; It helps distribute wealth to everyone.&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m concerned with fear-mongering by charged environmental activism and complacent climate denial.&lt;/li&gt;&#xA;&lt;li&gt;I love that innovation continues to provide new ways of wealth&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m concerned that simply talking about climate change and not using our own human ingenuity can cause an innovation recession.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;At the end of the day, it comes down to being thoughtful about consumption and how we are to contribute to the future.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ink Streams, Glitch Aesthetics and Generative Typography</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-19/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-19/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-19/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Set your imagination free and do your best to keep up with it.&amp;rdquo; - A.R. Fagundes
-Another week has come and gone.
-I am currently working on an essay trying to historically outline the world of generative art since the 1960s. I&amp;rsquo;d like to really trace the thread back to compile a little history just because I love origin stories and I also highlight our &amp;ldquo;ancestors&amp;rdquo; of the generative arts.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-19/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/ink-streams-glitch-aesthetics-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Set your imagination free and do your best to keep up with it.&amp;rdquo; - &lt;em&gt;A.R. Fagundes&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Another week has come and gone.&lt;/p&gt;&#xA;&lt;p&gt;I am currently working on an essay trying to historically outline the world of generative art since the 1960s. I&amp;rsquo;d like to really trace the thread back to compile a little history just because I love origin stories and I also highlight our &amp;ldquo;ancestors&amp;rdquo; of the generative arts. Also, I find it always a nod to the past helps understand what the future holds, and how our work is influenced by earlier artists from which we can gain insight.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Spiraling Arcs, Crypto Art, and Voronoi in Blender</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-18/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-18/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-18/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Set your imagination free and do your best to keep up with it.&amp;rdquo; - A.R. Fagundes
-Another week has come and gone.
-I am currently working on an essay trying to historically outline the world of generative art since the 1960s. I&amp;rsquo;d like to really trace the thread back to compile a little history just because I love origin stories and I also highlight our &amp;ldquo;ancestors&amp;rdquo; of the generative arts.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-18/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/spiraling-arcs-crypto-art-and-voronoi&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Set your imagination free and do your best to keep up with it.&amp;rdquo; - &lt;em&gt;A.R. Fagundes&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Another week has come and gone.&lt;/p&gt;&#xA;&lt;p&gt;I am currently working on an essay trying to historically outline the world of generative art since the 1960s. I&amp;rsquo;d like to really trace the thread back to compile a little history just because I love origin stories and I also highlight our &amp;ldquo;ancestors&amp;rdquo; of the generative arts. Also, I find it always a nod to the past helps understand what the future holds, and how our work is influenced by earlier artists from which we can gain insight.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Autonomous Artistry and the Physical</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-17/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-17/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-17/</guid>
-      <description>Originally posted on Substack
-“A work of art which did not begin in emotion is not art.&amp;quot; ― Paul Cezanne
-One of the things that I hope we continue to remember as &amp;ldquo;autonomous art&amp;rdquo; (i.e. currently GANs and generative artistic systems) becomes more apparent in the coming decade. Let&amp;rsquo;s not forget what makes art and the aesthetic beautiful. the process and the relationship one has with a piece of art.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-17/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/autonomous-artistry-and-the-physical&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“A work of art which did not begin in emotion is not art.&amp;quot;&#xA;― Paul Cezanne&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;One of the things that I hope we continue to remember as &amp;ldquo;autonomous art&amp;rdquo; (i.e. currently GANs and  generative artistic systems) becomes more apparent in the coming decade. Let&amp;rsquo;s not forget what makes art and the aesthetic beautiful. the process and the relationship one has with a piece of art.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Procedural Nodes, Self Organizing Textures, and Tyler Hobbs</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-16/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-16/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-16/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;If little else, the brain is an educational toy.&amp;rdquo; - Tom Robbins
-Well, there is about 6 hours worth of learnable content that I&amp;rsquo;ve attached this week. Most of it I&amp;rsquo;ve been able to race through.
-Tyler Hobbs Interview Being the first interview I&amp;rsquo;ve done this way. I am a little overwhelmed and self conscience but I decided that the beauty of generative is that sometimes the mistakes are just part of the output and should be kept.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-16/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/procedural-nodes-self-organizing&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If little else, the brain is an educational toy.&amp;rdquo; - Tom Robbins&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Well, there is about 6 hours worth of learnable content that I&amp;rsquo;ve attached this week. Most of it I&amp;rsquo;ve been able to race through.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tyler-hobbs-interview&#34;&gt;Tyler Hobbs Interview&lt;/h2&gt;&#xA;&lt;p&gt;Being the first interview I&amp;rsquo;ve done this way. I am a little overwhelmed and self conscience but I decided that the beauty of generative is that sometimes the mistakes are just part of the output and should be kept. I thoroughly enjoyed the conversation that we had as we talked through the following questions&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative Art and R</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-15/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-15/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-15/</guid>
-      <description>Originally posted on Substack
-Art is the imposing of a pattern on experience, and our aesthetic enjoyment is recognition of the pattern.&amp;quot; - Alfred North Whitehead
-R and Generative Art How do you like to see tools used for different things?
-I enjoy seeing a tool used for something entirely different.
-Take Excel, for example, it is a complicated calculator with a bunch of functions used for managing portfolios, budgeting, forecasting, to personal databases as the normal use case of Excel.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-15/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/generative-art-and-r&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Art is the imposing of a pattern on experience, and our aesthetic enjoyment is recognition of the pattern.&amp;quot; - &lt;em&gt;Alfred North Whitehead&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;r-and-generative-art&#34;&gt;R and Generative Art&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;How do you like to see tools used for different things?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I enjoy seeing a tool used for something entirely different.&lt;/p&gt;&#xA;&lt;p&gt;Take Excel, for example, it is a complicated calculator with a bunch of functions used for managing portfolios, budgeting, forecasting, to personal databases as the normal use case of Excel. Then you can get into those who have used it to create interfaces to databases, music &lt;a href=&#34;https://www.electronicbeats.net/the-feed/excel-drum-machine/&#34;&gt;beat sequencers&lt;/a&gt; and the game of &lt;a href=&#34;https://www.gamasutra.com/blogs/CBel/20180213/308549/3D_engine_entirely_made_of_MS_Excel_formulae__Enjoy_this_Doomxls_file_.php&#34;&gt;doom&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fine Art, Daily Code Sketches and Leaf Venation</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-12/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-12/</link>
       <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-12/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Vulnerability is the birthplace of innovation, creativity and change.&amp;rdquo; - Brene Brown
-Happy Weekend Friends!
-Its been a week. The people of the United States have much to consider for the future. It&amp;rsquo;s only through thoughtful debate and understanding on all sides in which we need to hash out our differences with patience, respect, kindness and vulnerability.
-Otherwise it is our animalistic nature that will take its course.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-12/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/fine-art-daily-code-sketches-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Vulnerability is the birthplace of innovation, creativity and change.&amp;rdquo; - Brene Brown&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Happy Weekend Friends!&lt;/p&gt;&#xA;&lt;p&gt;Its been a week. The people of the United States have much to consider for the future. It&amp;rsquo;s only  through thoughtful debate and understanding on all sides in which we need to hash out our differences with patience, respect, kindness and vulnerability.&lt;/p&gt;&#xA;&lt;p&gt;Otherwise it is our animalistic nature that will take its course. And if history has proven, it usually isn&amp;rsquo;t great.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fine Art, Daily Code Sketches and Leaf Venation</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-12/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-12/</link>
       <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-12/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Create with the heart; build with the mind.&amp;rdquo; - Criss Jami
-Good Morning!
-I&amp;rsquo;ve been wondering, &amp;ldquo;What is creativity and where does it come from?&amp;rdquo; Are we wired with certain default, &amp;ldquo;inspirations&amp;rdquo; of ideas that generate the corpus we have come up with today? I think of Carl Jung&amp;rsquo;s story archetypes and it would seem that there is evidence for a collective conscience.
-Yet, we still need to ask, are there entirely new ideas that have never been thought or created?</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-12/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/unbundling-creativity-and-jungs-archetypes&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Create with the heart; build with the mind.&amp;rdquo; - &lt;em&gt;Criss Jami&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good Morning!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been wondering, &amp;ldquo;What is creativity and where does it come from?&amp;rdquo; Are we wired with certain default, &amp;ldquo;inspirations&amp;rdquo; of ideas that generate the corpus we have come up with today? I think of &lt;a href=&#34;https://www.youtube.com/watch?v=wywUQc-4Opk&#34;&gt;Carl Jung&amp;rsquo;s story archetypes&lt;/a&gt; and it would seem that there is evidence for a collective conscience.&lt;/p&gt;&#xA;&lt;p&gt;Yet, we still need to ask, are there entirely new ideas that have never been thought or created?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>2021 has Come!</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-11/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-11/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-11/</guid>
-      <description>&amp;ldquo;Creativity is the brain&amp;rsquo;s invisible muscle &amp;ndash; that when used and excercised routinely &amp;ndash; becomes better and stronger.&amp;rdquo; - Ashley Ormon
-This is an abbreviated version of the newsletter to update last week. Due to the holidays, I haven&amp;rsquo;t finished the output in time for you to enjoy. But we will be back to normal next week.
-But first, we have an announcement&amp;hellip;. 🥁
-We have a winner!!!
-Daryl from Manitoba has won the giveaway!</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-11/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Creativity is the brain&amp;rsquo;s invisible muscle &amp;ndash; that when used and excercised routinely &amp;ndash; becomes better and stronger.&amp;rdquo; - &lt;strong&gt;Ashley Ormon&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is an abbreviated version of the newsletter to update last week. Due to the holidays, I haven&amp;rsquo;t finished the output in time for you to enjoy. But we will be back to normal next week.&lt;/p&gt;&#xA;&lt;p&gt;But first, we have an announcement&amp;hellip;. 🥁&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;We have a winner!!!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f33c9dc5-903f-4908-b58c-3370dec48d61/BookGiveaway_red_shadow.jpg&#34; alt=&#34;https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f33c9dc5-903f-4908-b58c-3370dec48d61/BookGiveaway_red_shadow.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Daryl from Manitoba has won the giveaway! I&amp;rsquo;ll have it out in the mail at some point next week!  Thank you all who participated and I hope that we will be able to do this at some point again in the future!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Can we use Simplex Noise to Generate Music?</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-10/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-10/</link>
       <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-10/</guid>
-      <description>Originally posted on Substack
-Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams. - Ashley Smith
-Good Morning Friends,
-I have to say that this is going out a little later than usual but I think you will find some of the articles today to be much more in the details around simplex noise and the like but not all.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-10/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/can-we-use-simplex-noise-to-generate&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Life is full of beauty. Notice it. Notice the bumble bee, the small child, and the smiling faces. Smell the rain, and feel the wind. Live your life to the fullest potential, and fight for your dreams. - &lt;strong&gt;Ashley Smith&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good Morning Friends,&lt;/p&gt;&#xA;&lt;p&gt;I have to say that this is going out a little later than usual but I think you will find some of the articles today to be much more in the details around simplex noise and the like but not all. There is always a little bit of everything. As for now, I wanted to put the following out there.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Would Picasso Use Code to Generate Art?</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-9/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-9/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-9/</guid>
-      <description>&amp;ldquo;Art is not what you see, but what you make others see.&amp;rdquo; - Edgar Degas
-The soul of art is depicted in the quote so well. Art is&amp;hellip; a little hard to pin down with words but it isn&amp;rsquo;t just simply the act of transcribing from the physical world to paper.
-So what is it?
-We do know it is important to us. We dedicate entire buildings to the collection of art, we have art stores, art classes, and even entire markets that deal in it.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-9/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Art is not what you see, but what you make others see.&amp;rdquo; - &lt;em&gt;Edgar Degas&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The soul of art is depicted in the quote so well.  Art is&amp;hellip; a little hard to pin down with words but it isn&amp;rsquo;t just simply the act of transcribing from the physical world to paper.&lt;/p&gt;&#xA;&lt;p&gt;So what is it?&lt;/p&gt;&#xA;&lt;p&gt;We do know it is important to us. We dedicate entire buildings to the collection of art, we have art stores, art classes, and even entire markets that deal in it. We even dedicate entire academic disciplines to its techniques and cherish its history as we remember titans such Picasso, DaVinci or Michelangelo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-8/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-8/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-8/</guid>
-      <description>&amp;ldquo;The noblest pleasure is the joy of understanding.&amp;rdquo; - Leonardo da Vinci
-Good morning friends,
-We are but a couple weeks away from Christmas having officially rung the bells of another Christmas season. Albeit, it is far from the traditional in store experiences of long lines snaking through the store and popping out at the seams. This year, across the globe our store fronts have transitioned to the internet. And there are some great advantages of it.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-8/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The noblest pleasure is the joy of understanding.&amp;rdquo; - Leonardo da Vinci&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good morning friends,&lt;/p&gt;&#xA;&lt;p&gt;We are but a couple weeks away from Christmas having officially rung the bells of another Christmas season. Albeit, it is far from the traditional in store experiences of long lines snaking through the store and popping out at the seams. This year, across the globe our store fronts have transitioned to the internet. And there are some great advantages of it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative WebAssembly Music, Climate Change and Exploring Differential Growth</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-7/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-7/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-7/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;Curiosity is the main energy&amp;hellip;&amp;rdquo; - Robert Rauschenberg
-Here in the US, we just celebrated Thanksgiving Day, but with this unfortunate year; many of us have not been able to see our family due to restrictions, lock downs, etc. Yet there are always things that we can be thankful. For me is technology, programming languages and the ability to create using them and have done alot more this year than I have done in previously.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-7/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/rethinking-climate-change-awareness&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Curiosity is the main energy&amp;hellip;&amp;rdquo; - &lt;em&gt;Robert Rauschenberg&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Here in the US, we  just celebrated Thanksgiving Day, but with this unfortunate year; many of us have not been able to see our family due to restrictions, lock downs, etc. Yet there are always things that we can be thankful. For me is technology, programming languages and the ability to create using them and have done alot more this year than I have done in previously.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Multiplayer Stable Diffusion, Song of Life, and Simulating Rope</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-54/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-54/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-54/</guid>
-      <description>Originally posted on Substack
-The need to be right all the time is the biggest bar there is to new ideas. -Edward D Bono
-Good morning!
-Hope you have had a great week!
-This week I’ve a few links to some musical platforms. Hope you find some inspiration to make some interesting works by simply experimenting with various implementations. There are definitely way more ways to do this out there but I’d highlight some of the less frequently used visual programming platforms for your enjoyment.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-54/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/multiplayer-stable-diffusion-song&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The need to be right all the time is the biggest bar there is to new ideas. -Edward D Bono&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Good morning!&lt;/p&gt;&#xA;&lt;p&gt;Hope you have had a great week!&lt;/p&gt;&#xA;&lt;p&gt;This week I’ve a few links to some musical platforms. Hope you find some inspiration to make some interesting works by simply experimenting with various implementations. There are definitely way more ways to do this out there but I’d highlight some of the less frequently used visual programming platforms for your enjoyment.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-6/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-6/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-6/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;The greatest value of a picture is when it forces us to notice what we never expected to see.&amp;rdquo; -John Tukey
-Hello friends,
-I hope that you all have had another amazing week being creative.
-A bunch of you have left feedback that you want to see more code; and so I have added a section called &amp;ldquo;Snippet of the Week&amp;rdquo; in which I will highlight shorter pieces of code that inspire me to further play with it and mutate it to being something else.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-6/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/cloud-fractals-blooms-and-spinning&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The greatest value of a picture is when it forces us to notice what we never expected to see.&amp;rdquo; -John Tukey&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello friends,&lt;/p&gt;&#xA;&lt;p&gt;I hope that you all have had another amazing week being creative.&lt;/p&gt;&#xA;&lt;p&gt;A bunch of you have left feedback that you want to see more code; and so I have added a section called &amp;ldquo;Snippet of the Week&amp;rdquo; in which I will highlight shorter pieces of code that inspire me to further play with it and mutate it to being something else.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative Art, Touch Designer and Genuary 2021</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-14/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-14/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-14/</guid>
-      <description>Originally posted on Substack
-The art of resting the mind and the power of dismissing from it all care and worry is probably one of the secrets of our great men. - Captain J. A. Hatfield
-My apologies for not being able to put together a newsletter last week. There was so much going on in the week that I hadn&amp;rsquo;t found the bandwidth to put it together and then needed a little R&amp;amp;D over the weekend.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-14/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/generative-art-touch-designer-and&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The art of resting the mind and the power of dismissing from it all care and worry is probably one of the secrets of our great men. - &lt;em&gt;&lt;strong&gt;Captain J. A. Hatfield&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;My apologies for not being able to put together a newsletter last week. There was so much going on in the week that I hadn&amp;rsquo;t found the bandwidth to put it together and then needed a little R&amp;amp;D over the weekend.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Poetic Gameplay, Emergent Structures, and Bending Light</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-30/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-30/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-30/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;scattered star-light falls a faint birdsong on the water&amp;rsquo;s surface&amp;rdquo; - Wayfinder
-The poem was the generative haiku that was generated as I played through Wayfinder. What is it you ask?
-Wayfinder is a web-based generative art game that takes the player on a contemplative cause-and-effect journey through nature. Symbolizing the give-and-take relationship humans have with the natural world, players move a mystical character through forest, grasslands and tundra in search of poetic tokens dotting the landscape.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-30/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/poetic-gameplay-emergent-structures&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;scattered star-light falls&#xA;a faint birdsong&#xA;on the water&amp;rsquo;s surface&amp;rdquo; - &lt;em&gt;Wayfinder&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The poem was the generative haiku that was generated as I played through Wayfinder. What is it you ask?&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Wayfinder is a web-based generative art game that takes the player on a contemplative cause-and-effect journey through nature. Symbolizing the give-and-take relationship humans have with the natural world, players move a mystical character through forest, grasslands and tundra in search of poetic tokens dotting the landscape. When activated, they reveal words hidden in the wind, breathing new life into the nearby flora and fauna. Leaves stir and flowers spring up in the character&amp;rsquo;s footsteps. Birds and butterflies emerge. As the player continues on their journey, these uncovered words combine into verse, expressing our eternal need to capture nature’s fleeting moments in poetry.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What is the Future of Generative Art?</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-36/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-36/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-36/</guid>
-      <description>Originally posted on Substack
-&amp;ldquo;A blank canvas&amp;hellip;has unlimited possibilities.&amp;rdquo; - Stephanie Perkins
-I&amp;rsquo;ve spent a significant amount of time thinking about the question,
-What does generative art looks like in the future? When reading through the hurdles that 60s technology (and earlier) was able to produce and I have to sit and ponder. With their limitations in processing, cost and storage, input constraints, technical abilities, one has to stop and think about what does pushing those bounds look like today.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-36/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/what-is-the-future-of-generative&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;A blank canvas&amp;hellip;has unlimited possibilities.&amp;rdquo; - Stephanie Perkins&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve spent a significant amount of time thinking about the question,&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-does-generative-art-looks-like-in-the-future&#34;&gt;What does generative art looks like in the future?&lt;/h2&gt;&#xA;&lt;p&gt;When reading through the hurdles tha&lt;a href=&#34;https://monoskop.org/File:Dietrich_Frank_Visual_Intelligence_The_First_Decade_of_Computer_Art_1965-1975_1986.pdf&#34;&gt;t 60s technology (and earlier)&lt;/a&gt; was able to produce and I have to sit and ponder.  With their limitations in processing, cost and storage, input constraints, technical abilities, one has to stop and think about what does pushing those bounds look like today.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generating Surprise, Algoart w/ Flutter and Natural Processes</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-5/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-5/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-5/</guid>
-      <description>Originally posted on Substack
-“All art is quite useless.” — but maybe useless is what we need right now. Oscar Wilde
-Hello Friends!
-This week has been a wonderful week full of interesting links and experimentation for myself and I hope that they were the same for you.
-Below there is an article called &amp;ldquo;A CRITIQUE OF SURPRISE IN GENERATIVE ART&amp;rdquo; that has left interesting questions on the validity of generative art in light of artwork from the postmodern periods.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-5/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/generating-surprise-algoart-w-flutter&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“All art is quite useless.” — but maybe useless is what we need right now. Oscar Wilde&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello Friends!&lt;/p&gt;&#xA;&lt;p&gt;This week has been a wonderful week full of interesting links and experimentation for myself and I hope that they were the same for you.&lt;/p&gt;&#xA;&lt;p&gt;Below there is an article called &amp;ldquo;A CRITIQUE OF SURPRISE IN GENERATIVE ART&amp;rdquo; that has left  interesting questions on the validity of generative art in light of artwork from the postmodern periods.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Feynman, Algorithmic Orchestration and Node Based Programming</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-4/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-4/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-4/</guid>
-      <description>Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.&amp;quot; - Scott Adams
-This last week I finished the book, &amp;ldquo;Your Joking Mr. Feynman&amp;rdquo; and I have to say that Feynman would have loved to work in the Generative Arts. (And by the way, this is a great listen (free w/ Audible subscription.) . A greatly influential scientist of the 20th century but not your lab rat; but one who would have done almost anything to experience.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-4/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.&amp;quot; - &lt;em&gt;Scott Adams&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This last week I finished the book, &amp;ldquo;&lt;a href=&#34;https://amzn.to/2I7WjrZ&#34;&gt;Your Joking Mr. Feynman&lt;/a&gt;&amp;rdquo; and I have to say that Feynman would have loved to work in the Generative Arts. (And by the way, this is a great listen (free w/ Audible subscription.)  . A greatly influential scientist of the 20th century  but not your lab rat; but one who would have done almost anything to experience. This overly curious individual would have been so fascinating to be around and to just observe.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative Arts Weekly #003</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-3/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-3/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-3/</guid>
-      <description>&amp;ldquo;You can&amp;rsquo;t use up creativity. The more you use, the more you have.&amp;rdquo; - Maya Angelou
-This week&amp;rsquo;s letter is a little delayed due to being on vacation and trying to get in as much beach time before the tropical storms come. But it is always empowering to listen to the ocean and the sound that it makes. I mean the very nature of chaos that it controls due to the power of the waves is astounding.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;You can&amp;rsquo;t use up creativity. The more you use, the more you have.&amp;rdquo; - &lt;em&gt;Maya Angelou&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This week&amp;rsquo;s letter is a little delayed due to being on vacation and trying to get in as much beach time before the tropical storms come. But it is always empowering to listen to the ocean and the sound that it makes. I mean the very nature of chaos that it controls due to the power of the waves is astounding. The way that nature can shape and form all due to the system in which it has been set up, controlled, or becoming what it is.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative Arts Weekly #002</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-2/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-2/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-2/</guid>
-      <description>“ Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light, and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic. Authenticity is invaluable; originality is non-existent. And don&amp;rsquo;t bother concealing your thievery - celebrate it if you feel like it. In any case, always remember what Jean-Luc Godard said: Worry not where you take things from - it&amp;rsquo;s where you take them to.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“ Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light, and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic. Authenticity is invaluable; originality is non-existent. And don&amp;rsquo;t bother concealing your thievery - celebrate it if you feel like it. In any case, always remember what Jean-Luc Godard said: Worry not where you take things from - it&amp;rsquo;s where you take them to. - &lt;em&gt;Jim Jarmusch&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Generative Arts Weekly #001</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-1/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-1/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-1/</guid>
-      <description>Originally posted on Substack
-“Nothing&amp;rsquo;s perfect, the world&amp;rsquo;s not perfect. But it&amp;rsquo;s there for us, trying the best it can; that&amp;rsquo;s what makes it so beautiful.” - Hiromu Arakaw
-The beauty of art is that it is experimental, its emotional, it&amp;rsquo;s spiritual and as an artist, it helps better understand who we are and why we are by expressing the inner self. It can be a medium of unity, it can be a cry for anarchy.</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-1/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/001-generative-arts-weekly&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Nothing&amp;rsquo;s perfect, the world&amp;rsquo;s not perfect. But it&amp;rsquo;s there for us, trying the best it can; that&amp;rsquo;s what makes it so beautiful.”  - &lt;em&gt;Hiromu Arakaw&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The beauty of art is that it is experimental, its emotional, it&amp;rsquo;s spiritual and as an artist, it helps better understand who we are and why we are by expressing the inner self. It can be a medium of unity, it can be a cry for anarchy. It can be informative, or it can just be there because we can. It&amp;rsquo;s one of the wonders we possess as humans.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-52/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-52/</guid>
-      <description>The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips
-Hello fellow readers,
-Hope your Friday morning / afternoon is going well. There are a number of interesting links below for you to digest and swallow.
-And for just a little inspiration…
-If you haven’t seen the work by Tyler Boswell definitely check out his work September
-https://twitter.com/cosipiovasc0/status/1577370812624998400?s=20&amp;amp;t=JvG3Se3lkkg-r9GIcmg2Ew
-Have a wonderful weekend!</description>
-    </item>
-    
   </channel>
 </rss>

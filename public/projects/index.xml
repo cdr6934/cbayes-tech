@@ -1,341 +1,250 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lined Up Imperfectly</title>
-      <link>https://generativecollective.com/projects/lined-up-imperfectly/</link>
+      <link>http://localhost:1313/projects/lined-up-imperfectly/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/lined-up-imperfectly/</guid>
-      <description>The collection has clothlike qualities but still lies in fundamental structures as we experiment and try to understand the intersection between the rigid and fluid.
-#1
-#2
-#3
-#4</description>
+      <guid>http://localhost:1313/projects/lined-up-imperfectly/</guid>
+      <description>&lt;p&gt;The collection has clothlike qualities but still lies in fundamental structures as we experiment and try to understand the intersection between the rigid and fluid.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643863569_95d0f62c31_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783743&#34;&gt;#1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644079718_82939232ff_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783746&#34;&gt;#2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643606966_b32023bf52_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783748&#34;&gt;#3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643100912_892f547cf8_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783752&#34;&gt;#4&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Granular Blocks of Play</title>
-      <link>https://generativecollective.com/projects/granular-blocks-of-play/</link>
+      <link>http://localhost:1313/projects/granular-blocks-of-play/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/granular-blocks-of-play/</guid>
-      <description>I&amp;rsquo;ve been experimenting with creating blocks or rectangles with various color gradients using the pixelated variations. It is by far a most satisfying when you can then take it and use sin waves to give the edges a little more interesting flow.</description>
+      <guid>http://localhost:1313/projects/granular-blocks-of-play/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been experimenting with creating blocks or rectangles with various color gradients using the pixelated variations. It is by far a most satisfying when you can then take it and use sin waves to give the edges a little more interesting flow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52634492525_45790feec6_z_d.jpg&#34; alt=&#34;Granular Blocks of Play #1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52642235257_59cfdf949f_z_d.jpg&#34; alt=&#34;Granular Blocks of Play #2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52642999254_4303d0e096_z_d.jpg&#34; alt=&#34;Granular Blocks of Play #3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52642235287_2ffd7d8a32_z_d.jpg&#34; alt=&#34;Granular Blocks of Play #4&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Celestial Collisions</title>
-      <link>https://generativecollective.com/projects/celestial-collisions/</link>
+      <link>http://localhost:1313/projects/celestial-collisions/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/celestial-collisions/</guid>
-      <description>The following project spanned across 800 editions that were released on FXHash in Dec 2021. Conceptually, this was a meditation on scale and collision. Scale is intuitively misunderstood by humans. We have a poor judgement how big, or how small things really are as we do not have a reference of comparison.
-It may be due to the fact that these scales are recent discoveries.
-We have seen stars for millenium, but we have not had a good understanding at their size until&amp;hellip; The same goes for really small items.</description>
+      <guid>http://localhost:1313/projects/celestial-collisions/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52634330699_395f9fc45d_c_d.jpg&#34; alt=&#34;Celestial Collisions&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The following project spanned across 800 editions that were released on &lt;a href=&#34;https://www.fxhash.xyz/generative/3493&#34;&gt;FXHash&lt;/a&gt; in Dec 2021. Conceptually, this was a meditation on scale and collision. Scale is intuitively misunderstood by humans. We have a poor judgement how big, or how small things really are as we do not have a reference of comparison.&lt;/p&gt;&#xA;&lt;p&gt;It may be due to the fact that these scales are recent discoveries.&lt;/p&gt;&#xA;&lt;p&gt;We have seen stars for millenium, but we have not had a good understanding at their size until&amp;hellip; The same goes for really small items. It was less than 150 years ago when we realized the microscopic bacteria that pervades every surface of our lives.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Asemic Palimpsest</title>
-      <link>https://generativecollective.com/projects/asemic-palimpsest/</link>
+      <link>http://localhost:1313/projects/asemic-palimpsest/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/asemic-palimpsest/</guid>
-      <description>Fonts, texts and pens have always been a part of who I am. Much of my growing up years</description>
+      <guid>http://localhost:1313/projects/asemic-palimpsest/</guid>
+      <description>&lt;p&gt;Fonts, texts and pens have always been a part of who I am. Much of my growing up years&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643084237_2bed42c816_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643084212_da1e07101d_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643846354_2fb1a7e7f4_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643084247_4cb51c42b6_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644029945_a2e0f4cb6f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geometric Meditations</title>
-      <link>https://generativecollective.com/projects/geometric-meditations/</link>
+      <link>http://localhost:1313/projects/geometric-meditations/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/geometric-meditations/</guid>
-      <description>These are some of my favorite things.. the grid and then building an image inside each of the grids has a sense of satisfaction to me. I am not quite sure what that is, but it is quite swell.</description>
+      <guid>http://localhost:1313/projects/geometric-meditations/</guid>
+      <description>&lt;p&gt;These are some of my favorite things.. the grid and then building an image inside each of the grids has a sense of satisfaction to me. I am not quite sure what that is, but it is quite swell.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644032610_c9c265a5a1_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643592816_c54f01ec5f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643592821_492b92d329_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644065428_e65abd0cca_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643849109_8b029e3879_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>In the Light</title>
-      <link>https://generativecollective.com/projects/in-the-light/</link>
+      <link>http://localhost:1313/projects/in-the-light/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/in-the-light/</guid>
-      <description>Much of my work will include elements of nature. Simply because I am obsessed by it and it&amp;rsquo;s where I find the most inspiration and peace in life.
-In the light is a bit of a play toward that..</description>
+      <guid>http://localhost:1313/projects/in-the-light/</guid>
+      <description>&lt;p&gt;Much of my work will include elements of nature. Simply because I am obsessed by it and it&amp;rsquo;s where I find the most inspiration and peace in life.&lt;/p&gt;&#xA;&lt;p&gt;In the light is a bit of a play toward that..&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643217434_965657ab47_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643433273_b6bf809e24_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643433178_18cee2db6d_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52642959626_38bc1544a0_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643432898_6dae78c985_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643216759_637bc30870_z.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52642959196_73c3733553_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dark City</title>
-      <link>https://generativecollective.com/projects/dark-city/</link>
+      <link>http://localhost:1313/projects/dark-city/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/dark-city/</guid>
-      <description>This just reminds me of cities after dark and the lighting that just doesn&amp;rsquo;t quite have a comfortable effect.
-These pieces were created to be NFTs on the Tezos blockchain. You can view it on Objkt
-#1
-#2
-#3
-#4
-#5
-#6
-#7
-#8
-#9
-#10
-#11
-#12</description>
+      <guid>http://localhost:1313/projects/dark-city/</guid>
+      <description>&lt;p&gt;This just reminds me of cities after dark and the lighting that just doesn&amp;rsquo;t quite have a comfortable effect.&lt;/p&gt;&#xA;&lt;p&gt;These pieces were created to be NFTs on the Tezos blockchain. You can view it on &lt;a href=&#34;https://objkt.com/asset/hicetnunc/318668&#34;&gt;Objkt&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643631311_4640bc9aac_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318668&#34;&gt;#1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643124902_cf4101f720_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318670&#34;&gt;#2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643124882_0b97bd9728_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318696&#34;&gt;#3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644070765_e60806dcf0_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318682&#34;&gt;#4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644103933_9a984d3444_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318742&#34;&gt;#5&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644070760_9528d64041_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318893&#34;&gt;#6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644070750_829feefdf5_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318901&#34;&gt;#7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643124832_72c8776c95_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/318903&#34;&gt;#8&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643887379_074835ec55_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/332763&#34;&gt;#9&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644070725_0d2f97a9b2_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/350132&#34;&gt;#10&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644070715_2fc405d531_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/350137&#34;&gt;#11&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644070705_f7c96319c2_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/350140&#34;&gt;#12&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Like The Emperors Robe</title>
-      <link>https://generativecollective.com/projects/emperors-robe/</link>
+      <link>http://localhost:1313/projects/emperors-robe/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/emperors-robe/</guid>
-      <description>The following generative piece appears like the robe of an emperor. When looking closely, you will find that each square is unique as it builds a web of fabric. You can find the pieces on Objkt</description>
+      <guid>http://localhost:1313/projects/emperors-robe/</guid>
+      <description>&lt;p&gt;The following generative piece appears like the robe of an emperor. When looking closely, you will find that each square is unique as it builds a web of fabric. You can find the pieces on &lt;a href=&#34;https://objkt.com/asset/hicetnunc/295122&#34;&gt;Objkt&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643909544_104dff498f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643146172_42c907c541_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644125908_7bd45c1932_b_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653476_3e50b0698c_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653491_1ab6b16cb7_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644091960_b91d09a81b_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653526_172e13c5a7_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644091960_b91d09a81b_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653491_1ab6b16cb7_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653476_3e50b0698c_w_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644125908_7bd45c1932_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643146172_42c907c541_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643909544_104dff498f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Everyday Luxury in Nines</title>
-      <link>https://generativecollective.com/projects/everything-luxury-in-nines/</link>
+      <link>http://localhost:1313/projects/everything-luxury-in-nines/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/everything-luxury-in-nines/</guid>
-      <description>The following generative piece emphasizes a set of 9 illusions all telling a different story. In history, 9 has been signified as a number of divine completeness. However completeness is usually clean and luxuriant, here the image contrasts the everyday messiness of life. Each element of 9 tells a familiar but different story. Can you find yours?</description>
+      <guid>http://localhost:1313/projects/everything-luxury-in-nines/</guid>
+      <description>&lt;p&gt;The following generative piece emphasizes a set of 9 illusions all telling a different story. In history, 9 has been signified as a number of divine completeness. However completeness is usually clean and luxuriant, here the image contrasts the everyday messiness of life. Each element of 9 tells a familiar but different story. Can you find yours?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643923804_42a70cdca4_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>End of Summer Reign</title>
-      <link>https://generativecollective.com/projects/end-of-summer-reign/</link>
+      <link>http://localhost:1313/projects/end-of-summer-reign/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/end-of-summer-reign/</guid>
-      <description>The following generative piece imagines the end of summer. These can be found on Objkt</description>
+      <guid>http://localhost:1313/projects/end-of-summer-reign/</guid>
+      <description>&lt;p&gt;The following generative piece imagines the end of summer. These can be found on &lt;a href=&#34;https://objkt.com/asset/hicetnunc/267029&#34;&gt;Objkt&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644152590_14b3845394_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643969654_caf34219c1_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644186883_a30b1f4ece_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644152590_14b3845394_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643714401_fdabc6df99_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643714371_e3d503e666_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644152570_06c102ea73_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643714331_bec89f7625_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643969584_0eca26ff24_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643207307_547fdae7bc_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644152475_c6e56c305c_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643969524_ab1fdfa68f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643207267_3221960a36_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643714276_5eaaecc4be_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643714261_c50366bd08_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644152425_2f0aed9bac_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643714236_483bdd598e_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643714216_c62af07886_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643969434_ca2b2ba13e_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Turning Winters</title>
-      <link>https://generativecollective.com/projects/turning-winters/</link>
+      <link>http://localhost:1313/projects/turning-winters/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/turning-winters/</guid>
-      <description>The following layered spiral contemplation</description>
+      <guid>http://localhost:1313/projects/turning-winters/</guid>
+      <description>&lt;p&gt;The following layered spiral contemplation&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643675641_ef434f14bd_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644147713_25484d5f73_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643675616_764e816c1a_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644113405_74c69220bd_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643167567_4e58617549_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643930644_132b86bcb0_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644147638_3f0c73f3d4_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>In Summer and Splashpads</title>
-      <link>https://generativecollective.com/projects/in-summer-and-splashpads/</link>
+      <link>http://localhost:1313/projects/in-summer-and-splashpads/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/in-summer-and-splashpads/</guid>
-      <description>Its at the end of summer and it brings happiness to all! When looking closer every shape is made up of small ovals that are layered in a very specific pattern. Some of the ovals are spread out more, others are different shades, transparent and variations of each color.</description>
+      <guid>http://localhost:1313/projects/in-summer-and-splashpads/</guid>
+      <description>&lt;p&gt;Its at the end of summer and it brings happiness to all! When looking closer every shape is made up of small ovals that are layered in a very specific pattern. Some of the ovals are spread out more, others are different shades, transparent and variations of each color.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643939434_002d59cc9e_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643684076_f5c8493586_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644156323_0bfa265b57_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643683941_049f49e362_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643939189_5cb9ae3a7e_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643683836_a4d833c430_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643939044_0ca28b9146_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643683681_6fa9a2f798_c_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cubic Spirals</title>
-      <link>https://generativecollective.com/projects/cubic-spirals/</link>
+      <link>http://localhost:1313/projects/cubic-spirals/</link>
       <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/cubic-spirals/</guid>
+      <guid>http://localhost:1313/projects/cubic-spirals/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Surrealism</title>
-      <link>https://generativecollective.com/projects/surrealism/</link>
+      <link>http://localhost:1313/projects/surrealism/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/surrealism/</guid>
+      <guid>http://localhost:1313/projects/surrealism/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Zhufu</title>
-      <link>https://generativecollective.com/projects/zhufu/</link>
+      <link>http://localhost:1313/projects/zhufu/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/zhufu/</guid>
+      <guid>http://localhost:1313/projects/zhufu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Deceptively Simple</title>
-      <link>https://generativecollective.com/projects/deceptively-simple/</link>
+      <link>http://localhost:1313/projects/deceptively-simple/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/deceptively-simple/</guid>
+      <guid>http://localhost:1313/projects/deceptively-simple/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hypnotic Stasis</title>
-      <link>https://generativecollective.com/projects/hypnotic-stasis/</link>
+      <link>http://localhost:1313/projects/hypnotic-stasis/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/hypnotic-stasis/</guid>
+      <guid>http://localhost:1313/projects/hypnotic-stasis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Triangular Explosions</title>
-      <link>https://generativecollective.com/projects/triangular-explosions/</link>
+      <link>http://localhost:1313/projects/triangular-explosions/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/triangular-explosions/</guid>
+      <guid>http://localhost:1313/projects/triangular-explosions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Locusts Armageddon</title>
-      <link>https://generativecollective.com/projects/locusts-armageddon/</link>
+      <link>http://localhost:1313/projects/locusts-armageddon/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/locusts-armageddon/</guid>
+      <guid>http://localhost:1313/projects/locusts-armageddon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Imprints of a Dandilion</title>
-      <link>https://generativecollective.com/projects/imprints-of-a-dandilion/</link>
+      <link>http://localhost:1313/projects/imprints-of-a-dandilion/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/imprints-of-a-dandilion/</guid>
+      <guid>http://localhost:1313/projects/imprints-of-a-dandilion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Psychadelic Squares</title>
-      <link>https://generativecollective.com/projects/psychadelic-squares/</link>
+      <link>http://localhost:1313/projects/psychadelic-squares/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/psychadelic-squares/</guid>
+      <guid>http://localhost:1313/projects/psychadelic-squares/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Primitive Prophesy</title>
-      <link>https://generativecollective.com/projects/primitive-prophesy/</link>
+      <link>http://localhost:1313/projects/primitive-prophesy/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/primitive-prophesy/</guid>
+      <guid>http://localhost:1313/projects/primitive-prophesy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Experiments In Chaos</title>
-      <link>https://generativecollective.com/projects/experiments-in-chaos/</link>
+      <link>http://localhost:1313/projects/experiments-in-chaos/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/experiments-in-chaos/</guid>
+      <guid>http://localhost:1313/projects/experiments-in-chaos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pipelines</title>
-      <link>https://generativecollective.com/projects/pipelines/</link>
+      <link>http://localhost:1313/projects/pipelines/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/pipelines/</guid>
+      <guid>http://localhost:1313/projects/pipelines/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Square and Rectangular</title>
-      <link>https://generativecollective.com/projects/square-and-rectangular/</link>
+      <link>http://localhost:1313/projects/square-and-rectangular/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/square-and-rectangular/</guid>
+      <guid>http://localhost:1313/projects/square-and-rectangular/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Photons and Light Sources</title>
-      <link>https://generativecollective.com/projects/photons-and-light-sources/</link>
+      <link>http://localhost:1313/projects/photons-and-light-sources/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/photons-and-light-sources/</guid>
+      <guid>http://localhost:1313/projects/photons-and-light-sources/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dinos In Birthday Hats</title>
-      <link>https://generativecollective.com/projects/dinos-in-birthday-hats/</link>
+      <link>http://localhost:1313/projects/dinos-in-birthday-hats/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/dinos-in-birthday-hats/</guid>
+      <guid>http://localhost:1313/projects/dinos-in-birthday-hats/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simplified Containment</title>
-      <link>https://generativecollective.com/projects/simplified-containment/</link>
+      <link>http://localhost:1313/projects/simplified-containment/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/simplified-containment/</guid>
+      <guid>http://localhost:1313/projects/simplified-containment/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Experimenting With Fuzzy Circles</title>
-      <link>https://generativecollective.com/projects/experimenting-with-fuzzy-circles/</link>
+      <link>http://localhost:1313/projects/experimenting-with-fuzzy-circles/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/experimenting-with-fuzzy-circles/</guid>
+      <guid>http://localhost:1313/projects/experimenting-with-fuzzy-circles/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Whispering Wisps</title>
-      <link>https://generativecollective.com/projects/whispering-sisps/</link>
+      <link>http://localhost:1313/projects/whispering-sisps/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/whispering-sisps/</guid>
+      <guid>http://localhost:1313/projects/whispering-sisps/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Arc Wheels</title>
-      <link>https://generativecollective.com/projects/arc-wheels/</link>
+      <link>http://localhost:1313/projects/arc-wheels/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/arc-wheels/</guid>
+      <guid>http://localhost:1313/projects/arc-wheels/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Fleur-d-Square</title>
-      <link>https://generativecollective.com/projects/fleur-d-square/</link>
+      <link>http://localhost:1313/projects/fleur-d-square/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/fleur-d-square/</guid>
+      <guid>http://localhost:1313/projects/fleur-d-square/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Brush Fade</title>
-      <link>https://generativecollective.com/projects/brush-fade/</link>
+      <link>http://localhost:1313/projects/brush-fade/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/brush-fade/</guid>
+      <guid>http://localhost:1313/projects/brush-fade/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Shape Shifting</title>
-      <link>https://generativecollective.com/projects/shape-shifting/</link>
+      <link>http://localhost:1313/projects/shape-shifting/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/shape-shifting/</guid>
+      <guid>http://localhost:1313/projects/shape-shifting/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

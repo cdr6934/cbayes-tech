@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/books/</link>
-    <description>Recent content in books on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Books on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/books/</link>
+    <description>Recent content in Books on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Great Statistics Books to Read</title>
-      <link>https://generativecollective.com/posts/great-statistics-books-to-read/</link>
+      <link>http://localhost:1313/posts/great-statistics-books-to-read/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/great-statistics-books-to-read/</guid>
-      <description>Following you will find a number of the best books to learn more about statistics and its philosophy.
-Opinionated Lessons on Statistics Introduction to Statistical Learning The Elements of Statistical Learning Applied Predicitive Modeling Statistical Inference Statistical Rethinking Data Analysis Using Regression and Multilevel/Hierarchical Models Mostly Harmless Econometrics Mastering Metrics: The Path from Cause to Effect All of Statistics Statistics Statistics for Experimenters Think Bayes Computer Age Statistical Inference Think Stats Machine Learning for Hackers Probability and Statistics Statistical Evidence: A likelihood paradigm </description>
+      <guid>http://localhost:1313/posts/great-statistics-books-to-read/</guid>
+      <description>&lt;p&gt;Following you will find a number of the best books to learn more about statistics and its philosophy.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://wpressutexas.net/coursewiki/index.php/OpinionatedLessons.org/&#34;&gt;Opinionated Lessons on Statistics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www-bcf.usc.edu/~gareth/ISL/&#34;&gt;Introduction to Statistical Learning&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/~hastie/ElemStatLearn/&#34;&gt;The Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://appliedpredictivemodeling.com/&#34;&gt;Applied Predicitive Modeling&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126&#34;&gt;Statistical Inference&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://xcelab.net/rm/statistical-rethinking/&#34;&gt;Statistical Rethinking&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.stat.columbia.edu/~gelman/arm/&#34;&gt;Data Analysis Using Regression and Multilevel/Hierarchical Models&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://press.princeton.edu/titles/8769.html&#34;&gt;Mostly Harmless Econometrics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://press.princeton.edu/titles/10363.html&#34;&gt;Mastering Metrics: The Path from Cause to Effect&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225&#34;&gt;All of Statistics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Statistics-Third-David-Freedman/dp/0393970833/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1507057240&amp;amp;sr=1-1&amp;amp;keywords=statistics+freedman+3rd+e&#34;&gt;Statistics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/0471718130/ref=cm_sw_r_cp_ep_dp_Xja1zb9FANZ71&#34;&gt;Statistics for Experimenters&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://greenteapress.com/wp/think-bayes/&#34;&gt;Think Bayes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/~hastie/CASI/&#34;&gt;Computer Age Statistical Inference&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://greenteapress.com/wp/think-stats-2e/&#34;&gt;Think Stats&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920018483.do&#34;&gt;Machine Learning for Hackers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://mplab.ucsd.edu/tutorials/ProbabilityAndStats.pdf&#34;&gt;Probability and Statistics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Statistical-Evidence-Likelihood-Monographs-Probability/dp/0412044110&#34;&gt;Statistical Evidence: A likelihood paradigm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

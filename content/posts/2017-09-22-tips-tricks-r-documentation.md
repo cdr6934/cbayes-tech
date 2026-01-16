@@ -2,13 +2,13 @@
 title: Tips on Creating Effective and Functional Documentation in R 
 author: Chris R. 
 date: '2017-09-22'
-slug: tips-creating-functional-documention
+slug: tips-creating-functional-documentation
 categories:
 tags: ['r','documentation','packages','roxygen']
 
 ---
 
- Just like any skill, there is a learning curve involved in creating effective communication. This involves the code written and the documentation of its usage. Writing functional code is a intricate thing to accomplish as a newbie. It takes time to know what is efficient and how to communicate it as such. Now, writing functional documentation is more complicated as there is a delicate balance between not reguritate what the code says, and giving usable pointers to the users on how a particular function was intended to be used. It also, keeps you in line as the coder practices by actively thinking about that balance. Thus you help yourself keeping it modular and simple. So here are a few tips on how to writing effective documentation. 
+ Just like any skill, there is a learning curve involved in creating effective communication. This involves the code written and the documentation of its usage. Writing functional code is a intricate thing to accomplish as a newbie. It takes time to know what is efficient and how to communicate it as such. Now, writing functional documentation is more complicated as there is a delicate balance between not regurgitating what the code says, and giving usable pointers to the users on how a particular function was intended to be used. It also, keeps you in line as the coder practices by actively thinking about that balance. Thus you help yourself keeping it modular and simple. So here are a few tips on how to writing effective documentation. 
 
 
 ### 1. Keep It Simple Stupid (KISS)
@@ -23,7 +23,7 @@ tags: ['r','documentation','packages','roxygen']
 * Document the class / type of data that is being passed into the function and name it in such a way that gives the reader a clear understanding of its function. This will help you when writing unit tests for these functions in the future. That way you will know what should work and run as a positive test and what shouldn't. 
 
 ### 4. Describe what the function should return 
-* Again, you'd think it would be simple to remember. But, againn it should be a way to describe the type / class of data that is going to be returned. If you don't know what the function should return; it is neigh impossible to know how you should use it's result. 
+* Again, you'd think it would be simple to remember. But, again it should be a way to describe the type / class of data that is going to be returned. If you don't know what the function should return; it is nigh impossible to know how you should use it's result. 
 
 ### 5. Dream up an implementation of the function
 * Now that you have defined the ins / outs of the function. Why not create a reproducible example of your function. This will give the your user the ability to see how it works and what they expect from a tried and true function. 
@@ -33,7 +33,7 @@ All of these are suggestions and  will vary from company to preference to indivi
 
 ## Now how do we implement this in R?
 
-Down here we find an implementaiton of these rules that have been pulled from the roxygen2 package. Above every function that is coded, you should have the following added. This will give you the ability to properly understand what and why you have written. 
+Down here we find an implementation of these rules that have been pulled from the roxygen2 package. Above every function that is coded, you should have the following added. This will give you the ability to properly understand what and why you have written. 
 
 ```r
 #' Add together two numbers

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>packages on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/packages/</link>
-    <description>Recent content in packages on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Packages on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/packages/</link>
+    <description>Recent content in Packages on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/packages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/packages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tips on Creating Effective and Functional Documentation in R</title>
-      <link>https://generativecollective.com/posts/tips-creating-functional-documention/</link>
+      <link>http://localhost:1313/posts/tips-creating-functional-documentation/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/tips-creating-functional-documention/</guid>
-      <description>Just like any skill, there is a learning curve involved in creating effective communication. This involves the code written and the documentation of its usage. Writing functional code is a intricate thing to accomplish as a newbie. It takes time to know what is efficient and how to communicate it as such. Now, writing functional documentation is more complicated as there is a delicate balance between not reguritate what the code says, and giving usable pointers to the users on how a particular function was intended to be used.</description>
+      <guid>http://localhost:1313/posts/tips-creating-functional-documentation/</guid>
+      <description>&lt;p&gt;Just like any skill, there is a learning curve involved in creating effective communication. This involves the code written and the documentation of its usage. Writing functional code is a intricate thing to accomplish as a newbie. It takes time to know what is efficient and how to communicate it as such. Now, writing functional documentation is more complicated as there is a delicate balance between not regurgitating what the code says, and giving usable pointers to the users on how a particular function was intended to be used. It also, keeps you in line as the coder practices by actively thinking about that balance. Thus you help yourself keeping it modular and simple. So here are a few tips on how to writing effective documentation.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

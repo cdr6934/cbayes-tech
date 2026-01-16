@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>evernote on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/evernote/</link>
-    <description>Recent content in evernote on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Evernote on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/evernote/</link>
+    <description>Recent content in Evernote on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Take Back Your Time (Evernote)</title>
-      <link>https://generativecollective.com/posts/take-back-your-time-evernote/</link>
+      <link>http://localhost:1313/posts/take-back-your-time-evernote/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/take-back-your-time-evernote/</guid>
-      <description>You will find the following text originally posted on Medium</description>
+      <guid>http://localhost:1313/posts/take-back-your-time-evernote/</guid>
+      <description>&lt;p&gt;You will find the following text originally posted on &lt;a href=&#34;https://medium.com/@cdr6934/take-back-your-time-evernote-4f0f9a4083e9&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

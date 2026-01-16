@@ -1,6 +1,6 @@
 ---
 title: "Weekly Review"
-date: 8/22/2023
+date: '2023-08-22'
 draft: true
 ---
 

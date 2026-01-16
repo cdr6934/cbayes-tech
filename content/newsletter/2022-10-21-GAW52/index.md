@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Fractals, Blooms, and Spinning Parametrics'
 author: Chris Ried
-date: '2022-19-21'
+date: '2022-10-21'
 slug: generative-arts-52
 categories: 
 featured: 

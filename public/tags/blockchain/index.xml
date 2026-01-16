@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blockchain on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/blockchain/</link>
-    <description>Recent content in blockchain on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Blockchain on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blockchain Analytics</title>
-      <link>https://generativecollective.com/posts/blockchain-landscape-2022/</link>
+      <link>http://localhost:1313/posts/blockchain-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/blockchain-landscape-2022/</guid>
-      <description>The following post provides some context around the many many different technologies that are currently out there in the blockchain space. Much of these are changing on a monthly basis with new things coming out all the time. So I thought it might be good to have a document that tries to compile what this landscape currently looks like in 2022.
-Value Store Blockchain Bitcoin - open source payment network Blockchains (Multipurpose) Ethereum The current most popular Solana Currently one of the rising stars in the space, there are many interesting projects that are currently being worked on.</description>
+      <guid>http://localhost:1313/posts/blockchain-landscape-2022/</guid>
+      <description>&lt;p&gt;The following post provides some context around the many many different technologies that are currently out there in the blockchain space. Much of these are changing on a monthly basis with new things coming out all the time. So I thought it might be good to have a document that tries to compile what this landscape currently looks like in 2022.&lt;/p&gt;&#xA;&lt;h2 id=&#34;value-store-blockchain&#34;&gt;Value Store Blockchain&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bitcoin.org/en/&#34;&gt;Bitcoin&lt;/a&gt; - open source payment network&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;blockchains-multipurpose&#34;&gt;Blockchains (Multipurpose)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ethereum.org/en/&#34;&gt;Ethereum&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The current most popular&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://solana.com/&#34;&gt;Solana&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Currently one of the rising stars in the space, there are many interesting projects that are currently being worked on.&lt;/li&gt;&#xA;&lt;li&gt;Wallets:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cardano.org/&#34;&gt;Cardano&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;open-source-file-store&#34;&gt;Open Source File Store&lt;/h2&gt;&#xA;&lt;p&gt;The following&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Web3 Landscape (2022)</title>
-      <link>https://generativecollective.com/posts/web3-landscape-2022/</link>
+      <link>http://localhost:1313/posts/web3-landscape-2022/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/web3-landscape-2022/</guid>
-      <description>First of all, this continues to change and will be extremely interesting to work with over the next number of years. There are a number of interesting use cases ad much is about rethinking the web infrastructure.
-Wallets Metamask - Muun Security Coinbase - A marketplace L2 Blockchain Polygon - Finance Digital Collectables (NFTs) OpenSea - First and currently the foremost NFT platform supporting the ethereum and L2 Polygon chains </description>
+      <guid>http://localhost:1313/posts/web3-landscape-2022/</guid>
+      <description>&lt;p&gt;First of all, this continues to change and will be extremely interesting to work with over the next number of years. There are a number of interesting use cases ad much is about rethinking the web infrastructure.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wallets&#34;&gt;Wallets&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://metamask.io/&#34;&gt;Metamask&lt;/a&gt; -&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://muun.com/&#34;&gt;Muun&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;security&#34;&gt;Security&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.coinbase.com/&#34;&gt;Coinbase&lt;/a&gt; - A marketplace&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;l2-blockchain&#34;&gt;L2 Blockchain&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://polygon.technology/2&#34;&gt;Polygon&lt;/a&gt; -&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;finance&#34;&gt;Finance&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;digital-collectables-nfts&#34;&gt;Digital Collectables (NFTs)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://opensea.io/&#34;&gt;OpenSea&lt;/a&gt; - First and currently the foremost NFT platform supporting the ethereum and L2 Polygon chains&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

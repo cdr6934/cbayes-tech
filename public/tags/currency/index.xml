@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>currency on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/currency/</link>
-    <description>Recent content in currency on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Currency on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/currency/</link>
+    <description>Recent content in Currency on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/currency/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/currency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formatting Currencies in R</title>
-      <link>https://generativecollective.com/posts/2018-08-21-formatting-currencies-r/</link>
+      <link>http://localhost:1313/posts/2018-08-21-formatting-currencies-r/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/2018-08-21-formatting-currencies-r/</guid>
-      <description>Here are a few ways to format numbers in R for presentations. A few of theme can be accomplished using the paste function in R. I&amp;rsquo;ve found that there are a few different methods to do this.
-Using the scales package Using the scales packages from Hadley, there is a great function with various options including passing a vector.
-library(scales) dollar_format()(c(-100, 0.23, 1.456565, 2e3)) Formatting currency with separator Following is a simple function one can build and place in their utility function that will give formatted currency.</description>
+      <guid>http://localhost:1313/posts/2018-08-21-formatting-currencies-r/</guid>
+      <description>&lt;p&gt;Here are a few  ways to format numbers in R for presentations. A few of theme can be accomplished using the &lt;em&gt;paste&lt;/em&gt; function in R. I&amp;rsquo;ve found that there are a few different methods to do this.&lt;/p&gt;&#xA;&lt;h3 id=&#34;using-the-scales-package&#34;&gt;Using the scales package&lt;/h3&gt;&#xA;&lt;p&gt;Using the &lt;em&gt;scales&lt;/em&gt; packages from Hadley, there is a great function with various options including passing a vector.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#x9;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;scales&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#x9;&lt;span class=&#34;nf&#34;&gt;dollar_format&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()(&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;-100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;0.23&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1.456565&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;2e3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;formatting-currency-with-separator&#34;&gt;Formatting currency with separator&lt;/h3&gt;&#xA;&lt;p&gt;Following is a simple function one can build and place in their utility function that will give formatted currency.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

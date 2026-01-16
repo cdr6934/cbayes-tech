@@ -1,68 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>generative art on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/generative-art/</link>
-    <description>Recent content in generative art on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Generative Art on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/generative-art/</link>
+    <description>Recent content in Generative Art on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/generative-art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/generative-art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Create Generative Art</title>
-      <link>https://generativecollective.com/posts/2022-10-26-how-to-make-generative-art/</link>
+      <link>http://localhost:1313/posts/2022-10-26-how-to-make-generative-art/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/posts/2022-10-26-how-to-make-generative-art/</guid>
-      <description>Following are 10 ways how to start learning how to make generative art.
-Learn how to use a framework or software for generative art. There are a number of different ways to do this. Here is a mindmap as a guide. I&amp;rsquo;d suggest just looking at them and start searching for them.
-Take a few art classes There are plenty of places online such as Domestika or Skillshare that will help you find inspiration, and open your mind to new ideas of expression.</description>
+      <guid>http://localhost:1313/posts/2022-10-26-how-to-make-generative-art/</guid>
+      <description>&lt;p&gt;Following are 10 ways how to start learning how to make generative art.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Learn how to use a framework or software for generative art.&#xA;There are a number of different ways to do this. Here is a mindmap as a guide. I&amp;rsquo;d suggest just looking at them and start searching for them.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Take a few art classes&#xA;There are plenty of places online such as Domestika or Skillshare that will help you find inspiration, and open your mind to new ideas of expression. You can also find something in IRL in your city.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lined Up Imperfectly</title>
-      <link>https://generativecollective.com/projects/lined-up-imperfectly/</link>
+      <link>http://localhost:1313/projects/lined-up-imperfectly/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/lined-up-imperfectly/</guid>
-      <description>The collection has clothlike qualities but still lies in fundamental structures as we experiment and try to understand the intersection between the rigid and fluid.
-#1
-#2
-#3
-#4</description>
+      <guid>http://localhost:1313/projects/lined-up-imperfectly/</guid>
+      <description>&lt;p&gt;The collection has clothlike qualities but still lies in fundamental structures as we experiment and try to understand the intersection between the rigid and fluid.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643863569_95d0f62c31_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783743&#34;&gt;#1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644079718_82939232ff_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783746&#34;&gt;#2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643606966_b32023bf52_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783748&#34;&gt;#3&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643100912_892f547cf8_z_d.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;a href=&#34;https://objkt.com/asset/hicetnunc/783752&#34;&gt;#4&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Celestial Collisions</title>
-      <link>https://generativecollective.com/projects/celestial-collisions/</link>
+      <link>http://localhost:1313/projects/celestial-collisions/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/celestial-collisions/</guid>
-      <description>The following project spanned across 800 editions that were released on FXHash in Dec 2021. Conceptually, this was a meditation on scale and collision. Scale is intuitively misunderstood by humans. We have a poor judgement how big, or how small things really are as we do not have a reference of comparison.
-It may be due to the fact that these scales are recent discoveries.
-We have seen stars for millenium, but we have not had a good understanding at their size until&amp;hellip; The same goes for really small items.</description>
+      <guid>http://localhost:1313/projects/celestial-collisions/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52634330699_395f9fc45d_c_d.jpg&#34; alt=&#34;Celestial Collisions&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The following project spanned across 800 editions that were released on &lt;a href=&#34;https://www.fxhash.xyz/generative/3493&#34;&gt;FXHash&lt;/a&gt; in Dec 2021. Conceptually, this was a meditation on scale and collision. Scale is intuitively misunderstood by humans. We have a poor judgement how big, or how small things really are as we do not have a reference of comparison.&lt;/p&gt;&#xA;&lt;p&gt;It may be due to the fact that these scales are recent discoveries.&lt;/p&gt;&#xA;&lt;p&gt;We have seen stars for millenium, but we have not had a good understanding at their size until&amp;hellip; The same goes for really small items. It was less than 150 years ago when we realized the microscopic bacteria that pervades every surface of our lives.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geometric Meditations</title>
-      <link>https://generativecollective.com/projects/geometric-meditations/</link>
+      <link>http://localhost:1313/projects/geometric-meditations/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/geometric-meditations/</guid>
-      <description>These are some of my favorite things.. the grid and then building an image inside each of the grids has a sense of satisfaction to me. I am not quite sure what that is, but it is quite swell.</description>
+      <guid>http://localhost:1313/projects/geometric-meditations/</guid>
+      <description>&lt;p&gt;These are some of my favorite things.. the grid and then building an image inside each of the grids has a sense of satisfaction to me. I am not quite sure what that is, but it is quite swell.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644032610_c9c265a5a1_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643592816_c54f01ec5f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643592821_492b92d329_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644065428_e65abd0cca_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643849109_8b029e3879_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Like The Emperors Robe</title>
-      <link>https://generativecollective.com/projects/emperors-robe/</link>
+      <link>http://localhost:1313/projects/emperors-robe/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/projects/emperors-robe/</guid>
-      <description>The following generative piece appears like the robe of an emperor. When looking closely, you will find that each square is unique as it builds a web of fabric. You can find the pieces on Objkt</description>
+      <guid>http://localhost:1313/projects/emperors-robe/</guid>
+      <description>&lt;p&gt;The following generative piece appears like the robe of an emperor. When looking closely, you will find that each square is unique as it builds a web of fabric. You can find the pieces on &lt;a href=&#34;https://objkt.com/asset/hicetnunc/295122&#34;&gt;Objkt&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643909544_104dff498f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643146172_42c907c541_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644125908_7bd45c1932_b_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653476_3e50b0698c_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653491_1ab6b16cb7_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644091960_b91d09a81b_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653526_172e13c5a7_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644091960_b91d09a81b_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653491_1ab6b16cb7_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643653476_3e50b0698c_w_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52644125908_7bd45c1932_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643146172_42c907c541_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/52643909544_104dff498f_z_d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

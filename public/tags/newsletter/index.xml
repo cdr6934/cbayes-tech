@@ -1,41 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>newsletter on Artistic Portfolio of Chris Ried</title>
-    <link>https://generativecollective.com/tags/newsletter/</link>
-    <description>Recent content in newsletter on Artistic Portfolio of Chris Ried</description>
-    <image>
-      <url>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://generativecollective.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Newsletter on Artistic Portfolio of Chris Ried</title>
+    <link>http://localhost:1313/tags/newsletter/</link>
+    <description>Recent content in Newsletter on Artistic Portfolio of Chris Ried</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://generativecollective.com/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorists, Metaballs and Shader Prototyping</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-53/</link>
+      <link>http://localhost:1313/newsletter/generative-arts-53/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-53/</guid>
-      <description>Originally posted on Substack
-if(creation &amp;amp;&amp;amp; object of art &amp;amp;&amp;amp; algorithm &amp;amp;&amp;amp; one’s own algorithm) { include * an algorist* } else if(!creation &amp;amp;&amp;amp; !object of art &amp;amp;&amp;amp; !algorithm &amp;amp;&amp;amp; !one’s own algorithm) { exclude not an algorist }
-The above statement was the manifesto coined by J. P. Herbert and the mantra of The Algorists; a group formed in 1995 at SIGGRAPH which included (Roman Verostko, Jean-Pierre Hébert, and Ken Musgrave).</description>
+      <guid>http://localhost:1313/newsletter/generative-arts-53/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&#34;https://generative.substack.com/p/algorists-metaballs-and-shader-prototyping&#34;&gt;Substack&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;if(creation &amp;amp;&amp;amp; object of art &amp;amp;&amp;amp; algorithm &amp;amp;&amp;amp; one’s own algorithm) {&#xA;include * an algorist*&#xA;} else if(!creation &amp;amp;&amp;amp; !object of art &amp;amp;&amp;amp; !algorithm &amp;amp;&amp;amp; !one’s own algorithm) {&#xA;exclude &lt;em&gt;not an algorist&lt;/em&gt; }&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The above statement was the manifesto coined by J. P. Herbert and the mantra of The Algorists; a group  formed in 1995 at &lt;a href=&#34;https://www.siggraph.org/&#34;&gt;SIGGRAPH&lt;/a&gt; which included (Roman Verostko, Jean-Pierre Hébert, and Ken Musgrave).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cloud Fractals, Blooms, and Spinning Parametrics</title>
-      <link>https://generativecollective.com/newsletter/generative-arts-52/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://generativecollective.com/newsletter/generative-arts-52/</guid>
-      <description>The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips
-Hello fellow readers,
-Hope your Friday morning / afternoon is going well. There are a number of interesting links below for you to digest and swallow.
-And for just a little inspiration…
-If you haven’t seen the work by Tyler Boswell definitely check out his work September
-https://twitter.com/cosipiovasc0/status/1577370812624998400?s=20&amp;amp;t=JvG3Se3lkkg-r9GIcmg2Ew
-Have a wonderful weekend!</description>
+      <link>http://localhost:1313/newsletter/generative-arts-52/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/newsletter/generative-arts-52/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Creator’s Formula is made up of four key elements: defined purpose, experienced creativity, flawless execution, and emotional -Alan Phillips&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello fellow readers,&lt;/p&gt;&#xA;&lt;p&gt;Hope your Friday morning / afternoon is going well. There are a number of interesting links below for you to digest and swallow.&lt;/p&gt;&#xA;&lt;p&gt;And for just a little inspiration…&lt;/p&gt;&#xA;&lt;p&gt;If you haven’t seen the work by &lt;a href=&#34;https://www.teaboswell.com/&#34;&gt;Tyler Boswell&lt;/a&gt;  definitely check out his work &lt;a href=&#34;https://www.teaboswell.com/projects/september&#34;&gt;September&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://twitter.com/cosipiovasc0/status/1577370812624998400?s=20&amp;amp;t=JvG3Se3lkkg-r9GIcmg2Ew&#34;&gt;https://twitter.com/cosipiovasc0/status/1577370812624998400?s=20&amp;amp;t=JvG3Se3lkkg-r9GIcmg2Ew&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Have a wonderful weekend!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
